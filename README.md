@@ -1,5 +1,7 @@
 # Capstone_Final_Group_Project
 
+![foodmart icon](https://user-images.githubusercontent.com/105877888/194212188-13bd50bd-f078-464c-8bbe-8e88598a0667.jpeg)
+
 ## Data Source:
 - **Cost Prediction on acquiring Customers**
 - https://www.kaggle.com/datasets/ramjasmaurya/medias-cost-prediction-in-foodmart
