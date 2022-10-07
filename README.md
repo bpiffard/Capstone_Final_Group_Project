@@ -33,3 +33,25 @@ a planned series of newspaper articles, television interviews, etc. that are int
 eg1: a media campaign against sth---- The government has launched a national media campaign against smoking.
 eg2: a media campaign to do sth---- The president won the election despite a concerted media campaign to discredit him.
 ```
+
+## Schema:
+###  Data Reduction
+- Exploratory Factor Analysis: Python or R
+    combine the variables that are highly correlated with each other. 
+  - PCA: principal component analysis, variable reduction KMeans
+    **Possible group factors:** 
+    - 1.demographic:'marital_status', 'gender', 'total_children', 'education','occupation', 'houseowner'
+    - 2.products:'gross_weight','net_weight', 'recyclable_package', 'low_fat', 'units_per_case',
+    - 3.store size:'store_sqft', 'grocery_sqft','frozen_sqft', 'meat_sqft' 
+    - 4.location:'store_city', 'store_state'
+    - 5.sales:'store_sales(in millions)', 'store_cost(in millions)','unit_sales(in millions)'
+  - correlation matrix
+  - explained total variance, screeplot
+    - % of variance
+    - Accumulated %
+  - communatlities, component matrix
+  - rotated component matrix(varimax)
+    to determine which trait be assigned to which factor and name it by researcher.
+
+
+- Random Forest Model: feature importance
