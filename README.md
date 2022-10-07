@@ -54,4 +54,4 @@ eg2: a media campaign to do sth---- The president won the election despite a con
     to determine which trait be assigned to which factor and name it by researcher.
 
 
-- Random Forest Model: feature importance
+- Random Forest Model: classification and feature importance
