@@ -24,7 +24,7 @@
   …KNOW MORE FROM WIKI .
   ```
 
-## Terms:
+## Terms: [media campaign](https://dictionary.cambridge.org/dictionary/english/media-campaign)
 ```
 media campaign: 
 noun [ C ]   MARKETING, COMMUNICATIONS
