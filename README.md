@@ -23,3 +23,12 @@
 
   …KNOW MORE FROM WIKI .
   ```
+
+## Terms:
+```
+media campaign: 
+noun [ C ]   MARKETING, COMMUNICATIONS
+a planned series of newspaper articles, television interviews, etc. that are intended to achieve a particular aim:
+eg1: a media campaign against sth---- The government has launched a national media campaign against smoking.
+eg2: a media campaign to do sth---- The president won the election despite a concerted media campaign to discredit him.
+```
