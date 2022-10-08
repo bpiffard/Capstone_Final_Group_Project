@@ -40,7 +40,9 @@ eg2: a media campaign to do sth---- The president won the election despite a con
 ###  Feature Extraction / Demension reduction
 - PCA: principal component analysis, variable reduction KMeans
   - Sample Clusters 
-  - Scree Plot
+  - Scree Plot https://blog.bioturing.com/2018/06/18/how-to-read-pca-biplots-and-scree-plots/
+  - Feature Vector 
+  - Recast the data along PCs. https://builtin.com/data-science/step-step-explanation-principal-component-analysis
 - ??Exploratory Factor Analysis: Python or R
     combine the variables that are highly correlated with each other. 
  
