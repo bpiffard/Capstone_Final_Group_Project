@@ -35,6 +35,8 @@ eg2: a media campaign to do sth---- The president won the election despite a con
 ```
 
 ## Schema:
+### Standarlization
+
 ###  Feature Extraction / Demension reduction
 - PCA: principal component analysis, variable reduction KMeans
   - Sample Clusters 
