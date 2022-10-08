@@ -34,15 +34,26 @@ eg1: a media campaign against sth---- The government has launched a national med
 eg2: a media campaign to do sth---- The president won the election despite a concerted media campaign to discredit him.
 ```
 
+### Possible questions:
+1. Which kinds of people can be classified together? And which is the most effective media type for this clusters with same demographic traits?
+2. Which kinds of products can be classified together? And which is the best promotion for this product group?
+3. Among all features, What are the top 5 reasons affect the store sales? store size, product type, costumer's property?
+4. Which kind of promotion is more effective on different food category?
+
+
+
 ## Schema:
+
+### Filter country with USA
 ### Standarlization
 
 ###  Feature Extraction / Demension reduction
 - PCA: principal component analysis, variable reduction KMeans
   - Sample Clusters 
-  - Scree Plot https://blog.bioturing.com/2018/06/18/how-to-read-pca-biplots-and-scree-plots/
+  - Scree Plot 
   - Feature Vector 
-  - Recast the data along PCs. https://builtin.com/data-science/step-step-explanation-principal-component-analysis
+  - Recast the data along PCs. 
+  
 - ??Exploratory Factor Analysis: Python or R
     combine the variables that are highly correlated with each other. 
  
@@ -62,3 +73,15 @@ eg2: a media campaign to do sth---- The president won the election despite a con
 
 
 - Random Forest Model: classification and feature importance
+- Neural Network: classification
+
+
+
+
+- Tableau: pivot table visualization
+- SQL: queries
+- Javascript: add table to HTML and add filters. ---refer to UFOs
+- Dashboard: 
+  - add drop down menu and bar chart to display media campaign result for each food category. --- refer to Belly button biodiversity
+  - add pie chart for food category, food department, food family; store-type, gender, total-children, education, yearly income, member card....
+  - add bubble chart for food category vs promotion, bubble size-unit sales.
