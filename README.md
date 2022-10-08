@@ -74,7 +74,7 @@ eg2: a media campaign to do sth---- The president won the election despite a con
 
 - Random Forest Model: classification and feature importance
 - Neural Network: classification
-
+- Linear Regression: features-cost or features-store sales ---> predictions
 
 
 
