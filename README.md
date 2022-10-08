@@ -38,7 +38,7 @@ eg2: a media campaign to do sth---- The president won the election despite a con
 1. Which kinds of people can be classified together? And which is the most effective media type for this clusters with same demographic traits?
 2. Which kinds of products can be classified together? And which is the best promotion for this product group?
 3. Among all features, What are the top 5 reasons affect the store sales? store size, product type, costumer's property?
-4. Which kind of promotion is more effective on different food category?
+4. Which kind of promotion is most cost-effective on different food category?
 
 
 
