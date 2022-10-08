@@ -35,10 +35,13 @@ eg2: a media campaign to do sth---- The president won the election despite a con
 ```
 
 ## Schema:
-###  Data Reduction
-- Exploratory Factor Analysis: Python or R
+###  Feature Extraction / Demension reduction
+- PCA: principal component analysis, variable reduction KMeans
+  - Sample Clusters 
+  - Scree Plot
+- ??Exploratory Factor Analysis: Python or R
     combine the variables that are highly correlated with each other. 
-  - PCA: principal component analysis, variable reduction KMeans
+ 
     **Possible group factors:** 
     - 1.demographic:'marital_status', 'gender', 'total_children', 'education','occupation', 'houseowner'
     - 2.products:'gross_weight','net_weight', 'recyclable_package', 'low_fat', 'units_per_case',
