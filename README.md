@@ -53,24 +53,13 @@ eg2: a media campaign to do sth---- The president won the election despite a con
   - Scree Plot 
   - Feature Vector 
   - Recast the data along PCs. 
-  
-- ??Exploratory Factor Analysis: Python or R
-    combine the variables that are highly correlated with each other. 
  
-    **Possible group factors:** 
-    - 1.demographic:'marital_status', 'gender', 'total_children', 'education','occupation', 'houseowner'
-    - 2.products:'gross_weight','net_weight', 'recyclable_package', 'low_fat', 'units_per_case',
-    - 3.store size:'store_sqft', 'grocery_sqft','frozen_sqft', 'meat_sqft' 
-    - 4.location:'store_city', 'store_state'
-    - 5.sales:'store_sales(in millions)', 'store_cost(in millions)','unit_sales(in millions)'
-  - correlation matrix
-  - explained total variance, screeplot
-    - % of variance
-    - Accumulated %
-  - communatlities, component matrix
-  - rotated component matrix(varimax)
-    to determine which trait be assigned to which factor and name it by researcher.
-
+  **Possible group factors:** 
+  - 1.demographic:'marital_status', 'gender', 'total_children', 'education','occupation', 'houseowner'
+  - 2.products:'gross_weight','net_weight', 'recyclable_package', 'low_fat', 'units_per_case',
+  - 3.store size:'store_sqft', 'grocery_sqft','frozen_sqft', 'meat_sqft' 
+  - 4.location:'store_city', 'store_state'
+  - 5.sales:'store_sales(in millions)', 'store_cost(in millions)','unit_sales(in millions)'
 
 - Random Forest Model: classification and feature importance
 - Neural Network: classification
