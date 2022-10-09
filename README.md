@@ -68,7 +68,9 @@ eg2: a media campaign to do sth---- The president won the election despite a con
 
 
 - Tableau: pivot table visualization
-- SQL: queries
+- SQL: 
+  - create multiple tables and build ERD.
+  - do queries
 - Javascript: add table to HTML and add filters. ---refer to UFOs
 - Dashboard: 
   - add drop down menu and bar chart to display media campaign result for each food category. --- refer to Belly button biodiversity
