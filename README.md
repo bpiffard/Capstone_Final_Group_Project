@@ -63,14 +63,14 @@ eg2: a media campaign to do sth---- The president won the election despite a con
 
 - Random Forest Model: classification and feature importance
 - Neural Network: classification
-- Linear Regression: features-cost or features-store sales ---> predictions
+- Multiple Linear Regression: features-cost or features-store sales ---> predictions
 
 
-
-- Tableau: pivot table visualization
 - SQL: 
   - create multiple tables and build ERD.
-  - do queries
+  - do queries and visualize in Tableau
+- Tableau: pivot table visualization
+
 - Javascript: add table to HTML and add filters. ---refer to UFOs
 - Dashboard: 
   - add drop down menu and bar chart to display media campaign result for each food category. --- refer to Belly button biodiversity
