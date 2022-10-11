@@ -29,7 +29,6 @@ CREATE TABLE store_data (
 	store_cost_in_millions FLOAT NOT NULL,
     unit_sales_in_millions FLOAT NOT NULL,
 	promotion_name VARCHAR NOT NULL,
-	sales_country VARCHAR NOT NULL,
 	brand_name VARCHAR NOT NULL,
 	SRP FLOAT NOT NULL,
 	gross_weight FLOAT NOT NULL,
