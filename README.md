@@ -34,11 +34,11 @@ eg1: a media campaign against sth---- The government has launched a national med
 eg2: a media campaign to do sth---- The president won the election despite a concerted media campaign to discredit him.
 ```
 
-[One-Hot Enconding vs. Label Encoding](https://www.analyticsvidhya.com/blog/2020/03/one-hot-encoding-vs-label-encoding-using-scikit-learn/)
+[One Hot Enconding vs. Label Encoding](https://www.analyticsvidhya.com/blog/2020/03/one-hot-encoding-vs-label-encoding-using-scikit-learn/)
 - Label Encoding
   - each label is assigned a unique integer based on **alphabetical ordering**.
   - is a process of converting categories to numbers.
-- One-Hot Encoding 
+- One Hot Encoding 
   - simply creates **additional features** based on the number of unique values in the categorical feature. 
   - every unique value in the category will be added as a feature.
   - is the process of creating dummy variables.
@@ -51,11 +51,11 @@ eg2: a media campaign to do sth---- The president won the election despite a con
   - The categorical feature is ordinal (like Jr. kg, Sr. kg, Primary school, high school)
   - The number of categories is quite large as one-hot encoding can lead to high memory consumption
 
-[oneHotEncoder vs. get_dummies](https://pythonsimplified.com/difference-between-onehotencoder-and-get_dummies/)
+[OneHotEncoder vs. get_dummies](https://pythonsimplified.com/difference-between-onehotencoder-and-get_dummies/)
 - The get_dummies can’t handle the unknown category during the transformation natively. You have to apply some techniques to handle it. But it is not efficient. On the other hand, OneHotEncoder will natively handle unknown categories. All you need to do is set the parameter handle_unknown='ignore' to OneHotEncoder.
 - If you want to put your machine learning model into production, Scikit-learn Pipeline will be very useful. But, get_dummies is not compatible with the Scikit-learn pipeline. It requires you to create your own transformer. On the other hand, OneHotEncoder is compatible with the Scikit-learn pipeline.
 
-[StandardScaler, MinMaxScaler and RobustScaler](https://www.geeksforgeeks.org/standardscaler-minmaxscaler-and-robustscaler-techniques-ml/)(https://stackoverflow.com/questions/51237635/difference-between-standard-scaler-and-minmaxscaler)
+[StandardScaler, MinMaxScaler and RobustScaler](https://www.geeksforgeeks.org/standardscaler-minmaxscaler-and-robustscaler-techniques-ml/)[link2](https://stackoverflow.com/questions/51237635/difference-between-standard-scaler-and-minmaxscaler)
 
 - MinMaxScaler
   -(feature_range = (0, 1)) will transform each value in the column proportionally within the range [0,1]. Use this as the first scaler choice to transform a feature, as it will preserve the shape of the dataset (no distortion).
