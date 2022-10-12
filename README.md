@@ -54,14 +54,22 @@
   
 ### Machine Learning
 - **Random Forest Regression Model** 
-  - target variable: cost
+  - target variable: `cost`
   - feature variables: customer demographic data
-- **Multiple Linear Regression** 
-  - target variable: cost, store sales
-  - feature variables: customer demographic data, store data 
-- with "member card" as target variable and customer demographic data as feature variables
-- **Deep Neuron Network** with "member card" as target variable and customer demographic data as feature variables
-- **Random Forest Multi-Label Classifier**  with different target variables:"promotion_name, food_category, and gender. Easy to try different variables so I tried a few, aah. I created a different model for each dataset
+- **Multiple Linear Regression Model** 
+  - target variable: `cost`, `store sales`
+  - feature variables: customer demographic data, store data
+- **Random Forest Regression Model
+  - target variable: `member card`
+  - feature variables: customer demographic data
+- **Deep Neuron Network** 
+  - target variable: `member card`
+  - feature variables: customer demographic data
+- **Random Forest Multi-Label Classifier**  
+  - target variable: `promotion_name`, `food_category`, and `gender`
+  - feature variables: several attempts of customer demographic data
+
+- with different target variables:"promotion_name, food_category, and gender. Easy to try different variables so I tried a few, aah. I created a different model for each dataset
 
 
 - SQL: 
