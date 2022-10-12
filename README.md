@@ -9,7 +9,7 @@
 - Class time
 - Shared phone numbers for emergencies
 
-#Branches
+# Branches
 - celine
 - Stella-Branch
 - gm_branch
