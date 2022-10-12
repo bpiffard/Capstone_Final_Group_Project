@@ -69,8 +69,6 @@
   - target variable: `promotion_name`, `food_category`, and `gender`
   - feature variables: several attempts of customer demographic data
 
-- with different target variables:"promotion_name, food_category, and gender. Easy to try different variables so I tried a few, aah. I created a different model for each dataset
-
 
 - SQL: 
   - create multiple tables and build ERD.
