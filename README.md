@@ -2,21 +2,6 @@
 
 ![foodmart icon](https://user-images.githubusercontent.com/105877888/194212188-13bd50bd-f078-464c-8bbe-8e88598a0667.jpeg)
 
-# Team communication protocols
-
-- Green Group Channel in Slack
-- Zoom meetings – time will be scheduled as needed
-- Class time
-- Shared phone numbers for emergencies
-
-# Branches
-- celine
-- Stella-Branch
-- gm_branch
-- calos_branch
-- berns_branch
-- Hilda_branch
-
 ## Data Source:
 - **Cost Prediction on acquiring Customers**
 - https://www.kaggle.com/datasets/ramjasmaurya/medias-cost-prediction-in-foodmart
@@ -50,8 +35,10 @@
 
 ## Schema:
 
-### Filter country with USA
-### Standarlization
+### Data Preprocessing
+- Filter country with USA
+- Change column names
+- One-Hot Encoding and Label Encoding
 
 ###  Feature Extraction / Demension reduction
 - PCA: principal component analysis, variable reduction KMeans
@@ -61,15 +48,20 @@
   - Recast the data along PCs. 
  
   **Possible group factors:** 
-  - 1.demographic:'marital_status', 'gender', 'total_children', 'education','occupation', 'houseowner'
+  - 1.customer segment based on member card status
   - 2.products:'gross_weight','net_weight', 'recyclable_package', 'low_fat', 'units_per_case',
-  - 3.store size:'store_sqft', 'grocery_sqft','frozen_sqft', 'meat_sqft' 
-  - 4.location:'store_city', 'store_state'
-  - 5.sales:'store_sales(in millions)', 'store_cost(in millions)','unit_sales(in millions)'
-
-- Random Forest Model: classification and feature importance
-- Neural Network: classification
-- Multiple Linear Regression: features-cost or features-store sales ---> predictions
+  - 3.store segments:'store_sqft', 'grocery_sqft','frozen_sqft', 'meat_sqft', 'store_city', 'store_state', 'store_sales(in millions)', 'store_cost(in millions)','unit_sales(in millions)'
+  
+### Machine Learning
+- **Random Forest Regression Model** 
+  - target variable: cost
+  - feature variables: customer demographic data
+- **Multiple Linear Regression** 
+  - target variable: cost, store sales
+  - feature variables: customer demographic data, store data 
+- with "member card" as target variable and customer demographic data as feature variables
+- **Deep Neuron Network** with "member card" as target variable and customer demographic data as feature variables
+- **Random Forest Multi-Label Classifier**  with different target variables:"promotion_name, food_category, and gender. Easy to try different variables so I tried a few, aah. I created a different model for each dataset
 
 
 - SQL: 
