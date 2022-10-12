@@ -2,6 +2,20 @@
 
 ![foodmart icon](https://user-images.githubusercontent.com/105877888/194212188-13bd50bd-f078-464c-8bbe-8e88598a0667.jpeg)
 
+## Team communication protocols
+- Green Group Channel in Slack
+- Zoom meetings – time will be scheduled as needed
+- Class time
+-  Shared phone numbers for emergencies
+
+## Branches
+-	celine
+-	Stella-Branch
+-	gm_branch
+-	calos_branch
+-	berns_branch
+-	Hilda_branch
+
 ## Data Source:
   - **Cost Prediction on acquiring Customers**
   - https://www.kaggle.com/datasets/ramjasmaurya/medias-cost-prediction-in-foodmart
