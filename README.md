@@ -41,6 +41,7 @@
 - One-Hot Encoding and Label Encoding
 
 ###  Feature Extraction / Demension reduction
+- Heatmap 
 - PCA: principal component analysis, variable reduction KMeans
   - Sample Clusters 
   - Scree Plot 
@@ -48,9 +49,9 @@
   - Recast the data along PCs. 
  
   **Possible group factors:** 
-  - 1.customer segment based on member card status
-  - 2.products:'gross_weight','net_weight', 'recyclable_package', 'low_fat', 'units_per_case',
-  - 3.store segments:'store_sqft', 'grocery_sqft','frozen_sqft', 'meat_sqft', 'store_city', 'store_state', 'store_sales(in millions)', 'store_cost(in millions)','unit_sales(in millions)'
+  - customer segment based on member card status
+  - products:'gross_weight','net_weight', 'recyclable_package', 'low_fat', 'units_per_case',
+  - store segments:'store_sqft', 'grocery_sqft','frozen_sqft', 'meat_sqft', 'store_city', 'store_state', 'store_sales(in millions)', 'store_cost(in millions)','unit_sales(in millions)'
   
 ### Machine Learning
 - **Random Forest Regression Model** 
