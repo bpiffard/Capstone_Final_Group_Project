@@ -52,7 +52,7 @@
   - 4.location:'store_city', 'store_state'
   - 5.sales:'store_sales(in millions)', 'store_cost(in millions)','unit_sales(in millions)'
 
-- Random Forest Model: classification and feature importance
+- Random Forest Model: RandomForestRegression Model with “cost" as a Target Variable and customer demographic data as feature variables
 - Neural Network: classification
 - Multiple Linear Regression: features-cost or features-store sales ---> predictions
 
