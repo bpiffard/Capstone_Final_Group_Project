@@ -51,7 +51,7 @@
     - customer feature correlation
     - store feature correlation 
     
-  - PCA(principal component analysis) and KMeans
+  - PCA(principal component analysis)
     - Sample Clusters 
     - Scree Plot 
     - Feature Vector 
@@ -78,6 +78,8 @@
 - **Random Forest Multi-Label Classifier**  
   - target variable: `promotion_name`, `food_category`, and `gender`
   - feature variables: several attempts of customer demographic data
+- **KMeans clustering**
+  - feature variables: customer demographic data
 
 
 ### Database: SQL 
