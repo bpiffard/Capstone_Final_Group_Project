@@ -78,7 +78,7 @@
 - **Random Forest Multi-Label Classifier**  
   - target variable: `promotion_name`, `food_category`, and `gender`
   - feature variables: several attempts of customer demographic data
-- **KMeans clustering**
+- **KMeans Clustering**
   - feature variables: customer demographic data
 
 
