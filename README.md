@@ -69,7 +69,7 @@
 - **Multiple Linear Regression Model** 
   - target variable: `cost`, `store sales`
   - feature variables: customer demographic data, store data
-- **Random Forest Regression Model
+- **Random Forest Regression Model**
   - target variable: `member card`
   - feature variables: customer demographic data
 - **Deep Neuron Network** 
