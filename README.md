@@ -92,4 +92,4 @@
   - Dashboard: 
     - add drop down menu and bar chart to display media campaign result for each food category. --- refer to Belly button biodiversity
     - add pie chart for food category, food department, food family; store-type, gender, total-children, education, yearly income, member card....
-    - add bubble chart for food category vs promotion, bubble size-unit sales.
+    - add bubble chart for food category vs promotion, bubble size-unit sales. 
