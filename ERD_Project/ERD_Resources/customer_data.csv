@@ -1,0 +1,2721 @@
+,marital_status,gender,total_children,education,member_card,occupation,houseowner,avg_cars_at_home_approx,avg_yearly_income,num_children_at_home
+0,M,F,1,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,1
+1,M,M,0,Bachelors Degree,Silver,Professional,Y,4,$50K - $70K,0
+2,S,F,4,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+3,M,F,2,High School Degree,Bronze,Manual,Y,2,$30K - $50K,2
+4,M,M,0,Partial High School,Bronze,Skilled Manual,N,2,$30K - $50K,0
+5,M,F,2,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,2
+6,S,F,4,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,0
+7,S,M,1,Partial High School,Bronze,Manual,Y,4,$50K - $70K,0
+8,S,F,2,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,0
+9,S,F,3,Graduate Degree,Bronze,Professional,N,1,$70K - $90K,0
+10,S,M,2,Graduate Degree,Bronze,Professional,N,3,$70K - $90K,0
+11,S,M,1,Bachelors Degree,Bronze,Professional,N,2,$110K - $130K,0
+12,S,F,4,High School Degree,Bronze,Skilled Manual,N,1,$30K - $50K,0
+13,S,F,0,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,0
+14,S,F,4,High School Degree,Bronze,Professional,Y,4,$130K - $150K,0
+15,M,M,3,High School Degree,Bronze,Skilled Manual,Y,2,$50K - $70K,0
+16,S,F,1,Partial High School,Silver,Professional,Y,3,$150K +,0
+17,M,M,0,Partial High School,Normal,Manual,N,0,$10K - $30K,0
+18,M,M,2,High School Degree,Silver,Management,N,2,$130K - $150K,2
+19,M,M,2,High School Degree,Bronze,Professional,Y,3,$70K - $90K,2
+20,M,M,3,High School Degree,Golden,Professional,Y,3,$130K - $150K,3
+21,M,F,3,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,3
+22,S,F,3,High School Degree,Bronze,Manual,N,1,$30K - $50K,0
+23,M,F,4,Bachelors Degree,Bronze,Professional,Y,1,$30K - $50K,1
+24,S,M,2,Partial High School,Bronze,Management,Y,2,$90K - $110K,0
+25,M,F,2,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,1
+26,S,M,1,Partial High School,Normal,Skilled Manual,N,2,$50K - $70K,0
+27,S,M,4,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,0
+28,M,M,5,High School Degree,Golden,Manual,N,3,$30K - $50K,5
+29,S,M,5,High School Degree,Bronze,Manual,N,3,$30K - $50K,0
+30,M,M,1,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,0
+31,M,M,2,Partial High School,Normal,Manual,Y,0,$10K - $30K,2
+32,S,M,1,Partial College,Bronze,Management,Y,1,$30K - $50K,0
+33,M,M,4,High School Degree,Golden,Professional,Y,2,$90K - $110K,4
+34,S,M,2,Bachelors Degree,Bronze,Management,Y,1,$110K - $130K,0
+35,M,F,4,Partial College,Golden,Professional,Y,3,$30K - $50K,4
+36,S,M,0,Partial High School,Bronze,Manual,Y,1,$30K - $50K,0
+37,M,M,1,High School Degree,Bronze,Management,Y,4,$130K - $150K,0
+38,M,M,2,Partial College,Bronze,Management,N,1,$30K - $50K,0
+39,S,F,1,Graduate Degree,Silver,Professional,Y,3,$150K +,0
+40,S,F,0,Bachelors Degree,Normal,Professional,N,4,$50K - $70K,0
+41,S,M,2,Partial College,Bronze,Manual,N,2,$30K - $50K,0
+42,S,F,0,High School Degree,Silver,Manual,N,3,$30K - $50K,0
+43,S,F,1,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,0
+44,S,F,4,Bachelors Degree,Bronze,Professional,Y,3,$110K - $130K,0
+45,S,F,1,Partial High School,Silver,Manual,Y,1,$10K - $30K,0
+46,S,M,4,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,0
+47,M,F,1,High School Degree,Bronze,Professional,Y,2,$110K - $130K,0
+48,S,F,2,Partial High School,Bronze,Professional,Y,3,$130K - $150K,0
+49,M,M,2,Bachelors Degree,Bronze,Management,N,2,$70K - $90K,1
+50,S,F,2,Bachelors Degree,Golden,Management,N,3,$110K - $130K,0
+51,S,F,3,Partial High School,Bronze,Management,N,2,$70K - $90K,0
+52,S,M,0,High School Degree,Bronze,Professional,Y,1,$70K - $90K,0
+53,M,M,5,High School Degree,Bronze,Manual,Y,3,$30K - $50K,5
+54,S,M,3,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,0
+55,M,F,2,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+56,M,F,0,Partial High School,Normal,Manual,Y,0,$10K - $30K,0
+57,S,M,0,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+58,M,M,4,High School Degree,Golden,Skilled Manual,Y,3,$30K - $50K,4
+59,M,F,1,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,1
+61,M,F,3,Bachelors Degree,Bronze,Management,N,4,$50K - $70K,2
+62,M,F,2,Bachelors Degree,Bronze,Management,Y,2,$30K - $50K,2
+63,M,F,4,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,4
+64,M,M,3,Partial High School,Bronze,Manual,N,2,$30K - $50K,1
+66,M,M,1,Bachelors Degree,Golden,Management,Y,3,$70K - $90K,1
+67,S,M,3,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+69,M,F,3,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,2
+70,M,M,2,Graduate Degree,Bronze,Management,Y,4,$70K - $90K,1
+71,S,F,2,Partial College,Normal,Manual,N,4,$30K - $50K,0
+72,S,F,4,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,0
+73,S,F,2,Graduate Degree,Bronze,Professional,Y,3,$110K - $130K,0
+74,S,F,2,Bachelors Degree,Bronze,Management,Y,2,$70K - $90K,0
+75,M,M,4,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,1
+76,M,M,5,High School Degree,Golden,Skilled Manual,Y,2,$30K - $50K,5
+77,M,M,4,Partial College,Silver,Skilled Manual,N,3,$50K - $70K,1
+78,S,M,3,Bachelors Degree,Bronze,Professional,N,4,$50K - $70K,0
+79,M,M,1,Graduate Degree,Bronze,Professional,Y,4,$130K - $150K,1
+80,S,F,2,High School Degree,Normal,Skilled Manual,Y,0,$10K - $30K,0
+81,M,M,0,High School Degree,Normal,Professional,N,3,$130K - $150K,0
+82,M,F,2,Bachelors Degree,Bronze,Professional,N,3,$70K - $90K,1
+83,M,M,0,Graduate Degree,Bronze,Management,Y,2,$70K - $90K,0
+84,S,F,2,Partial College,Bronze,Management,N,4,$30K - $50K,0
+85,S,M,3,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+86,S,M,1,Partial College,Bronze,Management,N,1,$30K - $50K,0
+87,S,F,1,High School Degree,Silver,Management,Y,4,$150K +,0
+88,M,M,4,Partial College,Bronze,Manual,Y,2,$30K - $50K,1
+89,S,M,3,Partial High School,Normal,Manual,Y,0,$10K - $30K,0
+90,S,M,0,High School Degree,Bronze,Skilled Manual,N,4,$50K - $70K,0
+91,M,F,0,Partial College,Normal,Professional,N,2,$30K - $50K,0
+92,M,M,3,Partial College,Bronze,Clerical,N,4,$30K - $50K,2
+93,S,F,1,Bachelors Degree,Golden,Professional,Y,1,$110K - $130K,0
+94,S,M,4,High School Degree,Bronze,Manual,Y,4,$30K - $50K,0
+95,S,F,5,High School Degree,Bronze,Skilled Manual,N,4,$30K - $50K,0
+96,M,M,0,High School Degree,Bronze,Manual,Y,3,$30K - $50K,0
+97,S,F,1,High School Degree,Bronze,Professional,Y,3,$110K - $130K,0
+98,M,F,4,High School Degree,Golden,Skilled Manual,Y,3,$30K - $50K,3
+99,M,M,4,Partial High School,Normal,Manual,Y,1,$10K - $30K,4
+100,M,F,2,High School Degree,Bronze,Management,N,3,$110K - $130K,2
+101,M,M,2,Partial High School,Normal,Manual,Y,1,$10K - $30K,1
+102,S,M,4,Bachelors Degree,Bronze,Management,N,4,$50K - $70K,0
+103,M,F,1,High School Degree,Normal,Management,Y,2,$70K - $90K,0
+104,S,M,2,Partial College,Bronze,Skilled Manual,N,1,$30K - $50K,0
+105,S,M,0,High School Degree,Bronze,Skilled Manual,N,4,$30K - $50K,0
+106,M,F,4,Partial College,Bronze,Skilled Manual,Y,3,$30K - $50K,4
+107,S,F,3,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,0
+108,S,F,2,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,0
+109,S,M,4,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+110,S,F,1,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+111,M,F,4,High School Degree,Bronze,Manual,Y,4,$30K - $50K,4
+112,M,M,1,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+113,S,M,2,Bachelors Degree,Normal,Management,Y,0,$10K - $30K,0
+114,S,F,3,Partial College,Bronze,Clerical,N,4,$30K - $50K,0
+115,S,F,4,High School Degree,Golden,Management,Y,2,$70K - $90K,0
+116,S,F,2,High School Degree,Bronze,Manual,N,1,$30K - $50K,0
+117,S,M,2,High School Degree,Bronze,Manual,N,2,$30K - $50K,0
+119,S,M,5,Partial College,Bronze,Manual,N,3,$30K - $50K,0
+120,M,M,0,Partial High School,Normal,Manual,Y,0,$10K - $30K,0
+121,M,M,3,High School Degree,Bronze,Manual,N,4,$30K - $50K,1
+122,M,M,0,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+123,S,M,1,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,0
+124,S,M,4,Bachelors Degree,Bronze,Management,Y,4,$50K - $70K,0
+125,M,M,2,Partial High School,Bronze,Manual,Y,3,$30K - $50K,1
+126,M,F,4,Bachelors Degree,Silver,Professional,Y,3,$70K - $90K,3
+128,M,M,4,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+130,S,F,4,Partial High School,Bronze,Professional,Y,3,$90K - $110K,0
+131,M,F,1,Bachelors Degree,Bronze,Management,N,1,$50K - $70K,1
+132,M,M,5,Partial High School,Golden,Skilled Manual,Y,0,$10K - $30K,1
+133,S,M,2,Partial College,Bronze,Professional,N,3,$30K - $50K,0
+134,M,M,3,High School Degree,Bronze,Management,N,4,$150K +,0
+135,M,M,3,High School Degree,Golden,Professional,N,3,$130K - $150K,3
+136,S,M,1,High School Degree,Bronze,Professional,Y,1,$130K - $150K,0
+137,M,F,5,High School Degree,Bronze,Manual,Y,4,$30K - $50K,3
+138,M,F,0,Partial High School,Silver,Management,N,2,$110K - $130K,0
+139,S,M,3,Bachelors Degree,Bronze,Professional,Y,1,$70K - $90K,0
+140,M,F,2,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,2
+141,S,M,5,Bachelors Degree,Bronze,Management,N,2,$50K - $70K,0
+144,S,F,4,Bachelors Degree,Golden,Professional,N,2,$50K - $70K,0
+145,S,M,2,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+146,S,F,2,Bachelors Degree,Bronze,Management,Y,2,$50K - $70K,0
+147,M,M,4,High School Degree,Golden,Manual,Y,3,$30K - $50K,4
+149,M,M,4,Bachelors Degree,Golden,Professional,Y,3,$50K - $70K,4
+150,M,M,3,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,2
+151,S,F,0,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+152,M,M,4,Partial College,Bronze,Professional,N,2,$30K - $50K,1
+153,S,F,3,Bachelors Degree,Bronze,Management,N,1,$70K - $90K,0
+154,S,M,1,High School Degree,Bronze,Manual,Y,4,$30K - $50K,0
+155,S,F,3,High School Degree,Bronze,Professional,Y,1,$90K - $110K,0
+156,M,M,1,High School Degree,Normal,Manual,N,4,$30K - $50K,0
+157,S,F,2,High School Degree,Bronze,Manual,Y,1,$30K - $50K,0
+158,M,F,3,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+160,M,M,2,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,2
+161,M,F,1,Partial High School,Bronze,Skilled Manual,Y,4,$30K - $50K,1
+162,S,M,4,Bachelors Degree,Bronze,Professional,N,3,$70K - $90K,0
+163,M,F,1,Bachelors Degree,Silver,Professional,Y,2,$50K - $70K,1
+166,S,M,4,Partial High School,Bronze,Management,N,2,$130K - $150K,0
+168,M,M,1,Graduate Degree,Bronze,Management,N,3,$90K - $110K,1
+169,S,F,2,High School Degree,Bronze,Manual,Y,4,$30K - $50K,0
+170,M,F,0,Bachelors Degree,Bronze,Management,Y,2,$70K - $90K,0
+171,M,F,1,Bachelors Degree,Bronze,Professional,Y,3,$90K - $110K,1
+172,S,F,1,High School Degree,Bronze,Manual,N,3,$30K - $50K,0
+173,S,M,3,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,0
+174,S,M,2,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+175,M,F,1,Partial College,Silver,Clerical,N,3,$30K - $50K,1
+178,M,F,1,Partial College,Bronze,Manual,Y,2,$30K - $50K,0
+179,S,M,4,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+180,S,M,1,High School Degree,Normal,Manual,Y,2,$10K - $30K,0
+181,S,M,4,Partial College,Golden,Professional,Y,3,$70K - $90K,0
+182,M,F,1,Partial College,Bronze,Professional,N,3,$110K - $130K,1
+183,M,M,1,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,1
+184,M,M,1,Bachelors Degree,Golden,Professional,Y,4,$150K +,1
+185,S,M,1,Partial High School,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+186,S,M,4,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+187,M,F,2,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,1
+188,S,F,4,High School Degree,Normal,Skilled Manual,N,4,$30K - $50K,0
+189,S,M,4,High School Degree,Bronze,Professional,Y,2,$110K - $130K,0
+191,S,M,3,High School Degree,Bronze,Manual,N,4,$30K - $50K,0
+192,S,M,3,Bachelors Degree,Bronze,Professional,N,3,$70K - $90K,0
+194,M,M,3,Partial High School,Bronze,Manual,N,2,$10K - $30K,2
+195,M,F,4,High School Degree,Golden,Manual,Y,3,$30K - $50K,4
+196,S,F,2,Partial High School,Bronze,Professional,Y,1,$70K - $90K,0
+200,M,F,1,Partial High School,Silver,Manual,N,1,$10K - $30K,1
+202,M,M,0,Partial High School,Bronze,Management,Y,4,$90K - $110K,0
+204,S,M,5,Partial High School,Bronze,Professional,Y,3,$130K - $150K,0
+205,M,M,3,Bachelors Degree,Bronze,Professional,Y,3,$90K - $110K,1
+207,S,F,5,High School Degree,Bronze,Manual,N,3,$30K - $50K,0
+208,M,M,4,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,1
+209,M,F,3,Bachelors Degree,Golden,Professional,Y,3,$50K - $70K,3
+210,M,M,3,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+211,S,F,1,Partial College,Bronze,Skilled Manual,N,3,$50K - $70K,0
+212,S,F,4,Partial High School,Bronze,Manual,Y,3,$30K - $50K,0
+214,S,F,1,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,0
+215,S,F,3,High School Degree,Silver,Skilled Manual,N,1,$30K - $50K,0
+216,S,M,3,Partial High School,Normal,Manual,N,2,$10K - $30K,0
+217,S,F,4,High School Degree,Silver,Manual,Y,2,$30K - $50K,0
+218,M,M,3,High School Degree,Normal,Professional,Y,3,$130K - $150K,0
+219,M,F,3,Partial College,Golden,Professional,Y,4,$30K - $50K,3
+220,S,M,3,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+221,S,F,4,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+222,S,F,1,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,0
+223,S,F,3,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+224,S,M,2,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,0
+226,M,F,1,High School Degree,Bronze,Manual,Y,4,$30K - $50K,0
+228,M,M,3,Bachelors Degree,Bronze,Professional,Y,3,$110K - $130K,2
+230,S,F,2,Bachelors Degree,Bronze,Professional,Y,3,$30K - $50K,0
+231,S,F,5,High School Degree,Normal,Manual,N,4,$50K - $70K,0
+232,S,F,1,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+234,S,F,2,Partial College,Bronze,Management,N,3,$30K - $50K,0
+235,S,M,3,High School Degree,Normal,Skilled Manual,N,2,$10K - $30K,0
+236,M,M,4,Partial High School,Normal,Manual,Y,0,$10K - $30K,3
+237,S,M,1,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,0
+238,M,F,2,Partial College,Bronze,Management,Y,3,$70K - $90K,1
+240,M,M,3,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+241,S,M,4,High School Degree,Silver,Skilled Manual,N,3,$30K - $50K,0
+244,M,M,5,Bachelors Degree,Normal,Management,Y,4,$50K - $70K,3
+245,M,M,5,High School Degree,Golden,Manual,Y,2,$30K - $50K,5
+246,M,M,5,Partial High School,Normal,Manual,Y,0,$10K - $30K,2
+247,M,F,5,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,1
+248,M,M,3,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,1
+249,M,F,3,Partial College,Bronze,Management,Y,3,$130K - $150K,1
+250,S,F,1,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+251,M,M,2,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,2
+252,M,F,1,Partial College,Bronze,Professional,Y,2,$30K - $50K,1
+253,S,F,3,High School Degree,Normal,Manual,N,0,$10K - $30K,0
+256,M,F,0,Bachelors Degree,Bronze,Professional,N,1,$70K - $90K,0
+257,S,F,1,Bachelors Degree,Bronze,Management,Y,1,$110K - $130K,0
+258,M,F,4,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,2
+261,M,M,4,Bachelors Degree,Golden,Management,Y,2,$50K - $70K,4
+262,S,F,3,Partial High School,Normal,Manual,N,2,$10K - $30K,0
+265,M,F,3,Partial High School,Bronze,Manual,Y,1,$10K - $30K,3
+267,S,F,2,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+269,S,F,5,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+271,M,F,2,Partial High School,Bronze,Professional,Y,2,$110K - $130K,2
+272,M,M,1,Graduate Degree,Bronze,Professional,N,3,$110K - $130K,1
+273,M,F,2,Graduate Degree,Bronze,Professional,Y,2,$70K - $90K,1
+274,S,F,2,High School Degree,Bronze,Professional,N,1,$70K - $90K,0
+275,S,F,5,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+277,S,F,2,Partial High School,Golden,Skilled Manual,Y,1,$30K - $50K,0
+279,M,M,2,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,2
+280,S,M,3,Partial High School,Bronze,Management,N,1,$70K - $90K,0
+281,M,F,2,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+282,M,F,0,Partial College,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+283,M,M,1,Partial College,Bronze,Clerical,N,2,$30K - $50K,1
+284,M,F,4,High School Degree,Golden,Manual,Y,2,$30K - $50K,4
+285,S,M,4,High School Degree,Silver,Professional,Y,3,$90K - $110K,0
+287,M,F,2,Partial High School,Golden,Manual,Y,2,$10K - $30K,1
+288,S,F,4,Partial College,Bronze,Clerical,Y,3,$30K - $50K,0
+289,S,M,0,High School Degree,Bronze,Management,Y,3,$110K - $130K,0
+290,S,M,1,Partial High School,Golden,Manual,N,1,$10K - $30K,0
+291,M,M,1,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+293,S,M,2,Partial College,Bronze,Clerical,N,3,$30K - $50K,0
+294,S,M,2,Partial College,Normal,Management,Y,3,$30K - $50K,0
+296,M,F,2,High School Degree,Bronze,Professional,N,4,$110K - $130K,2
+297,S,M,2,Bachelors Degree,Silver,Professional,Y,3,$150K +,0
+298,S,F,1,Bachelors Degree,Normal,Professional,Y,1,$10K - $30K,0
+299,M,F,1,Graduate Degree,Bronze,Professional,Y,3,$70K - $90K,0
+300,S,F,0,Partial High School,Normal,Manual,N,2,$10K - $30K,0
+301,S,F,5,Bachelors Degree,Bronze,Management,Y,2,$50K - $70K,0
+302,M,F,2,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,2
+303,M,M,4,High School Degree,Bronze,Skilled Manual,Y,1,$30K - $50K,1
+304,S,M,2,Bachelors Degree,Bronze,Professional,Y,2,$130K - $150K,0
+306,S,M,2,Partial High School,Normal,Manual,N,2,$10K - $30K,0
+307,M,F,4,Partial High School,Bronze,Management,Y,2,$110K - $130K,1
+308,M,M,2,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,2
+310,S,M,4,Bachelors Degree,Golden,Professional,N,2,$50K - $70K,0
+311,S,F,2,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+312,M,M,2,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+313,S,F,3,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+314,M,F,0,High School Degree,Bronze,Manual,N,2,$50K - $70K,0
+315,S,M,0,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,0
+316,M,M,5,High School Degree,Silver,Skilled Manual,Y,0,$10K - $30K,5
+317,M,M,3,Partial High School,Golden,Manual,Y,1,$30K - $50K,2
+319,M,M,3,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,1
+320,M,M,1,Bachelors Degree,Bronze,Professional,Y,1,$70K - $90K,1
+321,S,M,3,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,0
+322,S,M,0,Bachelors Degree,Bronze,Management,N,2,$30K - $50K,0
+324,S,M,3,Partial College,Golden,Professional,N,4,$30K - $50K,0
+325,M,F,2,High School Degree,Bronze,Manual,N,3,$50K - $70K,2
+327,S,F,0,Partial College,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+328,M,M,1,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+329,M,M,4,Partial High School,Golden,Manual,Y,3,$50K - $70K,3
+330,M,F,0,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+331,M,F,1,Partial High School,Bronze,Skilled Manual,N,4,$30K - $50K,1
+332,M,F,4,High School Degree,Normal,Manual,Y,3,$30K - $50K,3
+333,M,F,1,High School Degree,Bronze,Professional,Y,2,$130K - $150K,0
+335,M,M,3,High School Degree,Normal,Manual,Y,3,$30K - $50K,2
+336,M,F,3,Partial College,Golden,Skilled Manual,Y,3,$30K - $50K,1
+337,M,M,5,Partial High School,Normal,Manual,N,1,$10K - $30K,5
+338,M,M,0,Partial High School,Silver,Skilled Manual,Y,1,$30K - $50K,0
+340,S,F,0,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,0
+341,M,M,3,High School Degree,Golden,Manual,Y,2,$30K - $50K,3
+345,S,F,2,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+346,S,M,4,High School Degree,Bronze,Manual,N,1,$30K - $50K,0
+347,M,F,3,Partial College,Golden,Professional,Y,3,$30K - $50K,3
+349,S,F,5,High School Degree,Golden,Skilled Manual,Y,4,$30K - $50K,0
+350,M,M,2,Partial High School,Bronze,Manual,N,4,$50K - $70K,1
+352,M,M,3,Partial High School,Bronze,Skilled Manual,Y,1,$10K - $30K,3
+353,M,F,4,High School Degree,Golden,Skilled Manual,N,2,$30K - $50K,3
+354,S,F,4,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+355,S,M,2,High School Degree,Silver,Manual,N,2,$30K - $50K,0
+356,M,M,3,Bachelors Degree,Golden,Professional,Y,4,$110K - $130K,3
+359,S,F,4,High School Degree,Bronze,Manual,N,4,$30K - $50K,0
+361,M,F,0,High School Degree,Bronze,Manual,Y,3,$30K - $50K,0
+364,S,M,1,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,0
+367,S,M,2,Partial College,Bronze,Management,N,2,$30K - $50K,0
+368,M,F,0,Partial High School,Bronze,Skilled Manual,N,3,$30K - $50K,0
+369,S,M,3,Partial High School,Bronze,Professional,Y,3,$90K - $110K,0
+370,S,F,5,Bachelors Degree,Bronze,Management,N,3,$70K - $90K,0
+371,S,F,1,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+373,S,F,1,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+374,M,F,1,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,0
+375,M,F,5,Bachelors Degree,Silver,Professional,Y,3,$70K - $90K,1
+378,M,F,0,High School Degree,Bronze,Skilled Manual,Y,1,$30K - $50K,0
+379,S,M,1,Partial College,Silver,Manual,Y,2,$30K - $50K,0
+382,M,M,2,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,1
+384,S,F,3,Bachelors Degree,Bronze,Management,Y,1,$50K - $70K,0
+386,S,F,2,Bachelors Degree,Bronze,Professional,Y,1,$90K - $110K,0
+387,M,F,4,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,0
+389,M,M,4,Bachelors Degree,Silver,Professional,N,2,$130K - $150K,4
+391,M,M,5,Partial High School,Bronze,Management,Y,3,$70K - $90K,2
+392,S,M,3,Partial High School,Bronze,Professional,Y,3,$130K - $150K,0
+393,M,M,3,Partial High School,Normal,Manual,Y,0,$10K - $30K,1
+394,M,M,4,High School Degree,Normal,Professional,Y,3,$130K - $150K,3
+395,M,F,3,Partial High School,Golden,Professional,N,3,$90K - $110K,3
+396,S,M,1,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+398,M,M,1,Bachelors Degree,Bronze,Management,N,2,$50K - $70K,1
+399,M,M,1,Partial High School,Normal,Manual,Y,0,$10K - $30K,1
+400,S,F,2,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+402,M,F,4,High School Degree,Golden,Professional,Y,4,$90K - $110K,4
+403,S,M,1,Bachelors Degree,Bronze,Management,N,3,$70K - $90K,0
+404,S,M,2,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,0
+405,M,M,4,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,4
+406,S,M,3,Partial High School,Silver,Skilled Manual,N,3,$30K - $50K,0
+408,S,M,4,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,0
+409,M,M,2,High School Degree,Bronze,Professional,Y,1,$130K - $150K,0
+411,M,F,2,Bachelors Degree,Normal,Professional,N,0,$10K - $30K,1
+412,S,M,4,Bachelors Degree,Normal,Professional,Y,1,$10K - $30K,0
+413,M,F,1,Partial High School,Silver,Professional,Y,3,$110K - $130K,1
+414,S,M,4,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+415,S,M,0,Graduate Degree,Bronze,Professional,Y,4,$50K - $70K,0
+416,S,M,1,Partial High School,Normal,Manual,Y,0,$10K - $30K,0
+417,M,M,1,High School Degree,Bronze,Manual,N,2,$30K - $50K,0
+418,M,F,1,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,1
+419,S,F,4,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+420,S,M,3,High School Degree,Silver,Manual,N,2,$30K - $50K,0
+421,S,F,0,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,0
+422,M,F,1,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,1
+424,S,M,2,High School Degree,Silver,Professional,N,1,$150K +,0
+425,M,F,2,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,2
+426,M,M,4,High School Degree,Golden,Skilled Manual,Y,4,$30K - $50K,1
+427,S,M,0,Partial High School,Silver,Management,N,1,$110K - $130K,0
+428,S,M,4,Bachelors Degree,Bronze,Professional,Y,2,$30K - $50K,0
+429,S,M,1,Partial College,Bronze,Professional,N,3,$30K - $50K,0
+430,M,M,2,Bachelors Degree,Bronze,Professional,Y,3,$90K - $110K,2
+432,S,F,1,Partial High School,Normal,Manual,N,0,$10K - $30K,0
+433,M,M,1,Graduate Degree,Bronze,Professional,Y,2,$70K - $90K,1
+434,S,M,0,High School Degree,Silver,Skilled Manual,Y,3,$30K - $50K,0
+435,M,F,3,Partial High School,Golden,Skilled Manual,N,1,$10K - $30K,1
+436,S,M,2,Bachelors Degree,Bronze,Professional,N,3,$70K - $90K,0
+437,M,M,0,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,0
+438,S,F,2,Partial College,Bronze,Management,Y,3,$90K - $110K,0
+439,M,M,4,Bachelors Degree,Bronze,Professional,Y,3,$30K - $50K,2
+440,M,F,3,Partial College,Bronze,Professional,Y,3,$130K - $150K,2
+441,S,F,4,Bachelors Degree,Bronze,Management,N,2,$70K - $90K,0
+442,S,M,4,High School Degree,Silver,Management,Y,1,$110K - $130K,0
+443,M,M,0,Partial College,Silver,Skilled Manual,N,3,$30K - $50K,0
+445,S,M,5,High School Degree,Bronze,Manual,Y,4,$30K - $50K,0
+446,S,M,2,Graduate Degree,Bronze,Professional,Y,2,$70K - $90K,0
+447,S,M,2,Partial High School,Bronze,Professional,Y,2,$110K - $130K,0
+449,M,F,3,Bachelors Degree,Silver,Professional,N,2,$50K - $70K,1
+450,S,F,2,High School Degree,Normal,Manual,N,2,$50K - $70K,0
+451,M,F,0,High School Degree,Normal,Manual,Y,1,$10K - $30K,0
+452,M,F,5,Partial High School,Golden,Professional,Y,3,$130K - $150K,4
+453,M,M,3,Partial High School,Silver,Manual,Y,0,$10K - $30K,2
+454,M,F,3,Bachelors Degree,Silver,Professional,Y,2,$50K - $70K,3
+455,M,M,0,Bachelors Degree,Normal,Management,N,2,$50K - $70K,0
+456,S,F,2,Partial High School,Bronze,Manual,N,4,$30K - $50K,0
+457,S,M,0,Partial College,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+458,S,M,2,Graduate Degree,Bronze,Professional,N,2,$130K - $150K,0
+459,M,M,0,Partial College,Bronze,Professional,Y,1,$30K - $50K,0
+460,S,M,4,Bachelors Degree,Bronze,Management,N,4,$70K - $90K,0
+462,M,M,1,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,1
+465,M,F,4,Partial High School,Normal,Manual,N,2,$10K - $30K,1
+467,S,F,3,Partial High School,Bronze,Skilled Manual,N,3,$30K - $50K,0
+468,S,F,2,Partial College,Bronze,Professional,Y,2,$110K - $130K,0
+469,M,M,2,Partial High School,Normal,Manual,Y,1,$10K - $30K,2
+470,S,M,3,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+471,S,M,3,Bachelors Degree,Silver,Professional,N,3,$130K - $150K,0
+472,S,F,3,High School Degree,Bronze,Manual,N,2,$30K - $50K,0
+473,M,M,2,Bachelors Degree,Bronze,Management,N,3,$50K - $70K,1
+475,S,M,5,High School Degree,Golden,Professional,N,2,$70K - $90K,0
+476,M,M,5,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,0
+477,S,M,2,Partial High School,Normal,Manual,N,0,$10K - $30K,0
+478,S,M,2,Bachelors Degree,Silver,Professional,N,3,$150K +,0
+479,S,F,2,Graduate Degree,Bronze,Professional,Y,2,$70K - $90K,0
+480,M,F,0,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+481,M,M,4,Partial High School,Normal,Manual,Y,2,$50K - $70K,4
+482,S,F,1,Bachelors Degree,Silver,Professional,N,3,$150K +,0
+483,S,F,2,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,0
+485,S,F,1,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+486,S,M,1,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+487,M,M,4,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,2
+488,S,F,1,Graduate Degree,Bronze,Professional,Y,2,$110K - $130K,0
+489,M,M,3,Partial High School,Bronze,Manual,N,3,$30K - $50K,1
+490,M,M,1,Partial High School,Silver,Management,Y,1,$110K - $130K,1
+491,S,F,3,High School Degree,Bronze,Management,Y,2,$130K - $150K,0
+492,M,F,4,Partial High School,Golden,Skilled Manual,Y,4,$30K - $50K,4
+493,S,F,1,High School Degree,Bronze,Manual,N,2,$30K - $50K,0
+494,M,F,4,Partial High School,Normal,Manual,Y,2,$10K - $30K,4
+495,M,M,1,Graduate Degree,Bronze,Management,N,2,$70K - $90K,1
+496,M,F,4,High School Degree,Normal,Skilled Manual,Y,3,$30K - $50K,4
+497,S,F,3,Partial High School,Silver,Professional,Y,4,$90K - $110K,0
+498,S,M,1,High School Degree,Bronze,Manual,Y,3,$30K - $50K,0
+499,M,F,5,Partial College,Golden,Professional,N,3,$30K - $50K,5
+500,S,F,2,Bachelors Degree,Normal,Professional,N,3,$50K - $70K,0
+501,M,M,4,High School Degree,Silver,Professional,Y,3,$110K - $130K,3
+502,M,F,0,Graduate Degree,Silver,Professional,Y,3,$70K - $90K,0
+503,M,M,4,High School Degree,Silver,Manual,Y,3,$30K - $50K,4
+505,M,F,1,Graduate Degree,Bronze,Professional,Y,1,$70K - $90K,0
+507,M,F,2,Partial High School,Golden,Professional,N,3,$90K - $110K,2
+508,M,F,0,Graduate Degree,Bronze,Management,Y,2,$90K - $110K,0
+509,S,M,3,High School Degree,Bronze,Manual,Y,4,$30K - $50K,0
+510,S,F,4,High School Degree,Bronze,Management,Y,2,$110K - $130K,0
+511,S,M,4,Partial College,Bronze,Clerical,Y,2,$50K - $70K,0
+512,S,F,4,High School Degree,Bronze,Manual,Y,3,$30K - $50K,0
+514,M,F,4,High School Degree,Bronze,Management,Y,2,$110K - $130K,2
+515,S,F,2,High School Degree,Normal,Manual,N,2,$30K - $50K,0
+516,S,M,4,High School Degree,Bronze,Professional,N,3,$70K - $90K,0
+517,S,F,2,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+518,S,M,5,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+519,S,F,2,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,0
+520,M,F,1,Bachelors Degree,Bronze,Management,Y,2,$50K - $70K,1
+521,S,M,2,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,0
+522,S,F,4,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,0
+523,S,M,2,Bachelors Degree,Bronze,Management,Y,3,$70K - $90K,0
+524,M,F,5,Partial High School,Normal,Manual,Y,1,$10K - $30K,3
+525,S,F,4,High School Degree,Bronze,Manual,N,3,$30K - $50K,0
+526,M,F,1,High School Degree,Bronze,Manual,N,4,$30K - $50K,1
+527,S,F,2,Graduate Degree,Bronze,Professional,Y,2,$90K - $110K,0
+529,S,F,2,High School Degree,Bronze,Manual,N,3,$30K - $50K,0
+530,M,M,5,Bachelors Degree,Golden,Management,Y,3,$50K - $70K,5
+531,M,F,2,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,2
+533,M,M,3,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,2
+534,M,M,5,Partial College,Golden,Skilled Manual,Y,2,$30K - $50K,3
+535,S,M,2,High School Degree,Silver,Manual,N,3,$30K - $50K,0
+536,M,F,0,Bachelors Degree,Golden,Professional,N,2,$50K - $70K,0
+537,M,M,4,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,1
+538,M,M,3,High School Degree,Bronze,Professional,Y,3,$90K - $110K,2
+539,M,F,0,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+540,M,F,1,Partial College,Bronze,Skilled Manual,Y,3,$30K - $50K,1
+541,M,F,2,Partial High School,Golden,Professional,N,3,$150K +,2
+542,M,M,3,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,1
+543,S,M,0,Bachelors Degree,Silver,Professional,Y,2,$50K - $70K,0
+545,S,F,5,Bachelors Degree,Normal,Management,Y,1,$70K - $90K,0
+546,S,M,4,High School Degree,Bronze,Manual,N,4,$30K - $50K,0
+547,S,F,5,High School Degree,Normal,Skilled Manual,N,4,$30K - $50K,0
+548,S,F,4,Bachelors Degree,Bronze,Professional,Y,1,$110K - $130K,0
+549,S,F,5,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+550,S,F,0,Partial High School,Silver,Manual,N,2,$30K - $50K,0
+551,M,F,3,Partial College,Bronze,Skilled Manual,Y,4,$30K - $50K,2
+552,S,M,0,Bachelors Degree,Normal,Professional,Y,2,$50K - $70K,0
+553,M,F,4,Partial High School,Normal,Manual,N,1,$10K - $30K,4
+554,S,F,2,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+555,M,F,3,Bachelors Degree,Bronze,Professional,Y,4,$70K - $90K,2
+556,M,F,3,High School Degree,Bronze,Manual,N,3,$30K - $50K,2
+557,S,M,3,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+558,S,M,4,High School Degree,Bronze,Skilled Manual,N,4,$30K - $50K,0
+559,S,M,4,Graduate Degree,Bronze,Professional,N,2,$70K - $90K,0
+560,M,F,3,Bachelors Degree,Golden,Management,Y,2,$50K - $70K,3
+561,M,F,5,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,1
+562,S,M,2,High School Degree,Bronze,Skilled Manual,N,1,$30K - $50K,0
+563,M,F,3,Bachelors Degree,Golden,Management,Y,3,$50K - $70K,0
+564,M,F,3,Partial High School,Silver,Manual,Y,1,$10K - $30K,2
+566,S,M,5,Partial College,Bronze,Professional,N,3,$30K - $50K,0
+567,M,M,4,Partial High School,Golden,Management,Y,3,$150K +,4
+568,S,F,4,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+569,S,F,0,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+570,M,M,5,High School Degree,Golden,Skilled Manual,Y,4,$30K - $50K,4
+571,M,M,3,High School Degree,Golden,Manual,N,4,$30K - $50K,3
+574,S,F,1,Partial High School,Normal,Manual,N,2,$10K - $30K,0
+576,S,M,3,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,0
+577,M,M,2,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,2
+578,S,M,0,Partial College,Bronze,Clerical,Y,3,$30K - $50K,0
+579,S,M,1,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+580,M,M,1,Bachelors Degree,Bronze,Management,Y,3,$90K - $110K,0
+581,M,F,1,Partial High School,Bronze,Manual,N,3,$50K - $70K,1
+582,S,F,1,High School Degree,Normal,Professional,N,1,$70K - $90K,0
+584,S,F,0,Partial College,Bronze,Professional,Y,4,$30K - $50K,0
+586,S,F,2,Bachelors Degree,Bronze,Professional,N,2,$30K - $50K,0
+587,M,M,0,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+589,S,F,3,Bachelors Degree,Bronze,Management,N,3,$50K - $70K,0
+591,M,M,4,Partial High School,Bronze,Professional,Y,1,$90K - $110K,1
+592,S,M,0,Bachelors Degree,Golden,Professional,Y,3,$50K - $70K,0
+594,M,M,2,Graduate Degree,Bronze,Professional,Y,3,$70K - $90K,0
+595,S,F,0,Bachelors Degree,Silver,Management,Y,3,$150K +,0
+596,M,M,2,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,2
+599,M,M,3,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,1
+600,S,M,2,Partial High School,Golden,Skilled Manual,Y,2,$30K - $50K,0
+601,M,M,0,High School Degree,Bronze,Manual,Y,4,$30K - $50K,0
+603,M,M,5,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,1
+604,S,F,4,Graduate Degree,Bronze,Management,Y,1,$130K - $150K,0
+605,S,M,3,Bachelors Degree,Bronze,Management,N,3,$70K - $90K,0
+606,S,F,2,Bachelors Degree,Bronze,Professional,Y,2,$110K - $130K,0
+607,S,F,0,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,0
+608,S,M,5,High School Degree,Bronze,Professional,Y,4,$130K - $150K,0
+609,S,F,1,High School Degree,Golden,Skilled Manual,Y,3,$30K - $50K,0
+611,M,F,1,Partial College,Bronze,Management,N,1,$30K - $50K,0
+612,M,F,3,Partial College,Bronze,Skilled Manual,Y,3,$30K - $50K,3
+613,M,M,1,Partial High School,Normal,Manual,Y,1,$10K - $30K,1
+614,S,M,5,Bachelors Degree,Silver,Professional,N,3,$70K - $90K,0
+615,M,F,4,Graduate Degree,Silver,Management,Y,4,$70K - $90K,4
+616,S,M,2,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,0
+617,M,F,2,Partial High School,Normal,Manual,Y,2,$10K - $30K,1
+618,M,F,4,Partial High School,Normal,Manual,Y,1,$10K - $30K,2
+619,M,F,5,Partial High School,Golden,Manual,Y,4,$30K - $50K,5
+620,M,F,1,High School Degree,Silver,Manual,N,3,$30K - $50K,1
+621,M,F,4,Graduate Degree,Golden,Professional,Y,3,$90K - $110K,4
+622,M,M,4,Partial High School,Golden,Skilled Manual,Y,2,$30K - $50K,4
+623,S,M,4,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,0
+624,M,M,2,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,1
+627,S,M,1,Graduate Degree,Bronze,Professional,Y,2,$70K - $90K,0
+628,M,F,4,High School Degree,Normal,Skilled Manual,N,3,$30K - $50K,1
+629,M,M,3,Bachelors Degree,Golden,Management,Y,4,$50K - $70K,3
+630,S,M,4,High School Degree,Bronze,Manual,N,3,$30K - $50K,0
+631,M,M,0,Partial High School,Bronze,Management,Y,1,$130K - $150K,0
+635,M,F,4,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,2
+636,M,F,2,Partial High School,Golden,Manual,N,1,$10K - $30K,2
+637,S,F,3,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,0
+638,S,M,3,High School Degree,Bronze,Manual,N,2,$30K - $50K,0
+639,M,M,4,Partial High School,Golden,Manual,Y,2,$30K - $50K,4
+640,M,M,3,Bachelors Degree,Bronze,Professional,N,4,$50K - $70K,2
+641,S,F,4,High School Degree,Normal,Manual,N,2,$30K - $50K,0
+642,S,M,3,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,0
+643,M,F,1,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,1
+646,M,F,4,High School Degree,Golden,Skilled Manual,Y,3,$30K - $50K,4
+648,M,M,3,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,3
+650,M,F,1,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,1
+651,S,F,5,High School Degree,Bronze,Management,Y,1,$70K - $90K,0
+654,M,M,5,Bachelors Degree,Golden,Professional,Y,4,$50K - $70K,3
+658,S,M,5,Bachelors Degree,Bronze,Professional,Y,1,$70K - $90K,0
+659,M,F,2,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,1
+663,S,M,4,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+664,M,F,3,Bachelors Degree,Bronze,Management,Y,1,$50K - $70K,0
+665,S,F,1,Partial College,Bronze,Professional,Y,1,$90K - $110K,0
+666,M,F,3,High School Degree,Normal,Skilled Manual,Y,3,$30K - $50K,3
+668,M,F,1,Partial High School,Silver,Manual,Y,1,$10K - $30K,1
+669,S,M,2,High School Degree,Bronze,Management,N,2,$70K - $90K,0
+670,S,M,3,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,0
+671,S,M,1,High School Degree,Silver,Skilled Manual,N,2,$30K - $50K,0
+672,M,F,3,Bachelors Degree,Bronze,Professional,Y,1,$30K - $50K,2
+673,S,F,1,Partial High School,Normal,Manual,Y,0,$10K - $30K,0
+674,M,F,3,Partial High School,Normal,Manual,Y,2,$10K - $30K,3
+675,M,F,4,Graduate Degree,Bronze,Professional,Y,2,$70K - $90K,1
+676,M,F,4,High School Degree,Bronze,Manual,Y,3,$30K - $50K,1
+677,S,M,2,High School Degree,Bronze,Manual,N,3,$30K - $50K,0
+678,M,M,3,High School Degree,Normal,Manual,Y,3,$30K - $50K,3
+683,M,F,4,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,1
+685,M,F,5,High School Degree,Silver,Professional,Y,3,$130K - $150K,5
+686,M,M,5,High School Degree,Golden,Skilled Manual,Y,4,$30K - $50K,5
+688,S,M,1,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+690,M,F,4,High School Degree,Normal,Manual,N,0,$10K - $30K,2
+693,M,M,2,Bachelors Degree,Golden,Professional,Y,1,$70K - $90K,0
+694,M,M,2,Partial High School,Bronze,Manual,Y,4,$30K - $50K,0
+695,M,M,0,High School Degree,Bronze,Skilled Manual,Y,1,$30K - $50K,0
+696,M,M,2,Bachelors Degree,Golden,Management,N,3,$150K +,1
+697,S,M,2,High School Degree,Silver,Management,N,2,$150K +,0
+698,M,M,5,High School Degree,Golden,Professional,N,3,$110K - $130K,4
+699,S,M,1,High School Degree,Bronze,Manual,N,3,$30K - $50K,0
+700,M,M,1,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,1
+701,S,M,1,High School Degree,Golden,Manual,Y,2,$30K - $50K,0
+702,M,F,4,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,1
+703,M,F,0,Bachelors Degree,Silver,Professional,Y,2,$130K - $150K,0
+704,M,M,4,Bachelors Degree,Golden,Professional,Y,2,$70K - $90K,0
+705,M,M,4,Partial High School,Normal,Manual,N,2,$10K - $30K,1
+706,M,M,1,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,1
+707,S,M,4,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,0
+711,M,F,0,Bachelors Degree,Bronze,Management,Y,1,$50K - $70K,0
+712,S,M,3,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,0
+713,M,M,2,Partial College,Bronze,Skilled Manual,Y,4,$30K - $50K,2
+714,M,M,5,High School Degree,Bronze,Manual,Y,2,$30K - $50K,2
+715,S,M,0,Graduate Degree,Bronze,Professional,Y,1,$70K - $90K,0
+716,M,F,1,Bachelors Degree,Bronze,Professional,N,4,$70K - $90K,1
+717,S,M,4,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+720,S,M,1,Partial College,Bronze,Clerical,Y,3,$30K - $50K,0
+721,M,F,2,Partial College,Bronze,Clerical,Y,2,$30K - $50K,0
+722,S,M,0,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,0
+723,M,F,3,Bachelors Degree,Silver,Professional,Y,3,$130K - $150K,3
+724,S,M,0,Partial College,Bronze,Professional,Y,2,$130K - $150K,0
+725,M,F,5,Bachelors Degree,Bronze,Management,Y,2,$70K - $90K,0
+727,M,M,1,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,1
+728,S,F,1,Bachelors Degree,Silver,Professional,Y,4,$70K - $90K,0
+729,M,M,1,Partial High School,Bronze,Manual,Y,2,$10K - $30K,1
+730,M,F,4,Partial High School,Silver,Manual,Y,3,$30K - $50K,4
+731,S,M,3,High School Degree,Silver,Manual,N,3,$30K - $50K,0
+738,S,F,1,Bachelors Degree,Bronze,Professional,N,4,$50K - $70K,0
+739,M,M,2,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+740,M,F,4,High School Degree,Bronze,Manual,N,2,$30K - $50K,2
+744,M,F,4,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,1
+746,M,F,1,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,0
+748,S,F,0,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,0
+752,S,M,4,Bachelors Degree,Bronze,Management,Y,1,$110K - $130K,0
+753,M,F,4,High School Degree,Golden,Manual,N,2,$30K - $50K,4
+754,M,F,3,High School Degree,Bronze,Manual,Y,3,$30K - $50K,3
+756,S,M,1,Partial College,Silver,Management,Y,2,$110K - $130K,0
+757,M,F,4,Bachelors Degree,Bronze,Professional,N,4,$50K - $70K,0
+758,S,M,5,Partial High School,Silver,Management,Y,3,$110K - $130K,0
+759,S,M,2,High School Degree,Bronze,Skilled Manual,Y,2,$50K - $70K,0
+762,S,F,4,Partial College,Bronze,Professional,Y,2,$50K - $70K,0
+763,M,M,3,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,3
+764,S,F,1,High School Degree,Silver,Manual,N,2,$30K - $50K,0
+765,S,M,2,High School Degree,Bronze,Skilled Manual,Y,1,$30K - $50K,0
+766,S,F,4,Partial High School,Normal,Manual,N,0,$10K - $30K,0
+767,S,M,5,Partial High School,Golden,Skilled Manual,N,2,$10K - $30K,0
+768,S,M,1,Bachelors Degree,Bronze,Professional,Y,4,$90K - $110K,0
+770,M,M,4,Bachelors Degree,Bronze,Management,Y,4,$50K - $70K,1
+771,M,F,1,Partial College,Bronze,Clerical,Y,2,$30K - $50K,1
+778,S,M,2,High School Degree,Bronze,Manual,N,4,$50K - $70K,0
+782,M,M,4,High School Degree,Golden,Skilled Manual,Y,4,$30K - $50K,4
+783,S,M,2,Partial High School,Normal,Manual,Y,0,$10K - $30K,0
+784,M,M,3,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,1
+786,M,F,4,High School Degree,Golden,Manual,Y,3,$50K - $70K,4
+787,M,M,2,High School Degree,Bronze,Skilled Manual,N,4,$30K - $50K,2
+788,M,F,4,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,3
+789,S,F,4,Partial High School,Bronze,Management,Y,3,$130K - $150K,0
+790,S,F,2,High School Degree,Bronze,Management,N,2,$70K - $90K,0
+791,M,F,4,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,1
+792,M,M,2,Bachelors Degree,Bronze,Management,Y,4,$70K - $90K,1
+794,S,F,1,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+795,M,M,5,Partial High School,Normal,Professional,Y,4,$130K - $150K,5
+796,M,F,1,High School Degree,Bronze,Manual,Y,3,$30K - $50K,0
+798,M,M,4,Partial High School,Golden,Professional,Y,3,$130K - $150K,4
+800,M,F,1,Bachelors Degree,Golden,Professional,Y,3,$130K - $150K,1
+804,M,F,3,Graduate Degree,Golden,Management,Y,4,$70K - $90K,3
+806,S,F,2,Partial High School,Normal,Manual,N,2,$10K - $30K,0
+807,M,M,2,Partial High School,Bronze,Skilled Manual,Y,3,$30K - $50K,2
+808,S,M,4,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,0
+810,S,F,1,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+812,S,F,4,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,0
+813,M,F,4,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,3
+814,S,M,4,Partial High School,Bronze,Manual,N,3,$30K - $50K,0
+818,M,M,3,Bachelors Degree,Bronze,Management,N,2,$70K - $90K,0
+825,S,M,3,Partial High School,Bronze,Manual,Y,2,$30K - $50K,0
+827,M,M,2,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,2
+829,S,F,2,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,0
+834,M,F,2,High School Degree,Bronze,Professional,Y,3,$70K - $90K,2
+836,M,F,5,Bachelors Degree,Silver,Professional,Y,4,$50K - $70K,5
+838,S,F,2,Graduate Degree,Silver,Management,N,1,$70K - $90K,0
+839,M,M,2,Bachelors Degree,Normal,Professional,Y,1,$10K - $30K,0
+840,M,M,2,Partial College,Bronze,Professional,Y,1,$30K - $50K,1
+842,M,M,0,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,0
+843,S,M,4,High School Degree,Bronze,Skilled Manual,Y,1,$30K - $50K,0
+849,M,M,5,High School Degree,Golden,Manual,Y,3,$30K - $50K,4
+851,S,F,4,Partial College,Bronze,Professional,N,2,$30K - $50K,0
+854,M,F,5,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,1
+861,M,M,2,Partial College,Bronze,Professional,Y,3,$30K - $50K,2
+862,S,F,1,Bachelors Degree,Bronze,Professional,Y,1,$110K - $130K,0
+863,S,F,1,High School Degree,Bronze,Manual,Y,3,$30K - $50K,0
+864,M,F,3,Bachelors Degree,Golden,Management,Y,4,$70K - $90K,3
+865,S,F,2,Partial High School,Bronze,Professional,N,3,$90K - $110K,0
+867,M,F,2,Bachelors Degree,Bronze,Professional,Y,2,$110K - $130K,2
+868,M,F,2,Graduate Degree,Bronze,Professional,N,2,$90K - $110K,2
+870,M,F,4,Partial High School,Silver,Skilled Manual,Y,1,$10K - $30K,1
+871,S,F,0,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+872,M,M,5,Bachelors Degree,Bronze,Professional,N,3,$70K - $90K,0
+875,M,F,2,Partial College,Bronze,Professional,Y,3,$30K - $50K,2
+877,M,F,3,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,1
+878,S,F,3,High School Degree,Silver,Skilled Manual,Y,3,$50K - $70K,0
+880,S,F,2,High School Degree,Bronze,Professional,N,2,$110K - $130K,0
+882,M,M,0,Graduate Degree,Bronze,Professional,Y,3,$70K - $90K,0
+883,S,M,3,Graduate Degree,Bronze,Professional,Y,3,$90K - $110K,0
+889,M,M,3,Partial College,Bronze,Management,Y,3,$70K - $90K,2
+890,M,M,5,Bachelors Degree,Silver,Professional,N,3,$110K - $130K,5
+891,M,F,1,High School Degree,Normal,Professional,Y,3,$70K - $90K,1
+892,M,M,4,High School Degree,Golden,Manual,N,3,$30K - $50K,4
+894,M,M,1,Bachelors Degree,Bronze,Professional,Y,1,$70K - $90K,0
+897,S,F,1,High School Degree,Silver,Management,Y,2,$150K +,0
+899,S,M,1,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,0
+900,M,F,3,Graduate Degree,Golden,Professional,N,3,$70K - $90K,3
+903,S,M,5,Bachelors Degree,Golden,Management,Y,2,$50K - $70K,0
+904,M,M,4,Bachelors Degree,Golden,Management,N,3,$50K - $70K,3
+905,M,M,3,Partial High School,Golden,Management,Y,3,$150K +,3
+906,M,F,4,Bachelors Degree,Bronze,Professional,N,1,$70K - $90K,1
+907,S,M,0,Graduate Degree,Bronze,Professional,Y,3,$130K - $150K,0
+908,M,F,4,Bachelors Degree,Golden,Management,Y,4,$50K - $70K,3
+909,S,F,4,Partial College,Bronze,Management,N,4,$30K - $50K,0
+910,M,F,2,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+912,S,M,5,Bachelors Degree,Bronze,Professional,N,4,$50K - $70K,0
+913,M,M,5,High School Degree,Golden,Skilled Manual,Y,3,$30K - $50K,4
+915,M,F,5,Partial College,Golden,Manual,Y,4,$50K - $70K,3
+917,S,F,0,Partial College,Bronze,Management,N,3,$30K - $50K,0
+918,S,F,1,Graduate Degree,Bronze,Professional,N,4,$70K - $90K,0
+919,M,M,3,Partial College,Bronze,Management,N,3,$30K - $50K,2
+921,S,F,3,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+922,M,M,1,Partial High School,Bronze,Skilled Manual,Y,1,$30K - $50K,1
+924,S,F,3,High School Degree,Bronze,Professional,Y,3,$130K - $150K,0
+925,S,F,4,Bachelors Degree,Bronze,Management,N,1,$30K - $50K,0
+926,S,M,4,Bachelors Degree,Bronze,Management,N,3,$50K - $70K,0
+927,S,M,2,Graduate Degree,Bronze,Professional,N,3,$90K - $110K,0
+929,M,F,3,High School Degree,Golden,Manual,N,2,$30K - $50K,3
+930,S,M,2,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,0
+932,M,F,1,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,1
+933,M,F,5,High School Degree,Normal,Manual,Y,2,$30K - $50K,3
+936,S,F,2,Graduate Degree,Normal,Management,Y,3,$110K - $130K,0
+937,S,F,3,Partial High School,Normal,Professional,Y,1,$110K - $130K,0
+938,M,M,3,Partial High School,Normal,Manual,Y,1,$10K - $30K,3
+940,S,M,1,Graduate Degree,Bronze,Professional,N,1,$70K - $90K,0
+942,S,F,4,Partial College,Bronze,Management,Y,4,$130K - $150K,0
+943,M,M,4,Partial High School,Silver,Manual,Y,4,$30K - $50K,4
+944,S,F,3,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,0
+946,S,M,5,Partial High School,Normal,Skilled Manual,N,1,$30K - $50K,0
+947,S,F,4,High School Degree,Bronze,Manual,N,2,$30K - $50K,0
+948,M,M,0,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+950,M,F,4,Bachelors Degree,Golden,Professional,Y,3,$50K - $70K,3
+951,S,F,4,High School Degree,Bronze,Professional,Y,2,$110K - $130K,0
+953,S,M,4,Bachelors Degree,Normal,Professional,N,2,$110K - $130K,0
+954,M,M,1,Bachelors Degree,Bronze,Management,Y,3,$70K - $90K,0
+955,S,M,5,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,0
+956,M,F,0,Partial High School,Bronze,Professional,N,2,$90K - $110K,0
+957,S,M,1,High School Degree,Golden,Manual,N,4,$30K - $50K,0
+958,S,F,4,Partial High School,Bronze,Skilled Manual,Y,3,$50K - $70K,0
+959,M,F,1,Partial College,Silver,Professional,Y,2,$150K +,1
+960,S,M,2,High School Degree,Golden,Manual,N,4,$30K - $50K,0
+961,M,F,4,Graduate Degree,Bronze,Professional,Y,4,$30K - $50K,1
+971,S,M,4,Graduate Degree,Bronze,Professional,N,3,$70K - $90K,0
+980,M,M,2,Bachelors Degree,Golden,Professional,Y,3,$70K - $90K,2
+989,S,F,5,Partial High School,Golden,Manual,Y,1,$10K - $30K,0
+991,M,F,4,High School Degree,Bronze,Skilled Manual,N,1,$30K - $50K,1
+993,M,M,4,High School Degree,Bronze,Skilled Manual,Y,1,$30K - $50K,2
+1004,M,F,1,Partial College,Golden,Professional,Y,1,$130K - $150K,0
+1008,M,M,1,Bachelors Degree,Bronze,Professional,Y,4,$110K - $130K,1
+1013,S,M,1,Bachelors Degree,Bronze,Professional,Y,4,$130K - $150K,0
+1015,M,M,5,Partial College,Normal,Professional,Y,4,$30K - $50K,5
+1017,S,F,0,High School Degree,Bronze,Management,N,3,$130K - $150K,0
+1018,M,M,2,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,1
+1020,S,M,2,Partial High School,Bronze,Manual,N,3,$30K - $50K,0
+1024,M,M,1,Partial High School,Bronze,Skilled Manual,Y,3,$30K - $50K,1
+1025,M,M,1,Partial High School,Normal,Manual,N,1,$10K - $30K,1
+1026,M,F,4,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,0
+1030,M,M,2,Partial High School,Normal,Manual,Y,0,$10K - $30K,1
+1032,M,M,4,Bachelors Degree,Golden,Management,Y,3,$50K - $70K,4
+1034,M,M,3,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+1035,M,M,1,High School Degree,Normal,Manual,Y,1,$10K - $30K,1
+1036,M,F,2,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,2
+1038,M,M,1,Partial High School,Normal,Manual,Y,2,$10K - $30K,1
+1040,S,M,0,Bachelors Degree,Bronze,Professional,Y,4,$130K - $150K,0
+1041,S,M,0,Partial High School,Silver,Skilled Manual,N,3,$30K - $50K,0
+1042,S,M,4,Bachelors Degree,Silver,Management,N,2,$50K - $70K,0
+1043,M,F,2,Partial College,Bronze,Clerical,Y,1,$30K - $50K,2
+1044,M,F,1,Graduate Degree,Bronze,Professional,Y,3,$110K - $130K,1
+1048,M,F,2,Partial College,Golden,Professional,Y,1,$150K +,2
+1049,S,M,4,Partial High School,Bronze,Skilled Manual,N,2,$30K - $50K,0
+1053,S,M,1,Partial High School,Normal,Manual,N,2,$30K - $50K,0
+1055,M,M,2,High School Degree,Bronze,Manual,N,3,$30K - $50K,2
+1056,S,M,2,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+1058,M,M,1,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,1
+1059,S,M,1,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+1060,S,F,1,Partial College,Bronze,Manual,N,1,$30K - $50K,0
+1064,M,M,3,Partial High School,Golden,Management,Y,3,$150K +,2
+1065,M,M,5,Partial College,Bronze,Professional,Y,1,$110K - $130K,0
+1067,M,M,5,Partial High School,Normal,Manual,Y,1,$10K - $30K,3
+1068,S,F,0,Partial High School,Bronze,Professional,N,4,$130K - $150K,0
+1069,S,M,2,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+1070,S,M,1,Bachelors Degree,Bronze,Management,N,3,$50K - $70K,0
+1074,S,M,4,Partial College,Bronze,Clerical,N,3,$30K - $50K,0
+1075,S,F,4,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,0
+1076,M,F,3,Partial College,Bronze,Clerical,Y,3,$30K - $50K,2
+1077,M,F,4,Partial High School,Silver,Skilled Manual,Y,2,$50K - $70K,4
+1078,M,F,4,Partial High School,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+1079,S,F,3,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+1080,M,M,5,High School Degree,Silver,Professional,N,2,$70K - $90K,3
+1082,M,F,3,Graduate Degree,Bronze,Professional,N,3,$110K - $130K,1
+1083,M,F,4,Bachelors Degree,Silver,Professional,Y,4,$50K - $70K,3
+1085,M,F,3,Partial College,Bronze,Professional,Y,3,$130K - $150K,3
+1092,M,M,3,Partial High School,Normal,Manual,Y,2,$10K - $30K,2
+1093,S,F,2,Partial College,Bronze,Professional,Y,1,$30K - $50K,0
+1094,S,M,3,Partial High School,Bronze,Professional,N,1,$70K - $90K,0
+1096,S,M,0,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,0
+1097,M,F,3,High School Degree,Golden,Professional,N,4,$90K - $110K,3
+1099,M,M,3,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+1100,S,F,0,Partial College,Bronze,Professional,N,2,$70K - $90K,0
+1101,M,F,5,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,4
+1102,M,F,2,Partial High School,Normal,Manual,Y,0,$10K - $30K,2
+1103,M,F,4,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,2
+1105,S,F,2,Partial High School,Normal,Manual,N,0,$10K - $30K,0
+1106,S,M,0,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+1107,M,M,5,Partial High School,Golden,Professional,Y,3,$70K - $90K,3
+1108,S,F,3,Partial College,Bronze,Management,Y,2,$130K - $150K,0
+1109,S,F,2,Bachelors Degree,Silver,Professional,Y,2,$150K +,0
+1110,M,F,3,Partial College,Golden,Skilled Manual,Y,4,$30K - $50K,3
+1111,S,F,4,Partial High School,Bronze,Skilled Manual,N,3,$30K - $50K,0
+1112,S,F,5,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+1115,M,F,1,High School Degree,Bronze,Manual,Y,1,$30K - $50K,1
+1116,M,F,2,Bachelors Degree,Silver,Professional,Y,1,$50K - $70K,2
+1118,M,M,3,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,2
+1119,S,F,1,Partial High School,Bronze,Skilled Manual,N,2,$10K - $30K,0
+1121,M,M,4,High School Degree,Silver,Skilled Manual,Y,4,$50K - $70K,4
+1122,M,F,4,Bachelors Degree,Golden,Professional,Y,2,$70K - $90K,4
+1124,S,M,1,High School Degree,Normal,Manual,Y,1,$30K - $50K,0
+1125,M,M,2,Partial High School,Normal,Manual,Y,2,$10K - $30K,1
+1127,S,F,1,Partial College,Bronze,Skilled Manual,Y,3,$50K - $70K,0
+1129,M,F,1,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+1130,S,M,2,Partial College,Bronze,Professional,N,1,$90K - $110K,0
+1133,M,F,1,Graduate Degree,Bronze,Professional,Y,3,$130K - $150K,1
+1137,S,F,5,Bachelors Degree,Normal,Professional,Y,0,$10K - $30K,0
+1139,M,M,4,High School Degree,Bronze,Manual,N,3,$30K - $50K,4
+1141,M,F,1,Partial College,Bronze,Professional,Y,3,$30K - $50K,0
+1142,S,F,1,Partial College,Bronze,Management,Y,4,$110K - $130K,0
+1143,S,F,1,High School Degree,Bronze,Manual,N,1,$30K - $50K,0
+1144,S,F,5,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+1145,M,F,3,High School Degree,Normal,Manual,N,2,$10K - $30K,2
+1146,M,F,5,High School Degree,Golden,Skilled Manual,Y,3,$30K - $50K,5
+1148,S,M,3,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,0
+1150,S,F,3,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+1151,S,M,0,High School Degree,Bronze,Manual,N,2,$30K - $50K,0
+1152,M,M,3,Partial College,Golden,Professional,Y,3,$30K - $50K,3
+1154,M,M,2,Graduate Degree,Silver,Professional,Y,1,$150K +,1
+1157,M,M,3,High School Degree,Bronze,Manual,Y,4,$30K - $50K,2
+1158,M,M,5,High School Degree,Golden,Management,Y,3,$110K - $130K,3
+1159,M,F,3,Bachelors Degree,Bronze,Management,Y,2,$70K - $90K,0
+1160,S,M,1,High School Degree,Bronze,Skilled Manual,N,4,$30K - $50K,0
+1164,M,M,4,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,2
+1165,S,F,2,High School Degree,Bronze,Skilled Manual,N,2,$50K - $70K,0
+1166,S,M,3,Partial High School,Golden,Skilled Manual,Y,1,$10K - $30K,0
+1167,S,F,4,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+1168,S,M,1,Partial High School,Golden,Professional,Y,3,$110K - $130K,0
+1169,S,M,4,Graduate Degree,Silver,Management,Y,2,$90K - $110K,0
+1171,S,M,3,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,0
+1173,S,F,0,Bachelors Degree,Bronze,Management,Y,2,$70K - $90K,0
+1174,S,M,4,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+1176,M,F,2,High School Degree,Bronze,Manual,N,2,$30K - $50K,2
+1177,M,M,3,Partial High School,Normal,Manual,N,0,$10K - $30K,3
+1178,S,F,1,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+1179,M,M,1,High School Degree,Bronze,Manual,N,4,$30K - $50K,1
+1180,M,F,2,Bachelors Degree,Silver,Management,Y,2,$70K - $90K,0
+1182,M,M,3,Bachelors Degree,Golden,Professional,Y,3,$50K - $70K,3
+1183,S,M,1,Bachelors Degree,Silver,Professional,Y,3,$150K +,0
+1184,S,F,4,Partial High School,Silver,Management,Y,2,$90K - $110K,0
+1185,S,F,2,High School Degree,Bronze,Professional,Y,3,$130K - $150K,0
+1186,M,F,1,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,0
+1187,S,F,3,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+1192,M,M,3,Bachelors Degree,Golden,Professional,Y,2,$90K - $110K,3
+1195,M,M,5,High School Degree,Bronze,Skilled Manual,Y,1,$30K - $50K,0
+1197,M,F,4,Partial High School,Golden,Skilled Manual,Y,2,$50K - $70K,4
+1198,S,F,1,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,0
+1199,M,F,1,Partial College,Bronze,Management,Y,1,$50K - $70K,1
+1201,M,M,2,Bachelors Degree,Bronze,Management,Y,3,$90K - $110K,1
+1206,S,F,4,High School Degree,Silver,Professional,Y,2,$150K +,0
+1209,M,M,3,High School Degree,Golden,Manual,Y,3,$50K - $70K,3
+1211,M,F,4,Bachelors Degree,Silver,Professional,Y,2,$70K - $90K,2
+1212,S,M,4,Partial College,Bronze,Skilled Manual,N,2,$30K - $50K,0
+1215,M,M,1,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,1
+1218,S,F,4,Partial High School,Bronze,Skilled Manual,N,2,$30K - $50K,0
+1219,S,M,4,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+1221,S,F,5,Partial High School,Silver,Skilled Manual,N,1,$10K - $30K,0
+1223,M,M,1,Partial High School,Bronze,Manual,Y,3,$50K - $70K,0
+1225,M,F,0,Bachelors Degree,Normal,Professional,Y,3,$70K - $90K,0
+1228,M,M,4,High School Degree,Golden,Skilled Manual,Y,1,$30K - $50K,2
+1230,S,M,1,Bachelors Degree,Bronze,Management,N,4,$50K - $70K,0
+1231,S,M,1,Partial College,Normal,Management,Y,1,$130K - $150K,0
+1232,S,F,2,High School Degree,Bronze,Professional,Y,2,$70K - $90K,0
+1233,S,M,0,Bachelors Degree,Bronze,Management,Y,1,$50K - $70K,0
+1235,M,F,5,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,1
+1236,M,M,3,Bachelors Degree,Silver,Professional,Y,4,$150K +,1
+1238,S,F,4,Bachelors Degree,Silver,Management,Y,3,$50K - $70K,0
+1246,S,F,4,Partial High School,Normal,Manual,Y,0,$10K - $30K,0
+1259,S,M,3,Graduate Degree,Bronze,Professional,Y,3,$130K - $150K,0
+1262,S,M,1,High School Degree,Normal,Manual,N,1,$30K - $50K,0
+1263,M,M,4,Partial College,Bronze,Management,Y,3,$30K - $50K,2
+1265,M,M,1,Partial High School,Normal,Manual,Y,0,$10K - $30K,0
+1274,S,F,2,Bachelors Degree,Silver,Professional,N,3,$50K - $70K,0
+1275,M,F,3,Bachelors Degree,Bronze,Management,Y,1,$50K - $70K,2
+1277,M,F,5,Graduate Degree,Golden,Management,Y,3,$70K - $90K,3
+1278,M,M,5,Partial High School,Normal,Manual,Y,1,$10K - $30K,4
+1279,S,M,5,Partial High School,Bronze,Professional,Y,2,$90K - $110K,0
+1281,M,F,2,Graduate Degree,Bronze,Management,Y,2,$70K - $90K,1
+1283,S,M,4,Bachelors Degree,Normal,Professional,Y,3,$70K - $90K,0
+1286,S,M,5,Graduate Degree,Golden,Professional,Y,4,$110K - $130K,0
+1288,S,M,4,High School Degree,Golden,Manual,Y,2,$30K - $50K,0
+1292,M,M,2,Partial College,Bronze,Professional,Y,1,$130K - $150K,2
+1296,M,M,1,Bachelors Degree,Bronze,Professional,Y,4,$70K - $90K,0
+1298,M,F,3,High School Degree,Golden,Manual,N,3,$30K - $50K,3
+1300,S,M,5,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+1306,M,M,2,High School Degree,Bronze,Management,N,2,$130K - $150K,1
+1307,S,F,1,Bachelors Degree,Silver,Professional,N,2,$50K - $70K,0
+1311,S,F,2,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+1321,S,M,0,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,0
+1324,S,M,2,Partial College,Bronze,Professional,Y,1,$30K - $50K,0
+1337,S,F,2,Bachelors Degree,Golden,Professional,N,3,$90K - $110K,0
+1339,M,M,1,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,1
+1344,M,F,2,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,2
+1346,M,M,3,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,2
+1349,M,M,3,Partial High School,Silver,Skilled Manual,Y,2,$30K - $50K,3
+1354,S,M,4,High School Degree,Bronze,Professional,Y,2,$130K - $150K,0
+1362,M,F,1,High School Degree,Bronze,Professional,N,4,$70K - $90K,0
+1364,M,F,5,Partial College,Golden,Professional,Y,1,$30K - $50K,2
+1366,S,M,1,Partial High School,Normal,Manual,N,0,$10K - $30K,0
+1368,S,F,3,Partial High School,Silver,Professional,Y,2,$150K +,0
+1371,M,M,5,Bachelors Degree,Golden,Management,N,3,$50K - $70K,3
+1372,S,F,2,High School Degree,Silver,Skilled Manual,Y,3,$30K - $50K,0
+1373,M,M,0,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+1375,M,F,4,High School Degree,Bronze,Professional,Y,2,$90K - $110K,2
+1379,M,M,1,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,0
+1384,M,F,4,Graduate Degree,Bronze,Professional,Y,2,$90K - $110K,2
+1389,M,M,0,High School Degree,Normal,Skilled Manual,N,1,$10K - $30K,0
+1399,S,F,1,Partial College,Bronze,Manual,N,2,$50K - $70K,0
+1403,S,F,2,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,0
+1408,M,F,2,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,2
+1410,S,M,2,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,0
+1411,M,M,4,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,2
+1421,S,F,2,High School Degree,Bronze,Management,Y,3,$90K - $110K,0
+1428,S,F,4,Partial High School,Silver,Management,N,2,$70K - $90K,0
+1432,S,M,0,High School Degree,Silver,Manual,N,3,$30K - $50K,0
+1435,S,M,3,High School Degree,Bronze,Skilled Manual,N,4,$30K - $50K,0
+1436,M,M,1,High School Degree,Normal,Professional,Y,2,$110K - $130K,1
+1442,S,M,4,Partial High School,Silver,Manual,N,2,$30K - $50K,0
+1444,M,M,4,Bachelors Degree,Golden,Professional,Y,4,$50K - $70K,4
+1448,M,F,4,Graduate Degree,Bronze,Professional,Y,3,$130K - $150K,2
+1457,S,M,2,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+1464,M,F,4,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,4
+1467,M,F,0,Bachelors Degree,Bronze,Management,Y,4,$70K - $90K,0
+1469,M,M,1,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,0
+1473,M,M,4,Partial High School,Bronze,Management,N,3,$130K - $150K,1
+1476,S,F,5,Bachelors Degree,Bronze,Professional,N,4,$50K - $70K,0
+1477,M,F,1,Partial High School,Bronze,Management,N,2,$90K - $110K,1
+1479,S,F,1,High School Degree,Bronze,Skilled Manual,N,4,$30K - $50K,0
+1481,M,M,5,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,1
+1483,S,F,2,Partial College,Bronze,Manual,N,3,$50K - $70K,0
+1489,S,M,0,Bachelors Degree,Bronze,Professional,N,3,$70K - $90K,0
+1490,S,F,1,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,0
+1492,M,F,4,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,1
+1496,M,M,0,High School Degree,Normal,Skilled Manual,Y,2,$10K - $30K,0
+1499,M,F,4,High School Degree,Golden,Management,Y,3,$90K - $110K,4
+1507,S,F,2,High School Degree,Bronze,Professional,N,3,$70K - $90K,0
+1508,S,M,3,High School Degree,Normal,Manual,Y,3,$30K - $50K,0
+1509,S,F,2,Bachelors Degree,Normal,Professional,Y,1,$50K - $70K,0
+1511,M,M,0,High School Degree,Normal,Skilled Manual,Y,1,$10K - $30K,0
+1516,M,M,2,Partial College,Silver,Skilled Manual,Y,2,$30K - $50K,1
+1520,M,M,3,Bachelors Degree,Golden,Professional,Y,3,$70K - $90K,3
+1523,S,F,3,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,0
+1525,M,M,2,High School Degree,Normal,Manual,Y,1,$10K - $30K,1
+1528,S,F,1,High School Degree,Silver,Manual,N,3,$50K - $70K,0
+1529,M,F,1,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+1531,S,M,4,Partial High School,Bronze,Skilled Manual,N,4,$50K - $70K,0
+1543,S,M,4,Partial High School,Bronze,Professional,Y,3,$130K - $150K,0
+1548,M,F,3,High School Degree,Bronze,Professional,Y,2,$130K - $150K,2
+1550,S,F,4,Graduate Degree,Bronze,Professional,Y,2,$130K - $150K,0
+1551,M,F,3,High School Degree,Silver,Management,Y,3,$90K - $110K,0
+1554,S,F,1,Partial College,Bronze,Professional,Y,4,$130K - $150K,0
+1557,M,F,5,Bachelors Degree,Silver,Professional,Y,2,$70K - $90K,4
+1558,S,F,3,Partial High School,Bronze,Skilled Manual,N,0,$10K - $30K,0
+1559,S,M,2,High School Degree,Bronze,Manual,Y,1,$30K - $50K,0
+1561,S,F,3,Bachelors Degree,Bronze,Professional,N,3,$70K - $90K,0
+1570,S,M,4,High School Degree,Golden,Skilled Manual,N,3,$30K - $50K,0
+1573,M,M,3,Bachelors Degree,Golden,Professional,N,4,$50K - $70K,3
+1574,M,F,3,High School Degree,Golden,Skilled Manual,N,3,$30K - $50K,3
+1577,S,F,2,Bachelors Degree,Silver,Management,Y,2,$90K - $110K,0
+1579,M,F,2,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,1
+1581,M,M,4,High School Degree,Normal,Skilled Manual,Y,4,$30K - $50K,3
+1582,S,M,0,Bachelors Degree,Bronze,Management,N,3,$50K - $70K,0
+1583,M,M,4,Partial High School,Bronze,Manual,Y,4,$30K - $50K,1
+1585,M,M,2,High School Degree,Normal,Manual,Y,1,$50K - $70K,2
+1586,S,M,2,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,0
+1589,S,M,5,Graduate Degree,Bronze,Professional,Y,4,$50K - $70K,0
+1590,M,M,4,High School Degree,Bronze,Management,N,3,$70K - $90K,2
+1597,S,F,1,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,0
+1600,S,F,4,Bachelors Degree,Bronze,Professional,N,3,$70K - $90K,0
+1602,M,M,0,High School Degree,Silver,Manual,Y,1,$30K - $50K,0
+1605,S,F,2,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+1607,S,M,1,Partial College,Bronze,Clerical,Y,2,$30K - $50K,0
+1616,S,M,0,Partial High School,Normal,Manual,N,0,$10K - $30K,0
+1618,M,F,0,Partial College,Bronze,Management,Y,3,$30K - $50K,0
+1619,M,M,2,High School Degree,Bronze,Manual,Y,2,$30K - $50K,1
+1621,S,M,0,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+1623,M,F,4,Partial High School,Golden,Skilled Manual,N,2,$30K - $50K,4
+1624,S,F,1,High School Degree,Bronze,Professional,Y,2,$110K - $130K,0
+1629,M,M,1,Bachelors Degree,Silver,Professional,Y,3,$70K - $90K,1
+1631,S,F,1,Partial High School,Bronze,Skilled Manual,N,4,$50K - $70K,0
+1636,S,F,1,Bachelors Degree,Bronze,Professional,Y,2,$30K - $50K,0
+1639,S,M,0,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+1640,S,F,1,Bachelors Degree,Bronze,Management,N,3,$70K - $90K,0
+1641,S,M,5,Partial High School,Bronze,Manual,N,4,$30K - $50K,0
+1643,M,F,1,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+1649,M,M,3,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,1
+1651,S,F,3,Partial High School,Silver,Manual,Y,1,$50K - $70K,0
+1652,S,F,4,Bachelors Degree,Normal,Management,N,3,$50K - $70K,0
+1653,S,F,5,High School Degree,Bronze,Skilled Manual,N,1,$30K - $50K,0
+1655,S,M,1,Bachelors Degree,Silver,Professional,Y,4,$50K - $70K,0
+1657,M,M,4,High School Degree,Normal,Manual,Y,1,$10K - $30K,2
+1660,S,F,0,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,0
+1666,M,F,3,Partial College,Golden,Professional,Y,3,$50K - $70K,3
+1667,M,F,3,Partial College,Golden,Professional,Y,3,$150K +,3
+1668,M,F,4,High School Degree,Bronze,Professional,Y,1,$110K - $130K,1
+1679,M,F,5,Graduate Degree,Golden,Management,Y,3,$70K - $90K,4
+1681,S,M,1,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+1695,S,F,0,Partial High School,Bronze,Management,Y,3,$90K - $110K,0
+1699,S,M,0,Partial College,Bronze,Manual,N,3,$30K - $50K,0
+1701,M,M,4,High School Degree,Normal,Manual,Y,3,$30K - $50K,1
+1702,S,F,4,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+1708,S,F,3,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,0
+1727,S,M,3,Graduate Degree,Bronze,Professional,N,3,$70K - $90K,0
+1729,M,M,5,Bachelors Degree,Bronze,Management,N,2,$30K - $50K,2
+1731,M,F,1,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,1
+1737,M,M,1,Partial High School,Bronze,Skilled Manual,Y,1,$10K - $30K,0
+1739,M,M,4,High School Degree,Bronze,Manual,N,4,$30K - $50K,2
+1746,M,M,3,High School Degree,Golden,Skilled Manual,N,2,$30K - $50K,3
+1757,M,F,1,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+1760,M,M,2,Bachelors Degree,Silver,Professional,Y,2,$50K - $70K,1
+1768,S,M,2,High School Degree,Bronze,Professional,Y,1,$130K - $150K,0
+1777,S,M,5,High School Degree,Bronze,Skilled Manual,N,4,$30K - $50K,0
+1799,S,M,3,High School Degree,Golden,Manual,N,1,$10K - $30K,0
+1803,S,M,2,Partial High School,Silver,Professional,Y,4,$130K - $150K,0
+1807,M,F,0,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,0
+1817,M,M,4,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,3
+1824,S,F,3,Bachelors Degree,Normal,Professional,N,2,$10K - $30K,0
+1827,S,M,4,High School Degree,Bronze,Professional,N,2,$130K - $150K,0
+1829,S,F,2,Partial High School,Bronze,Skilled Manual,N,2,$30K - $50K,0
+1834,S,F,4,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,0
+1836,M,M,2,Bachelors Degree,Bronze,Professional,N,1,$30K - $50K,0
+1841,M,M,3,High School Degree,Bronze,Manual,Y,4,$30K - $50K,3
+1844,M,F,5,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,5
+1850,S,F,2,Partial High School,Bronze,Skilled Manual,N,4,$30K - $50K,0
+1852,S,F,2,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+1862,M,M,4,Bachelors Degree,Bronze,Professional,Y,4,$70K - $90K,1
+1869,M,M,3,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,1
+1872,S,F,5,Bachelors Degree,Bronze,Professional,N,1,$70K - $90K,0
+1875,S,F,3,Bachelors Degree,Bronze,Professional,N,4,$50K - $70K,0
+1881,S,F,2,Partial College,Bronze,Management,Y,4,$30K - $50K,0
+1892,M,M,0,Bachelors Degree,Bronze,Management,N,2,$50K - $70K,0
+1903,M,F,5,Partial College,Golden,Clerical,Y,4,$30K - $50K,4
+1906,M,F,3,High School Degree,Golden,Manual,Y,3,$50K - $70K,3
+1920,M,F,5,Partial High School,Normal,Manual,N,0,$10K - $30K,5
+1932,S,M,1,Graduate Degree,Bronze,Management,Y,3,$90K - $110K,0
+1936,M,M,1,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+1946,S,M,4,High School Degree,Normal,Manual,N,2,$10K - $30K,0
+1957,M,F,5,Bachelors Degree,Golden,Professional,Y,3,$50K - $70K,5
+1960,M,F,3,High School Degree,Golden,Manual,Y,3,$30K - $50K,3
+1969,S,M,2,Bachelors Degree,Normal,Professional,N,1,$70K - $90K,0
+1973,S,M,3,Partial High School,Normal,Manual,N,0,$10K - $30K,0
+1976,S,M,0,Partial High School,Bronze,Manual,N,3,$30K - $50K,0
+1993,S,M,3,Partial College,Bronze,Professional,Y,1,$130K - $150K,0
+2011,M,M,2,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,2
+2012,S,F,4,High School Degree,Normal,Management,Y,1,$130K - $150K,0
+2013,M,F,4,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+2014,S,M,3,Partial High School,Bronze,Manual,N,1,$10K - $30K,0
+2015,S,F,2,High School Degree,Golden,Skilled Manual,N,3,$50K - $70K,0
+2028,M,M,0,High School Degree,Normal,Manual,Y,0,$10K - $30K,0
+2036,M,M,5,Partial College,Bronze,Management,Y,3,$30K - $50K,3
+2037,M,F,1,Partial High School,Normal,Manual,N,0,$10K - $30K,0
+2049,M,F,0,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,0
+2057,S,F,3,Partial High School,Golden,Skilled Manual,N,1,$10K - $30K,0
+2060,S,M,0,High School Degree,Normal,Management,Y,2,$110K - $130K,0
+2065,S,F,4,Partial High School,Silver,Professional,Y,1,$110K - $130K,0
+2067,S,M,1,High School Degree,Bronze,Manual,N,1,$30K - $50K,0
+2071,S,F,1,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+2095,M,F,5,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,0
+2097,M,F,1,High School Degree,Bronze,Professional,Y,3,$130K - $150K,1
+2101,M,F,2,Partial High School,Bronze,Manual,Y,1,$30K - $50K,2
+2103,S,F,1,Partial High School,Bronze,Skilled Manual,Y,1,$10K - $30K,0
+2106,M,F,1,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,1
+2109,M,M,3,Bachelors Degree,Bronze,Management,Y,2,$70K - $90K,1
+2111,M,M,5,Bachelors Degree,Silver,Management,Y,3,$50K - $70K,3
+2116,M,F,5,High School Degree,Golden,Professional,Y,2,$150K +,2
+2124,S,F,4,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+2125,M,F,2,Partial High School,Bronze,Professional,Y,2,$130K - $150K,1
+2126,M,M,5,Bachelors Degree,Silver,Professional,Y,4,$50K - $70K,0
+2133,S,F,3,High School Degree,Silver,Manual,N,3,$30K - $50K,0
+2134,M,M,2,Partial High School,Silver,Skilled Manual,Y,1,$50K - $70K,2
+2135,M,M,4,Bachelors Degree,Bronze,Professional,N,3,$30K - $50K,0
+2137,S,M,1,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,0
+2138,S,M,5,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,0
+2140,S,M,1,Bachelors Degree,Silver,Professional,Y,2,$70K - $90K,0
+2143,M,M,1,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,1
+2146,M,M,2,High School Degree,Silver,Manual,N,4,$30K - $50K,2
+2147,M,F,4,High School Degree,Golden,Skilled Manual,Y,4,$30K - $50K,4
+2152,M,F,2,High School Degree,Golden,Management,Y,1,$110K - $130K,2
+2154,S,M,1,Bachelors Degree,Bronze,Professional,N,1,$70K - $90K,0
+2157,M,M,3,High School Degree,Golden,Professional,Y,2,$150K +,2
+2158,M,F,0,High School Degree,Normal,Manual,Y,4,$30K - $50K,0
+2159,M,M,2,High School Degree,Golden,Professional,N,3,$150K +,2
+2160,M,M,1,Partial College,Bronze,Professional,Y,2,$30K - $50K,1
+2161,M,F,2,Bachelors Degree,Normal,Professional,Y,1,$10K - $30K,1
+2164,S,M,2,Bachelors Degree,Silver,Professional,N,2,$50K - $70K,0
+2168,M,F,1,Bachelors Degree,Bronze,Management,Y,3,$110K - $130K,1
+2171,M,F,1,High School Degree,Bronze,Manual,Y,1,$50K - $70K,1
+2173,S,M,2,Partial High School,Bronze,Professional,Y,2,$90K - $110K,0
+2179,S,F,3,High School Degree,Bronze,Manual,Y,3,$30K - $50K,0
+2185,M,M,0,Partial College,Bronze,Professional,Y,3,$50K - $70K,0
+2187,S,M,1,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,0
+2190,M,F,3,Graduate Degree,Silver,Management,Y,2,$110K - $130K,0
+2194,M,F,3,Partial College,Bronze,Skilled Manual,Y,4,$50K - $70K,2
+2196,M,M,4,Graduate Degree,Silver,Management,Y,4,$70K - $90K,4
+2197,M,M,4,Graduate Degree,Silver,Professional,Y,3,$70K - $90K,3
+2201,S,M,1,Bachelors Degree,Normal,Professional,N,2,$10K - $30K,0
+2203,M,M,4,Partial College,Bronze,Skilled Manual,N,1,$30K - $50K,2
+2204,S,M,3,Graduate Degree,Bronze,Professional,Y,3,$70K - $90K,0
+2207,S,F,5,High School Degree,Normal,Manual,N,1,$10K - $30K,0
+2210,S,F,1,Bachelors Degree,Bronze,Management,N,3,$30K - $50K,0
+2211,S,M,2,Bachelors Degree,Bronze,Professional,Y,2,$30K - $50K,0
+2212,S,F,3,Partial High School,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+2213,S,F,5,High School Degree,Bronze,Manual,Y,3,$30K - $50K,0
+2215,M,M,3,Partial High School,Silver,Skilled Manual,Y,1,$10K - $30K,3
+2216,M,F,1,Partial High School,Bronze,Skilled Manual,Y,1,$10K - $30K,1
+2222,M,M,0,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+2224,M,F,2,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,1
+2226,S,M,1,High School Degree,Bronze,Professional,Y,2,$110K - $130K,0
+2228,M,M,5,Bachelors Degree,Normal,Management,N,3,$70K - $90K,5
+2233,S,M,0,Bachelors Degree,Bronze,Professional,N,4,$30K - $50K,0
+2235,M,F,2,Bachelors Degree,Bronze,Professional,Y,4,$30K - $50K,2
+2242,M,M,0,High School Degree,Bronze,Manual,Y,1,$30K - $50K,0
+2245,M,M,4,Bachelors Degree,Silver,Professional,Y,3,$70K - $90K,3
+2246,M,F,2,Partial College,Bronze,Skilled Manual,Y,1,$30K - $50K,2
+2247,S,F,3,Bachelors Degree,Silver,Professional,Y,0,$10K - $30K,0
+2248,S,F,3,Partial College,Silver,Clerical,N,4,$50K - $70K,0
+2254,S,F,3,Bachelors Degree,Bronze,Management,N,4,$50K - $70K,0
+2256,M,F,0,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+2258,M,F,5,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,1
+2260,M,M,3,Graduate Degree,Golden,Professional,Y,3,$130K - $150K,3
+2261,M,F,1,High School Degree,Bronze,Manual,Y,1,$30K - $50K,0
+2265,S,F,3,Graduate Degree,Bronze,Management,Y,3,$90K - $110K,0
+2266,M,F,1,High School Degree,Bronze,Manual,N,2,$30K - $50K,1
+2267,S,M,1,High School Degree,Normal,Manual,Y,2,$30K - $50K,0
+2270,S,M,4,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,0
+2273,S,F,3,Partial High School,Bronze,Professional,Y,2,$110K - $130K,0
+2275,M,M,1,High School Degree,Silver,Professional,Y,2,$70K - $90K,1
+2278,M,F,1,Bachelors Degree,Normal,Professional,Y,2,$50K - $70K,1
+2281,S,F,2,High School Degree,Bronze,Professional,Y,4,$130K - $150K,0
+2283,S,F,3,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+2285,S,F,2,Partial College,Bronze,Management,N,2,$30K - $50K,0
+2287,M,M,3,Partial College,Bronze,Clerical,Y,3,$30K - $50K,2
+2288,S,F,3,Partial High School,Bronze,Manual,N,4,$30K - $50K,0
+2295,M,F,1,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,1
+2298,S,M,1,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+2299,S,M,1,High School Degree,Bronze,Management,Y,4,$110K - $130K,0
+2300,M,M,5,Bachelors Degree,Golden,Management,N,3,$50K - $70K,4
+2305,M,F,1,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,0
+2308,M,M,4,Bachelors Degree,Golden,Professional,Y,3,$70K - $90K,4
+2309,M,M,4,High School Degree,Bronze,Skilled Manual,Y,3,$50K - $70K,2
+2310,M,F,2,Bachelors Degree,Silver,Professional,N,3,$30K - $50K,1
+2315,M,F,2,Partial College,Bronze,Clerical,Y,2,$30K - $50K,2
+2318,S,F,3,Partial College,Bronze,Professional,N,3,$30K - $50K,0
+2322,M,M,1,High School Degree,Silver,Skilled Manual,Y,2,$30K - $50K,0
+2323,M,F,2,Partial High School,Golden,Skilled Manual,Y,1,$10K - $30K,2
+2325,M,M,4,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+2326,M,F,4,High School Degree,Silver,Manual,Y,3,$50K - $70K,2
+2327,M,F,2,Partial College,Bronze,Clerical,Y,4,$30K - $50K,0
+2330,M,M,1,Bachelors Degree,Bronze,Management,Y,2,$70K - $90K,1
+2332,S,F,4,High School Degree,Bronze,Professional,Y,1,$70K - $90K,0
+2337,S,M,1,High School Degree,Normal,Professional,Y,2,$130K - $150K,0
+2338,S,F,1,High School Degree,Bronze,Skilled Manual,Y,2,$50K - $70K,0
+2341,S,F,1,Partial High School,Bronze,Manual,Y,2,$50K - $70K,0
+2342,S,F,1,Partial College,Bronze,Skilled Manual,N,2,$30K - $50K,0
+2344,S,M,4,High School Degree,Bronze,Professional,Y,3,$130K - $150K,0
+2346,S,F,5,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+2347,M,M,2,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,0
+2348,M,F,3,Bachelors Degree,Golden,Professional,Y,3,$70K - $90K,3
+2351,M,F,1,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+2352,S,F,0,High School Degree,Golden,Professional,Y,1,$110K - $130K,0
+2353,S,M,5,Bachelors Degree,Bronze,Management,N,3,$70K - $90K,0
+2355,M,M,3,Partial College,Bronze,Manual,N,1,$30K - $50K,1
+2356,S,F,4,Partial High School,Bronze,Professional,Y,4,$110K - $130K,0
+2357,M,M,2,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+2359,S,M,0,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+2361,S,F,3,Partial College,Bronze,Clerical,N,2,$50K - $70K,0
+2362,M,M,3,High School Degree,Golden,Manual,N,2,$30K - $50K,3
+2365,M,M,2,High School Degree,Normal,Manual,Y,2,$30K - $50K,2
+2367,M,M,1,High School Degree,Normal,Manual,Y,2,$10K - $30K,1
+2369,S,F,3,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+2372,S,M,3,Partial College,Silver,Professional,N,3,$30K - $50K,0
+2374,S,F,5,Bachelors Degree,Bronze,Professional,N,3,$70K - $90K,0
+2377,S,M,1,High School Degree,Bronze,Manual,N,4,$30K - $50K,0
+2378,M,M,0,Bachelors Degree,Bronze,Management,Y,1,$50K - $70K,0
+2383,S,F,5,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,0
+2386,M,F,3,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,1
+2387,M,F,5,High School Degree,Silver,Professional,N,4,$90K - $110K,4
+2390,S,M,3,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+2392,S,M,4,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,0
+2394,M,F,3,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,0
+2395,M,F,4,Bachelors Degree,Bronze,Professional,N,4,$70K - $90K,0
+2398,M,M,0,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,0
+2399,M,F,4,High School Degree,Bronze,Professional,N,2,$90K - $110K,1
+2401,S,F,2,Partial College,Bronze,Professional,Y,2,$50K - $70K,0
+2403,S,F,1,Partial High School,Normal,Professional,N,3,$70K - $90K,0
+2405,M,F,1,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+2407,M,F,0,Graduate Degree,Bronze,Management,Y,4,$70K - $90K,0
+2408,M,M,4,High School Degree,Bronze,Manual,Y,4,$30K - $50K,1
+2409,M,F,4,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,2
+2412,M,M,3,Partial High School,Golden,Skilled Manual,Y,2,$50K - $70K,3
+2415,S,M,4,Partial College,Bronze,Management,N,2,$30K - $50K,0
+2417,S,F,1,High School Degree,Bronze,Skilled Manual,N,1,$50K - $70K,0
+2418,M,F,1,High School Degree,Silver,Professional,Y,4,$90K - $110K,1
+2419,M,M,2,High School Degree,Bronze,Management,Y,2,$130K - $150K,1
+2420,S,F,2,High School Degree,Silver,Management,Y,2,$70K - $90K,0
+2421,S,M,3,High School Degree,Bronze,Manual,N,3,$30K - $50K,0
+2423,S,M,1,Partial High School,Bronze,Skilled Manual,Y,1,$50K - $70K,0
+2424,S,F,2,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,0
+2426,M,F,1,High School Degree,Bronze,Manual,Y,3,$50K - $70K,0
+2427,S,M,1,High School Degree,Bronze,Manual,Y,1,$30K - $50K,0
+2428,S,F,2,Partial High School,Bronze,Manual,N,2,$30K - $50K,0
+2430,S,M,5,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,0
+2431,M,F,3,Partial High School,Silver,Manual,N,2,$50K - $70K,2
+2433,M,F,1,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,1
+2435,M,M,4,Partial High School,Golden,Skilled Manual,Y,4,$30K - $50K,4
+2436,M,F,4,Bachelors Degree,Golden,Professional,Y,3,$70K - $90K,4
+2437,S,F,5,Partial High School,Normal,Manual,N,2,$10K - $30K,0
+2438,M,M,2,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+2441,M,M,3,High School Degree,Bronze,Management,N,3,$130K - $150K,2
+2442,M,F,4,Partial High School,Normal,Manual,Y,1,$10K - $30K,4
+2443,S,F,2,Partial College,Silver,Management,N,4,$30K - $50K,0
+2445,S,F,2,Graduate Degree,Bronze,Professional,N,2,$70K - $90K,0
+2446,S,F,2,Graduate Degree,Bronze,Management,N,3,$70K - $90K,0
+2447,M,M,0,High School Degree,Normal,Skilled Manual,Y,4,$30K - $50K,0
+2448,M,F,5,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,1
+2449,S,M,5,Bachelors Degree,Bronze,Management,N,4,$70K - $90K,0
+2451,S,M,5,High School Degree,Golden,Skilled Manual,Y,1,$30K - $50K,0
+2458,S,M,0,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+2459,S,M,4,High School Degree,Bronze,Management,Y,1,$130K - $150K,0
+2460,M,F,1,Partial High School,Bronze,Professional,Y,3,$90K - $110K,1
+2461,S,M,3,Bachelors Degree,Silver,Management,N,3,$50K - $70K,0
+2463,S,M,2,Bachelors Degree,Bronze,Professional,N,1,$70K - $90K,0
+2466,M,F,1,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,0
+2469,M,F,1,Partial High School,Normal,Manual,Y,0,$10K - $30K,0
+2470,M,F,1,High School Degree,Silver,Manual,N,2,$30K - $50K,0
+2472,S,F,1,High School Degree,Bronze,Skilled Manual,N,3,$50K - $70K,0
+2475,M,F,3,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+2476,S,M,3,High School Degree,Normal,Skilled Manual,N,2,$50K - $70K,0
+2478,M,M,2,Partial College,Bronze,Professional,Y,2,$30K - $50K,1
+2479,M,M,0,High School Degree,Bronze,Management,Y,2,$70K - $90K,0
+2483,M,M,1,High School Degree,Bronze,Manual,Y,4,$30K - $50K,0
+2484,M,M,2,Graduate Degree,Bronze,Professional,Y,3,$70K - $90K,1
+2485,M,F,4,Bachelors Degree,Golden,Professional,Y,2,$50K - $70K,3
+2486,M,M,0,Partial High School,Silver,Professional,Y,1,$90K - $110K,0
+2487,S,M,1,High School Degree,Golden,Manual,N,1,$30K - $50K,0
+2492,S,F,0,High School Degree,Bronze,Management,Y,2,$90K - $110K,0
+2494,M,F,1,Partial High School,Bronze,Manual,Y,3,$30K - $50K,1
+2498,S,F,4,High School Degree,Golden,Skilled Manual,Y,2,$30K - $50K,0
+2499,M,F,4,High School Degree,Golden,Professional,Y,3,$150K +,3
+2605,M,F,3,Graduate Degree,Bronze,Management,Y,4,$130K - $150K,1
+2618,S,M,0,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,0
+2641,M,F,3,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,2
+2700,M,F,4,High School Degree,Golden,Skilled Manual,Y,4,$30K - $50K,3
+2707,M,F,5,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,3
+2723,M,F,5,Partial High School,Bronze,Skilled Manual,Y,3,$50K - $70K,1
+2738,M,F,3,Graduate Degree,Bronze,Professional,N,4,$90K - $110K,2
+2748,S,F,2,Graduate Degree,Bronze,Professional,Y,3,$30K - $50K,0
+2853,M,M,1,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+2854,S,F,1,Partial College,Silver,Professional,Y,4,$150K +,0
+2861,S,F,3,High School Degree,Bronze,Manual,Y,2,$50K - $70K,0
+2863,M,F,5,Partial High School,Bronze,Skilled Manual,Y,2,$50K - $70K,5
+2867,S,F,1,Partial College,Bronze,Management,N,3,$130K - $150K,0
+2869,S,F,2,Bachelors Degree,Silver,Management,Y,2,$70K - $90K,0
+2871,M,M,4,Graduate Degree,Normal,Management,Y,4,$110K - $130K,2
+2873,M,F,1,Partial High School,Normal,Manual,Y,1,$10K - $30K,1
+2875,S,F,4,High School Degree,Bronze,Skilled Manual,N,4,$30K - $50K,0
+2876,M,F,1,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,0
+2877,M,F,3,Partial College,Golden,Clerical,N,4,$30K - $50K,3
+2878,M,F,1,High School Degree,Bronze,Skilled Manual,Y,3,$50K - $70K,1
+2881,S,F,3,High School Degree,Bronze,Manual,N,4,$30K - $50K,0
+2884,S,M,4,Bachelors Degree,Bronze,Professional,Y,3,$130K - $150K,0
+2886,M,F,3,Partial College,Bronze,Management,Y,2,$30K - $50K,1
+2887,M,M,5,Graduate Degree,Golden,Professional,Y,2,$70K - $90K,3
+2889,S,F,1,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+2890,S,M,4,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+2893,S,F,1,Partial High School,Bronze,Manual,N,3,$30K - $50K,0
+2894,M,F,3,Partial High School,Silver,Professional,Y,4,$70K - $90K,1
+2900,M,M,2,Bachelors Degree,Bronze,Management,N,2,$50K - $70K,2
+2905,M,M,0,Partial High School,Bronze,Professional,Y,4,$110K - $130K,0
+2908,M,M,0,Partial College,Bronze,Professional,N,1,$110K - $130K,0
+2909,S,F,3,High School Degree,Silver,Management,Y,1,$150K +,0
+2910,S,M,4,Graduate Degree,Bronze,Management,N,4,$90K - $110K,0
+2918,S,F,5,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+2919,S,M,4,Partial College,Bronze,Clerical,N,2,$30K - $50K,0
+2922,S,M,4,Graduate Degree,Normal,Professional,Y,3,$130K - $150K,0
+2927,S,M,4,Partial College,Silver,Clerical,Y,2,$30K - $50K,0
+2928,M,M,3,Partial High School,Bronze,Management,Y,3,$90K - $110K,2
+2929,S,F,2,Bachelors Degree,Bronze,Management,N,3,$70K - $90K,0
+2933,M,F,1,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,1
+2936,M,M,1,High School Degree,Golden,Professional,Y,1,$150K +,1
+2940,S,M,5,Bachelors Degree,Bronze,Professional,Y,4,$70K - $90K,0
+2941,M,M,3,High School Degree,Golden,Skilled Manual,Y,2,$30K - $50K,3
+2942,S,F,1,Partial College,Normal,Skilled Manual,Y,2,$30K - $50K,0
+2945,S,F,3,Partial High School,Bronze,Professional,Y,2,$130K - $150K,0
+2946,M,M,2,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,0
+2948,S,M,0,Partial High School,Bronze,Professional,Y,3,$130K - $150K,0
+2949,S,M,4,Partial High School,Normal,Manual,Y,0,$10K - $30K,0
+2951,S,F,1,Bachelors Degree,Silver,Management,N,1,$70K - $90K,0
+2954,M,F,3,Bachelors Degree,Normal,Professional,Y,3,$50K - $70K,3
+2956,M,M,4,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,2
+2960,M,F,0,Bachelors Degree,Golden,Professional,Y,3,$50K - $70K,0
+2961,M,F,3,Partial College,Bronze,Professional,Y,1,$30K - $50K,0
+2962,M,F,1,High School Degree,Bronze,Professional,Y,1,$110K - $130K,0
+2966,M,M,2,Partial High School,Bronze,Skilled Manual,N,4,$30K - $50K,2
+2968,M,F,1,High School Degree,Bronze,Manual,Y,3,$30K - $50K,1
+2972,M,F,3,Partial High School,Bronze,Manual,Y,1,$10K - $30K,1
+2974,S,M,3,Bachelors Degree,Bronze,Management,Y,3,$70K - $90K,0
+2975,M,M,5,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,5
+2976,S,F,3,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+2978,M,F,3,Partial High School,Normal,Manual,Y,1,$10K - $30K,3
+2979,M,F,3,Partial High School,Normal,Manual,Y,0,$10K - $30K,1
+2985,M,F,1,High School Degree,Bronze,Professional,Y,3,$70K - $90K,1
+2988,M,F,5,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,2
+2989,M,M,0,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+2990,M,M,1,Partial High School,Golden,Management,Y,2,$150K +,0
+2991,S,M,1,High School Degree,Bronze,Manual,Y,4,$50K - $70K,0
+2992,M,F,0,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,0
+2993,M,M,0,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,0
+2994,M,F,4,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,4
+2997,S,M,3,High School Degree,Bronze,Management,Y,3,$90K - $110K,0
+3002,S,M,1,Bachelors Degree,Silver,Management,N,3,$50K - $70K,0
+3003,S,F,3,Bachelors Degree,Silver,Professional,Y,2,$90K - $110K,0
+3004,M,M,2,Bachelors Degree,Bronze,Management,Y,3,$30K - $50K,1
+3005,M,M,3,Bachelors Degree,Bronze,Management,N,2,$50K - $70K,2
+3007,M,M,2,High School Degree,Golden,Professional,Y,3,$150K +,2
+3009,S,F,1,High School Degree,Normal,Skilled Manual,N,4,$30K - $50K,0
+3010,M,M,0,High School Degree,Bronze,Professional,Y,3,$90K - $110K,0
+3014,M,F,2,Bachelors Degree,Bronze,Management,Y,2,$50K - $70K,1
+3017,S,F,1,Bachelors Degree,Silver,Professional,N,2,$70K - $90K,0
+3019,M,M,4,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+3020,M,F,3,Bachelors Degree,Golden,Professional,N,3,$50K - $70K,3
+3025,S,F,3,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,0
+3027,M,M,1,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,1
+3029,M,F,0,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,0
+3033,S,M,4,Partial High School,Bronze,Professional,Y,2,$110K - $130K,0
+3035,S,M,5,Partial High School,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+3037,M,F,5,High School Degree,Golden,Manual,Y,3,$30K - $50K,5
+3038,S,M,5,Partial College,Bronze,Clerical,N,2,$50K - $70K,0
+3041,S,M,1,High School Degree,Bronze,Skilled Manual,N,1,$30K - $50K,0
+3043,M,F,2,Partial High School,Normal,Manual,Y,1,$10K - $30K,2
+3044,M,M,1,Bachelors Degree,Silver,Professional,Y,3,$50K - $70K,1
+3045,S,F,0,High School Degree,Bronze,Professional,N,2,$130K - $150K,0
+3047,M,M,1,Graduate Degree,Bronze,Professional,Y,3,$90K - $110K,1
+3048,S,F,3,Partial College,Bronze,Clerical,N,3,$50K - $70K,0
+3050,M,M,0,Graduate Degree,Silver,Professional,Y,1,$130K - $150K,0
+3052,M,M,4,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,0
+3054,S,F,2,Partial High School,Silver,Skilled Manual,Y,0,$10K - $30K,0
+3055,S,M,4,High School Degree,Silver,Professional,Y,1,$110K - $130K,0
+3056,M,M,4,Bachelors Degree,Silver,Professional,Y,3,$150K +,3
+3059,M,M,0,Partial High School,Bronze,Professional,Y,1,$90K - $110K,0
+3060,M,F,1,Partial College,Silver,Clerical,N,2,$30K - $50K,1
+3067,M,M,1,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+3068,S,M,5,Bachelors Degree,Bronze,Management,Y,1,$30K - $50K,0
+3070,M,M,1,Graduate Degree,Bronze,Professional,N,2,$70K - $90K,1
+3072,M,F,0,Partial High School,Bronze,Management,Y,1,$110K - $130K,0
+3073,S,M,0,Partial High School,Normal,Professional,Y,2,$90K - $110K,0
+3074,S,M,2,High School Degree,Normal,Professional,N,1,$110K - $130K,0
+3080,M,M,4,Bachelors Degree,Bronze,Professional,N,3,$70K - $90K,1
+3083,M,M,3,Partial High School,Golden,Skilled Manual,N,2,$30K - $50K,3
+3086,S,M,1,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,0
+3088,M,M,1,Bachelors Degree,Bronze,Management,Y,2,$70K - $90K,0
+3089,M,M,1,Bachelors Degree,Bronze,Management,N,3,$50K - $70K,1
+3090,S,F,3,Bachelors Degree,Bronze,Professional,Y,4,$130K - $150K,0
+3091,M,M,1,High School Degree,Bronze,Manual,Y,3,$30K - $50K,0
+3092,S,F,4,Bachelors Degree,Bronze,Professional,Y,4,$70K - $90K,0
+3097,S,F,4,Partial High School,Silver,Professional,N,2,$150K +,0
+3100,M,F,3,Bachelors Degree,Normal,Professional,N,2,$10K - $30K,1
+3102,M,M,2,Partial College,Bronze,Management,Y,2,$30K - $50K,2
+3103,M,M,5,High School Degree,Golden,Skilled Manual,Y,3,$30K - $50K,5
+3105,S,F,1,Partial College,Bronze,Professional,Y,3,$50K - $70K,0
+3109,S,F,1,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+3112,S,M,3,High School Degree,Silver,Manual,Y,4,$30K - $50K,0
+3115,S,M,2,High School Degree,Bronze,Professional,N,2,$90K - $110K,0
+3117,M,M,1,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+3119,M,M,2,Bachelors Degree,Silver,Professional,Y,3,$70K - $90K,2
+3120,S,F,2,Partial High School,Bronze,Skilled Manual,Y,1,$50K - $70K,0
+3122,S,M,3,Bachelors Degree,Bronze,Management,N,2,$70K - $90K,0
+3123,M,M,3,Bachelors Degree,Golden,Professional,Y,2,$70K - $90K,3
+3125,S,F,2,Bachelors Degree,Bronze,Management,N,3,$50K - $70K,0
+3126,S,F,1,High School Degree,Bronze,Management,Y,3,$130K - $150K,0
+3127,S,F,3,Partial High School,Bronze,Management,N,3,$70K - $90K,0
+3128,M,F,2,Bachelors Degree,Golden,Professional,N,3,$70K - $90K,2
+3130,M,F,5,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,5
+3133,M,F,3,High School Degree,Bronze,Management,Y,4,$130K - $150K,2
+3134,M,M,4,High School Degree,Golden,Manual,Y,4,$30K - $50K,4
+3135,M,M,3,Partial High School,Normal,Manual,Y,2,$10K - $30K,1
+3137,M,M,4,High School Degree,Bronze,Manual,Y,1,$30K - $50K,1
+3139,M,M,2,High School Degree,Bronze,Management,Y,4,$110K - $130K,2
+3141,S,M,0,Partial High School,Normal,Manual,N,2,$10K - $30K,0
+3144,S,M,1,Bachelors Degree,Bronze,Management,Y,3,$70K - $90K,0
+3145,S,F,5,Partial High School,Bronze,Skilled Manual,N,4,$30K - $50K,0
+3146,M,M,3,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,1
+3148,M,F,3,Bachelors Degree,Bronze,Professional,Y,3,$150K +,3
+3150,S,F,4,Partial High School,Bronze,Skilled Manual,N,3,$50K - $70K,0
+3156,M,F,3,High School Degree,Bronze,Manual,Y,3,$50K - $70K,2
+3158,M,M,2,High School Degree,Silver,Skilled Manual,Y,3,$30K - $50K,2
+3163,M,F,3,High School Degree,Bronze,Manual,Y,2,$30K - $50K,1
+3164,M,F,3,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,3
+3169,S,F,1,Graduate Degree,Bronze,Professional,Y,1,$110K - $130K,0
+3171,M,M,4,High School Degree,Bronze,Skilled Manual,Y,1,$50K - $70K,1
+3175,S,M,1,Bachelors Degree,Silver,Management,Y,3,$130K - $150K,0
+3176,S,F,3,Bachelors Degree,Bronze,Management,Y,4,$30K - $50K,0
+3177,M,M,1,Bachelors Degree,Silver,Professional,Y,4,$50K - $70K,1
+3179,S,F,4,High School Degree,Silver,Skilled Manual,Y,2,$30K - $50K,0
+3180,M,F,4,High School Degree,Normal,Professional,Y,3,$110K - $130K,4
+3181,S,F,4,Partial College,Bronze,Clerical,Y,4,$30K - $50K,0
+3191,M,F,0,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+3192,M,F,5,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,1
+3194,M,F,3,Bachelors Degree,Bronze,Management,Y,1,$90K - $110K,2
+3196,M,M,1,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,0
+3198,S,F,3,Bachelors Degree,Golden,Management,N,2,$150K +,0
+3203,M,F,0,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,0
+3206,M,M,4,Partial College,Golden,Management,Y,3,$30K - $50K,4
+3209,S,F,1,Bachelors Degree,Bronze,Management,N,3,$50K - $70K,0
+3213,M,M,0,High School Degree,Normal,Manual,Y,2,$30K - $50K,0
+3216,S,F,3,Bachelors Degree,Bronze,Professional,Y,4,$90K - $110K,0
+3219,M,F,2,Bachelors Degree,Bronze,Professional,N,4,$70K - $90K,2
+3220,M,F,4,High School Degree,Golden,Professional,Y,2,$90K - $110K,0
+3227,M,M,4,High School Degree,Bronze,Manual,Y,3,$30K - $50K,2
+3233,S,M,5,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+3237,M,F,2,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,1
+3239,S,M,3,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+3240,S,F,1,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,0
+3243,M,M,5,Partial College,Golden,Professional,Y,3,$130K - $150K,5
+3244,M,F,1,Partial High School,Golden,Skilled Manual,N,3,$30K - $50K,0
+3247,M,M,3,Bachelors Degree,Golden,Professional,N,3,$50K - $70K,3
+3248,S,M,3,High School Degree,Bronze,Professional,Y,4,$90K - $110K,0
+3249,M,M,3,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,2
+3252,M,F,4,High School Degree,Golden,Professional,N,3,$110K - $130K,3
+3253,M,M,2,High School Degree,Bronze,Skilled Manual,Y,4,$50K - $70K,2
+3257,S,M,1,High School Degree,Bronze,Manual,N,2,$30K - $50K,0
+3267,S,M,4,High School Degree,Bronze,Management,Y,3,$90K - $110K,0
+3278,M,F,0,Partial High School,Normal,Manual,Y,3,$30K - $50K,0
+3281,S,M,2,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+3282,S,M,4,Partial High School,Bronze,Management,Y,4,$90K - $110K,0
+3284,M,M,3,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,1
+3286,M,F,4,High School Degree,Bronze,Manual,Y,1,$30K - $50K,2
+3287,S,M,4,Bachelors Degree,Bronze,Professional,N,4,$50K - $70K,0
+3288,S,M,2,High School Degree,Bronze,Skilled Manual,N,4,$30K - $50K,0
+3289,S,F,4,Partial College,Normal,Manual,N,1,$30K - $50K,0
+3291,M,F,3,Partial High School,Bronze,Skilled Manual,Y,4,$50K - $70K,2
+3293,S,M,1,Graduate Degree,Golden,Professional,Y,1,$130K - $150K,0
+3295,S,M,3,High School Degree,Bronze,Professional,Y,2,$130K - $150K,0
+3296,M,F,4,Bachelors Degree,Golden,Management,Y,2,$50K - $70K,4
+3298,S,F,4,Bachelors Degree,Bronze,Management,Y,1,$130K - $150K,0
+3304,M,F,3,Partial High School,Bronze,Professional,Y,3,$70K - $90K,3
+3305,M,F,2,Bachelors Degree,Bronze,Management,Y,1,$50K - $70K,0
+3307,S,F,5,Partial College,Silver,Professional,Y,3,$130K - $150K,0
+3308,M,F,4,Partial High School,Normal,Manual,Y,1,$10K - $30K,3
+3311,M,F,2,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,2
+3314,M,M,5,Partial High School,Golden,Manual,Y,2,$50K - $70K,3
+3323,S,M,5,Partial High School,Silver,Manual,Y,1,$30K - $50K,0
+3324,M,M,3,Partial High School,Normal,Manual,N,2,$10K - $30K,0
+3325,M,F,2,Bachelors Degree,Bronze,Management,Y,3,$70K - $90K,2
+3332,M,F,5,Bachelors Degree,Golden,Professional,Y,3,$130K - $150K,5
+3334,S,F,4,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+3335,M,F,3,Partial High School,Bronze,Professional,Y,3,$90K - $110K,1
+3338,S,M,5,High School Degree,Normal,Skilled Manual,Y,1,$30K - $50K,0
+3339,M,M,3,Bachelors Degree,Golden,Professional,Y,4,$50K - $70K,3
+3341,M,F,4,Partial High School,Golden,Manual,Y,3,$30K - $50K,4
+3342,S,F,3,Bachelors Degree,Bronze,Management,N,3,$70K - $90K,0
+3343,M,M,4,High School Degree,Golden,Manual,Y,2,$30K - $50K,4
+3344,S,M,4,Partial College,Normal,Management,Y,3,$30K - $50K,0
+3345,S,F,5,Partial College,Bronze,Clerical,N,4,$50K - $70K,0
+3346,M,M,2,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,1
+3347,S,F,2,Partial High School,Bronze,Skilled Manual,Y,1,$30K - $50K,0
+3349,M,M,2,High School Degree,Bronze,Manual,Y,4,$30K - $50K,2
+3350,S,M,1,High School Degree,Normal,Manual,N,3,$30K - $50K,0
+3352,M,M,2,Bachelors Degree,Silver,Professional,N,3,$50K - $70K,0
+3353,S,M,4,High School Degree,Bronze,Manual,Y,1,$30K - $50K,0
+3354,S,F,2,Graduate Degree,Bronze,Professional,Y,3,$90K - $110K,0
+3355,S,F,1,Bachelors Degree,Bronze,Management,Y,2,$50K - $70K,0
+3359,S,F,0,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+3361,S,M,2,Bachelors Degree,Bronze,Management,Y,2,$50K - $70K,0
+3362,S,M,0,Bachelors Degree,Silver,Professional,N,3,$50K - $70K,0
+3364,M,F,4,Bachelors Degree,Golden,Management,Y,3,$50K - $70K,4
+3365,M,F,4,High School Degree,Normal,Skilled Manual,Y,1,$10K - $30K,1
+3366,S,M,2,Partial College,Bronze,Management,Y,1,$130K - $150K,0
+3367,S,F,2,High School Degree,Bronze,Manual,N,2,$30K - $50K,0
+3368,S,F,4,High School Degree,Silver,Manual,Y,1,$30K - $50K,0
+3369,S,F,2,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,0
+3372,S,F,3,Bachelors Degree,Bronze,Management,N,1,$50K - $70K,0
+3373,S,F,1,Partial High School,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+3375,S,M,4,Partial High School,Golden,Manual,Y,3,$50K - $70K,0
+3377,S,M,4,Bachelors Degree,Silver,Professional,Y,2,$50K - $70K,0
+3378,S,M,2,High School Degree,Normal,Skilled Manual,Y,3,$30K - $50K,0
+3380,S,F,2,Bachelors Degree,Normal,Management,Y,4,$50K - $70K,0
+3383,S,F,3,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,0
+3384,M,F,4,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,1
+3386,M,M,3,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,2
+3387,S,M,3,Bachelors Degree,Bronze,Management,N,3,$50K - $70K,0
+3388,S,M,3,Partial High School,Bronze,Manual,N,0,$10K - $30K,0
+3390,S,M,1,Partial College,Bronze,Manual,Y,2,$30K - $50K,0
+3392,M,F,1,Partial High School,Normal,Manual,N,1,$10K - $30K,1
+3394,S,M,3,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+3396,S,F,1,Bachelors Degree,Silver,Professional,N,3,$70K - $90K,0
+3398,M,F,2,High School Degree,Bronze,Professional,Y,3,$130K - $150K,1
+3401,M,M,4,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,4
+3402,S,F,4,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+3404,M,M,3,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,1
+3406,S,M,3,Partial College,Normal,Management,Y,2,$110K - $130K,0
+3411,S,M,3,High School Degree,Normal,Management,Y,2,$90K - $110K,0
+3413,M,F,3,High School Degree,Normal,Manual,Y,3,$30K - $50K,1
+3416,M,F,2,Graduate Degree,Bronze,Professional,Y,2,$70K - $90K,0
+3422,M,F,4,High School Degree,Bronze,Professional,Y,1,$130K - $150K,0
+3424,M,M,5,Graduate Degree,Golden,Professional,Y,3,$90K - $110K,3
+3426,M,M,2,Bachelors Degree,Bronze,Management,Y,3,$70K - $90K,2
+3427,S,F,4,Bachelors Degree,Bronze,Management,Y,4,$50K - $70K,0
+3430,S,M,5,Bachelors Degree,Silver,Professional,Y,3,$50K - $70K,0
+3436,M,M,0,Bachelors Degree,Normal,Professional,Y,2,$10K - $30K,0
+3437,M,M,1,High School Degree,Bronze,Manual,N,3,$30K - $50K,1
+3439,M,M,3,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+3441,M,F,0,Partial College,Bronze,Manual,N,2,$50K - $70K,0
+3444,S,M,0,High School Degree,Bronze,Skilled Manual,Y,3,$50K - $70K,0
+3447,S,F,5,Bachelors Degree,Normal,Management,Y,2,$10K - $30K,0
+3449,S,M,3,Partial High School,Silver,Management,Y,2,$130K - $150K,0
+3451,S,M,2,Bachelors Degree,Bronze,Professional,Y,1,$70K - $90K,0
+3455,M,M,0,High School Degree,Bronze,Professional,Y,4,$110K - $130K,0
+3456,M,F,1,Partial High School,Bronze,Manual,N,4,$50K - $70K,1
+3459,S,M,4,Bachelors Degree,Normal,Management,Y,3,$70K - $90K,0
+3460,M,F,4,Partial High School,Golden,Skilled Manual,N,1,$10K - $30K,2
+3461,S,F,3,Partial College,Normal,Management,Y,1,$30K - $50K,0
+3462,M,M,0,Bachelors Degree,Silver,Professional,N,2,$70K - $90K,0
+3464,M,F,3,Partial College,Bronze,Professional,Y,1,$30K - $50K,1
+3467,S,M,4,High School Degree,Silver,Manual,N,3,$30K - $50K,0
+3469,S,M,4,Graduate Degree,Silver,Professional,N,2,$70K - $90K,0
+3471,M,F,1,Partial High School,Bronze,Manual,Y,2,$30K - $50K,1
+3472,S,M,5,Partial High School,Normal,Manual,Y,0,$10K - $30K,0
+3473,M,M,4,Partial College,Bronze,Clerical,Y,3,$30K - $50K,4
+3483,M,F,3,High School Degree,Bronze,Management,Y,4,$110K - $130K,2
+3485,S,F,0,Bachelors Degree,Bronze,Professional,N,2,$90K - $110K,0
+3486,S,M,3,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,0
+3492,S,M,0,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+3497,S,M,5,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,0
+3498,S,F,1,Graduate Degree,Bronze,Professional,Y,2,$70K - $90K,0
+3499,S,F,3,High School Degree,Bronze,Management,Y,1,$130K - $150K,0
+3501,M,M,1,High School Degree,Silver,Manual,Y,2,$30K - $50K,1
+3511,S,M,1,High School Degree,Silver,Professional,Y,2,$150K +,0
+3513,S,F,4,Graduate Degree,Bronze,Management,Y,3,$70K - $90K,0
+3514,S,F,4,Graduate Degree,Bronze,Professional,Y,3,$130K - $150K,0
+3515,M,M,3,Bachelors Degree,Golden,Professional,Y,4,$70K - $90K,3
+3516,M,M,1,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+3529,M,M,3,Partial High School,Bronze,Skilled Manual,Y,2,$10K - $30K,3
+3533,S,F,1,Graduate Degree,Bronze,Professional,Y,3,$90K - $110K,0
+3537,M,F,0,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+3544,S,F,0,Partial High School,Bronze,Management,Y,1,$130K - $150K,0
+3547,S,F,0,Partial High School,Bronze,Manual,N,2,$30K - $50K,0
+3550,M,F,2,High School Degree,Bronze,Manual,Y,1,$30K - $50K,1
+3551,M,M,5,High School Degree,Golden,Manual,Y,3,$30K - $50K,5
+3553,M,F,3,High School Degree,Silver,Skilled Manual,Y,1,$30K - $50K,2
+3555,S,F,5,Partial College,Golden,Professional,Y,2,$110K - $130K,0
+3557,S,M,5,Bachelors Degree,Normal,Professional,Y,3,$50K - $70K,0
+3558,S,F,4,Bachelors Degree,Bronze,Professional,N,2,$130K - $150K,0
+3559,S,M,1,Bachelors Degree,Bronze,Professional,N,3,$70K - $90K,0
+3561,M,M,3,Partial High School,Bronze,Manual,Y,1,$10K - $30K,0
+3567,M,F,2,Graduate Degree,Bronze,Professional,Y,3,$70K - $90K,1
+3571,M,M,1,Partial College,Bronze,Management,N,2,$90K - $110K,0
+3573,M,F,1,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+3575,M,M,4,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,4
+3597,M,F,1,High School Degree,Normal,Manual,Y,2,$30K - $50K,1
+3602,S,M,2,Partial High School,Bronze,Professional,Y,3,$110K - $130K,0
+3605,S,F,3,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,0
+3606,S,M,2,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+3607,S,M,2,Bachelors Degree,Bronze,Professional,Y,3,$130K - $150K,0
+3608,S,M,1,High School Degree,Bronze,Manual,N,1,$50K - $70K,0
+3612,M,F,3,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,1
+3613,M,M,0,Graduate Degree,Bronze,Professional,Y,2,$110K - $130K,0
+3614,S,M,1,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,0
+3618,M,M,5,Partial College,Silver,Clerical,Y,4,$50K - $70K,2
+3619,S,F,3,Partial High School,Silver,Professional,N,3,$90K - $110K,0
+3623,M,M,0,High School Degree,Bronze,Manual,Y,2,$50K - $70K,0
+3628,M,F,4,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,1
+3631,S,F,2,High School Degree,Bronze,Professional,Y,2,$90K - $110K,0
+3633,S,F,1,Bachelors Degree,Bronze,Professional,Y,4,$70K - $90K,0
+3637,M,F,1,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,1
+3639,S,F,1,Graduate Degree,Bronze,Professional,Y,3,$30K - $50K,0
+3640,M,F,4,Bachelors Degree,Silver,Professional,Y,2,$50K - $70K,0
+3642,M,M,5,Bachelors Degree,Golden,Management,N,4,$50K - $70K,5
+3646,M,F,4,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+3648,S,M,3,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,0
+3651,S,F,1,Bachelors Degree,Bronze,Professional,Y,2,$130K - $150K,0
+3652,S,M,1,Partial High School,Bronze,Skilled Manual,N,2,$30K - $50K,0
+3654,M,F,1,High School Degree,Bronze,Skilled Manual,N,1,$30K - $50K,1
+3655,S,M,0,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,0
+3656,S,F,4,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,0
+3661,S,F,3,Bachelors Degree,Bronze,Management,N,4,$30K - $50K,0
+3666,S,F,5,Bachelors Degree,Bronze,Management,N,1,$70K - $90K,0
+3670,S,F,3,Partial High School,Bronze,Skilled Manual,N,1,$30K - $50K,0
+3671,S,F,1,Partial High School,Bronze,Skilled Manual,N,1,$10K - $30K,0
+3672,S,M,4,Partial High School,Silver,Management,Y,4,$150K +,0
+3674,S,F,5,Partial High School,Bronze,Manual,N,3,$30K - $50K,0
+3678,S,F,2,High School Degree,Normal,Professional,N,3,$70K - $90K,0
+3681,M,F,1,Partial High School,Normal,Manual,Y,2,$10K - $30K,1
+3690,S,F,1,Bachelors Degree,Golden,Management,Y,2,$70K - $90K,0
+3694,M,M,2,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,1
+3696,M,F,1,Partial High School,Normal,Manual,N,0,$10K - $30K,1
+3698,S,M,4,Bachelors Degree,Bronze,Management,Y,1,$50K - $70K,0
+3701,S,M,4,High School Degree,Golden,Skilled Manual,N,4,$30K - $50K,0
+3706,S,M,4,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,0
+3717,M,M,2,Partial High School,Bronze,Manual,N,2,$30K - $50K,2
+3723,M,M,4,Partial College,Golden,Clerical,Y,2,$30K - $50K,3
+3729,M,F,4,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,1
+3730,M,M,2,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,0
+3732,M,F,2,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,0
+3734,S,M,3,Bachelors Degree,Bronze,Professional,N,4,$70K - $90K,0
+3735,S,F,5,Partial High School,Bronze,Professional,Y,4,$130K - $150K,0
+3738,S,M,3,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+3741,S,M,4,Bachelors Degree,Golden,Professional,N,3,$50K - $70K,0
+3742,S,M,0,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+3743,M,F,3,Bachelors Degree,Bronze,Professional,N,3,$70K - $90K,2
+3745,M,M,2,Partial High School,Bronze,Professional,Y,3,$90K - $110K,2
+3750,S,M,4,Bachelors Degree,Bronze,Professional,Y,2,$110K - $130K,0
+3751,S,F,1,Partial High School,Bronze,Professional,Y,4,$110K - $130K,0
+3755,M,M,1,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,1
+3759,S,F,3,Bachelors Degree,Bronze,Professional,N,2,$30K - $50K,0
+3767,M,F,2,Bachelors Degree,Silver,Professional,Y,2,$50K - $70K,2
+3769,M,M,4,Graduate Degree,Golden,Professional,Y,3,$70K - $90K,3
+3770,S,F,5,Partial College,Bronze,Professional,Y,2,$50K - $70K,0
+3771,S,F,5,High School Degree,Normal,Skilled Manual,N,1,$10K - $30K,0
+3774,S,M,3,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+3775,M,F,4,High School Degree,Golden,Skilled Manual,Y,2,$30K - $50K,4
+3780,M,M,4,High School Degree,Golden,Skilled Manual,Y,4,$30K - $50K,3
+3786,S,F,4,Bachelors Degree,Bronze,Professional,N,1,$70K - $90K,0
+3789,M,F,5,Partial College,Golden,Clerical,Y,3,$30K - $50K,5
+3791,M,F,3,Graduate Degree,Bronze,Professional,Y,2,$90K - $110K,2
+3793,S,F,1,High School Degree,Silver,Professional,N,2,$70K - $90K,0
+3795,M,M,3,Bachelors Degree,Normal,Professional,N,4,$50K - $70K,0
+3803,M,M,4,High School Degree,Golden,Manual,Y,2,$30K - $50K,3
+3804,S,F,2,High School Degree,Bronze,Skilled Manual,N,1,$30K - $50K,0
+3809,M,M,1,Partial High School,Bronze,Manual,N,3,$50K - $70K,1
+3810,S,F,3,Partial High School,Silver,Skilled Manual,N,0,$10K - $30K,0
+3812,M,F,2,Bachelors Degree,Bronze,Professional,Y,4,$90K - $110K,2
+3813,S,M,1,High School Degree,Bronze,Professional,N,2,$110K - $130K,0
+3820,S,F,4,Partial High School,Bronze,Manual,N,2,$30K - $50K,0
+3823,M,M,1,Partial High School,Normal,Manual,N,0,$10K - $30K,1
+3825,S,F,3,Partial High School,Normal,Manual,N,0,$10K - $30K,0
+3830,S,F,2,Partial High School,Bronze,Management,N,3,$70K - $90K,0
+3832,M,F,2,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+3839,S,M,3,Bachelors Degree,Bronze,Professional,Y,2,$30K - $50K,0
+3847,M,F,3,Graduate Degree,Bronze,Professional,Y,3,$70K - $90K,1
+3848,M,F,2,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,0
+3849,S,F,2,High School Degree,Bronze,Manual,N,4,$30K - $50K,0
+3851,S,F,1,High School Degree,Bronze,Manual,Y,1,$30K - $50K,0
+3852,M,F,3,High School Degree,Silver,Manual,Y,4,$50K - $70K,3
+3854,M,M,2,High School Degree,Silver,Manual,Y,4,$30K - $50K,2
+3855,S,M,4,Bachelors Degree,Silver,Management,N,4,$50K - $70K,0
+3856,M,M,1,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,1
+3858,M,M,3,Bachelors Degree,Golden,Management,N,2,$50K - $70K,3
+3859,S,M,5,Partial College,Normal,Manual,Y,1,$30K - $50K,0
+3864,M,F,2,Partial College,Bronze,Clerical,Y,1,$30K - $50K,1
+3870,S,F,4,Bachelors Degree,Bronze,Management,N,3,$50K - $70K,0
+3873,M,M,2,High School Degree,Bronze,Manual,N,1,$30K - $50K,0
+3874,M,F,1,Graduate Degree,Bronze,Professional,N,4,$70K - $90K,1
+3877,M,M,2,Partial High School,Bronze,Management,Y,3,$90K - $110K,0
+3878,S,M,4,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+3882,M,M,3,Bachelors Degree,Golden,Management,Y,3,$70K - $90K,3
+3883,M,M,4,Partial High School,Normal,Manual,N,2,$10K - $30K,0
+3884,M,F,3,Partial High School,Normal,Manual,Y,2,$10K - $30K,1
+3887,S,M,2,Partial High School,Bronze,Skilled Manual,N,1,$30K - $50K,0
+3889,S,F,1,High School Degree,Bronze,Manual,N,4,$30K - $50K,0
+3892,S,M,1,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,0
+3894,S,F,3,Bachelors Degree,Bronze,Professional,N,1,$70K - $90K,0
+3896,S,M,4,High School Degree,Bronze,Professional,Y,2,$90K - $110K,0
+3897,M,M,1,High School Degree,Silver,Skilled Manual,Y,4,$30K - $50K,0
+3899,M,M,1,Partial High School,Bronze,Manual,Y,1,$30K - $50K,1
+3901,M,M,3,Partial College,Silver,Clerical,Y,2,$30K - $50K,3
+3902,S,F,2,Partial College,Bronze,Clerical,N,3,$30K - $50K,0
+3905,M,M,2,Bachelors Degree,Silver,Professional,N,4,$70K - $90K,0
+3906,M,M,3,High School Degree,Silver,Manual,Y,3,$30K - $50K,3
+3907,M,M,3,Partial High School,Golden,Management,Y,1,$150K +,2
+3909,M,F,2,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,0
+3910,M,F,2,High School Degree,Bronze,Professional,Y,4,$70K - $90K,2
+3911,S,F,4,High School Degree,Silver,Professional,Y,4,$150K +,0
+3916,M,M,2,Partial High School,Bronze,Skilled Manual,N,3,$30K - $50K,0
+3917,S,F,2,Partial High School,Silver,Management,Y,2,$150K +,0
+3919,M,M,3,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,3
+3921,S,F,4,Partial High School,Bronze,Professional,N,3,$70K - $90K,0
+3922,M,M,2,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+3924,S,F,4,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+3925,S,F,2,High School Degree,Silver,Skilled Manual,Y,2,$30K - $50K,0
+3926,M,M,3,Partial College,Bronze,Clerical,N,1,$30K - $50K,2
+3927,M,F,4,Bachelors Degree,Golden,Professional,Y,3,$50K - $70K,4
+3928,M,F,2,Graduate Degree,Bronze,Professional,Y,2,$110K - $130K,1
+3936,M,M,3,Bachelors Degree,Normal,Professional,N,1,$10K - $30K,3
+3937,S,M,5,Partial High School,Bronze,Manual,N,3,$30K - $50K,0
+3939,M,F,2,Partial High School,Bronze,Professional,Y,4,$130K - $150K,2
+3942,S,F,3,Bachelors Degree,Bronze,Management,Y,2,$50K - $70K,0
+3944,S,M,3,Partial College,Bronze,Clerical,N,3,$30K - $50K,0
+3945,M,F,4,Partial College,Bronze,Clerical,Y,2,$50K - $70K,4
+3949,S,M,3,Partial College,Bronze,Professional,N,2,$130K - $150K,0
+3951,S,F,2,Partial College,Bronze,Professional,Y,2,$30K - $50K,0
+3952,S,F,2,Partial College,Bronze,Skilled Manual,N,3,$30K - $50K,0
+3953,S,M,2,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,0
+3954,S,F,2,High School Degree,Golden,Professional,Y,4,$130K - $150K,0
+3964,M,F,5,Bachelors Degree,Silver,Professional,Y,3,$130K - $150K,2
+3993,M,F,2,High School Degree,Normal,Management,Y,3,$70K - $90K,2
+3999,M,F,2,Bachelors Degree,Bronze,Professional,Y,3,$90K - $110K,2
+4000,S,F,4,Bachelors Degree,Golden,Management,Y,4,$50K - $70K,0
+4012,M,F,3,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+4018,S,F,3,High School Degree,Bronze,Professional,Y,4,$130K - $150K,0
+4022,S,M,3,High School Degree,Normal,Management,Y,1,$70K - $90K,0
+4038,M,M,5,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,3
+4039,M,F,1,Bachelors Degree,Golden,Management,Y,2,$150K +,1
+4045,M,F,2,Bachelors Degree,Bronze,Management,N,3,$50K - $70K,1
+4047,M,F,2,Partial College,Bronze,Clerical,N,2,$30K - $50K,2
+4052,S,M,2,High School Degree,Bronze,Management,Y,2,$110K - $130K,0
+4060,M,M,3,High School Degree,Bronze,Skilled Manual,N,4,$50K - $70K,1
+4061,S,M,2,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+4076,S,F,0,Graduate Degree,Silver,Professional,Y,2,$70K - $90K,0
+4081,M,M,2,Graduate Degree,Golden,Professional,Y,1,$150K +,2
+4092,S,M,1,Partial High School,Golden,Skilled Manual,N,2,$10K - $30K,0
+4097,M,M,3,Partial College,Golden,Clerical,Y,3,$30K - $50K,3
+4112,M,M,2,Partial High School,Bronze,Professional,Y,3,$110K - $130K,0
+4123,M,F,1,Partial College,Silver,Clerical,Y,2,$30K - $50K,1
+4128,S,F,0,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+4129,M,M,0,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+4130,M,F,2,Partial College,Bronze,Management,Y,1,$30K - $50K,1
+4151,S,M,5,High School Degree,Bronze,Manual,N,4,$30K - $50K,0
+4154,S,F,2,Graduate Degree,Golden,Professional,N,3,$70K - $90K,0
+4161,S,M,0,Partial High School,Bronze,Skilled Manual,N,0,$10K - $30K,0
+4170,M,M,4,Graduate Degree,Bronze,Management,N,2,$130K - $150K,2
+4172,S,F,2,High School Degree,Normal,Skilled Manual,N,2,$30K - $50K,0
+4173,S,M,2,High School Degree,Normal,Skilled Manual,Y,2,$50K - $70K,0
+4183,M,M,5,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,1
+4195,M,M,4,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,0
+4197,S,M,5,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+4198,S,F,2,Graduate Degree,Bronze,Professional,Y,2,$110K - $130K,0
+4199,S,F,1,Bachelors Degree,Bronze,Management,Y,3,$90K - $110K,0
+4207,S,F,2,High School Degree,Silver,Manual,N,3,$30K - $50K,0
+4208,S,M,1,High School Degree,Bronze,Management,N,2,$70K - $90K,0
+4222,M,F,3,High School Degree,Golden,Management,Y,3,$110K - $130K,3
+4224,S,F,2,High School Degree,Bronze,Skilled Manual,N,1,$50K - $70K,0
+4225,M,F,5,Bachelors Degree,Silver,Management,Y,3,$50K - $70K,5
+4229,S,F,3,Bachelors Degree,Golden,Management,N,4,$30K - $50K,0
+4230,M,M,5,Partial High School,Normal,Manual,Y,0,$10K - $30K,1
+4232,M,F,3,High School Degree,Golden,Professional,Y,1,$150K +,1
+4234,S,F,1,Graduate Degree,Bronze,Management,Y,2,$110K - $130K,0
+4236,S,M,4,Bachelors Degree,Golden,Professional,Y,2,$50K - $70K,0
+4241,S,M,5,Partial High School,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+4245,S,M,5,Bachelors Degree,Bronze,Management,Y,2,$50K - $70K,0
+4246,S,M,3,Partial College,Bronze,Professional,N,1,$30K - $50K,0
+4247,S,F,5,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,0
+4249,M,M,1,Partial High School,Silver,Skilled Manual,Y,0,$10K - $30K,1
+4250,S,F,4,Bachelors Degree,Bronze,Professional,N,4,$50K - $70K,0
+4251,S,M,3,Bachelors Degree,Normal,Professional,N,2,$50K - $70K,0
+4253,M,F,3,High School Degree,Bronze,Manual,Y,4,$30K - $50K,0
+4254,M,M,1,High School Degree,Silver,Skilled Manual,Y,3,$30K - $50K,0
+4257,S,F,2,Partial High School,Bronze,Professional,N,1,$70K - $90K,0
+4262,S,M,5,Graduate Degree,Bronze,Management,N,1,$70K - $90K,0
+4263,S,M,1,Partial College,Bronze,Skilled Manual,N,3,$30K - $50K,0
+4267,S,F,2,Bachelors Degree,Bronze,Professional,N,3,$70K - $90K,0
+4271,S,M,3,Partial College,Silver,Professional,Y,3,$150K +,0
+4276,M,M,4,Partial College,Golden,Manual,N,2,$30K - $50K,3
+4277,M,F,2,Partial College,Bronze,Management,N,3,$30K - $50K,1
+4278,S,M,0,Graduate Degree,Bronze,Professional,N,4,$70K - $90K,0
+4279,S,M,1,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+4280,S,F,4,Graduate Degree,Silver,Professional,Y,4,$90K - $110K,0
+4281,S,M,1,Partial College,Bronze,Skilled Manual,N,2,$30K - $50K,0
+4282,M,M,3,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,2
+4283,S,M,5,High School Degree,Golden,Skilled Manual,Y,2,$30K - $50K,0
+4290,M,M,2,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+4298,M,F,4,Partial College,Silver,Manual,Y,3,$30K - $50K,0
+4299,M,M,1,Bachelors Degree,Bronze,Professional,N,3,$30K - $50K,0
+4301,M,M,3,High School Degree,Bronze,Manual,Y,3,$30K - $50K,1
+4311,S,F,2,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,0
+4314,S,F,3,Partial College,Bronze,Clerical,Y,2,$30K - $50K,0
+4319,M,M,3,High School Degree,Normal,Skilled Manual,Y,1,$30K - $50K,1
+4337,M,F,5,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,2
+4341,M,M,5,Bachelors Degree,Golden,Professional,Y,3,$130K - $150K,4
+4348,S,M,0,Bachelors Degree,Bronze,Professional,N,1,$70K - $90K,0
+4356,M,F,3,Bachelors Degree,Bronze,Management,Y,3,$70K - $90K,1
+4374,S,M,1,High School Degree,Normal,Skilled Manual,N,1,$30K - $50K,0
+4390,S,F,3,Partial High School,Bronze,Professional,Y,3,$70K - $90K,0
+4411,M,M,2,Partial High School,Normal,Manual,N,1,$10K - $30K,1
+4433,M,F,4,Partial College,Bronze,Professional,Y,4,$70K - $90K,0
+4434,M,M,3,Partial High School,Silver,Skilled Manual,Y,3,$30K - $50K,3
+4442,S,F,4,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,0
+4444,M,F,2,Bachelors Degree,Bronze,Professional,Y,2,$130K - $150K,2
+4447,M,F,4,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,0
+4448,S,M,5,Partial College,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+4449,M,F,3,Graduate Degree,Golden,Management,Y,3,$90K - $110K,3
+4452,M,F,1,Partial College,Bronze,Professional,Y,1,$30K - $50K,1
+4454,S,M,3,High School Degree,Bronze,Professional,N,1,$70K - $90K,0
+4463,S,M,1,Bachelors Degree,Golden,Management,Y,2,$50K - $70K,0
+4465,S,F,5,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,0
+4469,S,F,0,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,0
+4470,M,M,5,Partial High School,Golden,Manual,N,3,$30K - $50K,4
+4479,M,F,1,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,1
+4488,M,F,4,Partial High School,Bronze,Professional,N,1,$130K - $150K,2
+4492,S,F,3,High School Degree,Bronze,Manual,N,3,$30K - $50K,0
+4495,M,F,4,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+4498,S,F,4,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,0
+4499,S,F,3,Partial High School,Bronze,Management,Y,1,$130K - $150K,0
+4500,S,M,5,Partial High School,Silver,Professional,Y,2,$150K +,0
+4502,M,M,1,High School Degree,Bronze,Professional,Y,2,$130K - $150K,1
+4506,S,M,4,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,0
+4509,M,F,3,Bachelors Degree,Golden,Management,Y,3,$50K - $70K,3
+4566,S,F,5,Bachelors Degree,Bronze,Management,N,2,$70K - $90K,0
+4567,M,M,4,Bachelors Degree,Golden,Professional,Y,2,$50K - $70K,3
+4568,M,M,5,High School Degree,Golden,Manual,N,3,$30K - $50K,4
+4571,M,M,3,Bachelors Degree,Bronze,Management,Y,1,$50K - $70K,1
+4572,M,F,1,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,1
+4574,M,F,0,Partial High School,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+4575,S,M,3,Partial High School,Bronze,Manual,N,3,$50K - $70K,0
+4576,S,F,2,High School Degree,Golden,Skilled Manual,Y,3,$30K - $50K,0
+4578,M,F,2,Partial High School,Bronze,Management,Y,4,$90K - $110K,2
+4580,M,F,1,High School Degree,Bronze,Management,Y,2,$110K - $130K,1
+4581,M,F,4,Partial High School,Normal,Manual,Y,0,$10K - $30K,0
+4588,M,F,4,Partial High School,Golden,Skilled Manual,N,4,$30K - $50K,4
+4590,M,M,0,Partial College,Bronze,Clerical,Y,2,$30K - $50K,0
+4594,M,F,0,Partial College,Bronze,Clerical,N,2,$30K - $50K,0
+4598,S,M,3,High School Degree,Golden,Skilled Manual,N,2,$50K - $70K,0
+4599,S,F,2,Partial High School,Normal,Manual,Y,0,$10K - $30K,0
+4608,M,M,1,Partial College,Bronze,Management,Y,4,$30K - $50K,0
+4610,M,M,5,High School Degree,Silver,Professional,Y,3,$110K - $130K,5
+4611,M,M,2,Bachelors Degree,Bronze,Management,N,4,$50K - $70K,1
+4613,M,M,0,Partial High School,Silver,Professional,Y,1,$130K - $150K,0
+4619,S,F,3,Graduate Degree,Bronze,Professional,Y,3,$110K - $130K,0
+4624,S,M,3,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,0
+4628,M,F,5,High School Degree,Golden,Skilled Manual,Y,2,$30K - $50K,5
+4634,S,F,2,Bachelors Degree,Bronze,Management,Y,4,$50K - $70K,0
+4645,M,F,2,Partial College,Bronze,Manual,Y,4,$30K - $50K,1
+4650,M,F,4,Bachelors Degree,Bronze,Professional,Y,4,$70K - $90K,1
+4655,S,M,1,Partial High School,Bronze,Manual,N,3,$50K - $70K,0
+4656,S,M,4,High School Degree,Bronze,Skilled Manual,N,1,$30K - $50K,0
+4658,M,M,4,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,1
+4659,M,F,1,Partial College,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+4660,M,F,1,High School Degree,Bronze,Management,Y,3,$110K - $130K,1
+4665,S,F,3,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,0
+4666,S,F,2,Bachelors Degree,Bronze,Management,N,4,$70K - $90K,0
+4668,S,F,5,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+4675,M,M,4,Partial High School,Bronze,Skilled Manual,Y,2,$30K - $50K,1
+4676,M,M,1,Partial College,Golden,Clerical,Y,2,$10K - $30K,0
+4678,M,F,1,High School Degree,Bronze,Skilled Manual,N,4,$30K - $50K,0
+4681,S,F,5,High School Degree,Bronze,Manual,N,4,$30K - $50K,0
+4682,S,F,5,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,0
+4683,M,F,3,Partial High School,Golden,Management,N,3,$110K - $130K,3
+4685,S,F,1,Bachelors Degree,Bronze,Management,Y,4,$50K - $70K,0
+4689,M,M,3,Partial College,Bronze,Skilled Manual,Y,3,$30K - $50K,1
+4695,M,F,4,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,4
+4697,M,M,4,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,1
+4700,M,F,3,High School Degree,Golden,Skilled Manual,Y,4,$30K - $50K,3
+4715,S,M,1,Partial High School,Bronze,Manual,N,3,$30K - $50K,0
+4725,M,M,5,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,5
+4726,M,M,2,High School Degree,Bronze,Manual,Y,1,$30K - $50K,1
+4728,S,M,5,High School Degree,Bronze,Professional,N,2,$70K - $90K,0
+4729,S,M,2,Partial College,Silver,Skilled Manual,Y,3,$30K - $50K,0
+4730,S,M,2,Bachelors Degree,Silver,Professional,N,2,$90K - $110K,0
+4738,M,M,3,Bachelors Degree,Bronze,Management,N,1,$70K - $90K,2
+4740,S,F,2,Bachelors Degree,Golden,Professional,N,4,$70K - $90K,0
+4744,M,F,3,High School Degree,Bronze,Manual,Y,1,$30K - $50K,0
+4748,S,F,0,Partial College,Bronze,Professional,N,3,$50K - $70K,0
+4751,M,M,5,High School Degree,Normal,Manual,Y,2,$10K - $30K,3
+4753,S,F,5,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+4757,S,F,4,High School Degree,Bronze,Professional,Y,3,$130K - $150K,0
+4760,S,F,1,Partial College,Bronze,Management,N,2,$30K - $50K,0
+4764,S,M,0,Bachelors Degree,Bronze,Management,N,4,$110K - $130K,0
+4765,M,F,1,Partial High School,Bronze,Skilled Manual,Y,3,$30K - $50K,1
+4775,M,M,2,High School Degree,Bronze,Manual,Y,3,$30K - $50K,2
+4781,S,M,1,Bachelors Degree,Normal,Professional,Y,2,$90K - $110K,0
+4793,S,F,0,High School Degree,Bronze,Manual,N,2,$30K - $50K,0
+4798,M,M,1,Partial College,Bronze,Professional,Y,2,$50K - $70K,1
+4809,M,F,0,Bachelors Degree,Bronze,Professional,Y,4,$70K - $90K,0
+4813,M,M,2,Partial High School,Bronze,Skilled Manual,Y,0,$10K - $30K,2
+4814,M,M,1,Partial High School,Bronze,Professional,Y,4,$70K - $90K,1
+4816,M,F,5,Partial High School,Golden,Manual,Y,3,$30K - $50K,3
+4818,M,M,4,High School Degree,Normal,Skilled Manual,Y,1,$10K - $30K,1
+4819,S,F,4,High School Degree,Bronze,Professional,Y,4,$90K - $110K,0
+4823,M,F,1,Bachelors Degree,Normal,Professional,Y,2,$10K - $30K,1
+4849,M,M,4,Graduate Degree,Golden,Professional,Y,2,$70K - $90K,4
+4851,S,M,2,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+4852,S,F,2,Partial High School,Silver,Skilled Manual,N,2,$30K - $50K,0
+4855,M,F,0,Graduate Degree,Bronze,Management,N,2,$70K - $90K,0
+4901,S,M,0,Graduate Degree,Bronze,Professional,Y,3,$70K - $90K,0
+4905,M,M,3,Partial High School,Normal,Manual,N,1,$10K - $30K,1
+4911,S,M,4,High School Degree,Golden,Skilled Manual,N,2,$30K - $50K,0
+4912,M,M,3,Partial High School,Silver,Professional,Y,3,$130K - $150K,1
+4915,S,M,2,Bachelors Degree,Bronze,Professional,Y,4,$30K - $50K,0
+4919,M,F,2,Bachelors Degree,Silver,Professional,Y,3,$50K - $70K,0
+4939,M,M,4,High School Degree,Golden,Manual,N,3,$30K - $50K,3
+4944,M,F,0,High School Degree,Bronze,Manual,Y,4,$30K - $50K,0
+4948,S,M,3,Bachelors Degree,Golden,Professional,N,2,$70K - $90K,0
+4963,M,M,3,Bachelors Degree,Normal,Professional,N,4,$50K - $70K,1
+4977,M,F,2,High School Degree,Bronze,Manual,Y,3,$30K - $50K,2
+4983,S,M,1,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+4992,M,F,4,Partial High School,Normal,Manual,N,1,$10K - $30K,1
+5022,M,M,5,High School Degree,Golden,Management,Y,3,$130K - $150K,5
+5027,M,F,4,Graduate Degree,Bronze,Professional,Y,4,$70K - $90K,4
+5034,S,M,2,Graduate Degree,Normal,Management,N,3,$70K - $90K,0
+5036,M,F,1,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,0
+5037,M,F,5,High School Degree,Golden,Management,N,2,$150K +,5
+5039,S,M,2,Partial High School,Bronze,Professional,Y,4,$70K - $90K,0
+5040,M,M,4,Partial High School,Silver,Manual,Y,3,$30K - $50K,4
+5041,S,M,4,Partial High School,Silver,Skilled Manual,Y,0,$10K - $30K,0
+5043,M,F,5,Partial High School,Normal,Manual,N,0,$10K - $30K,0
+5062,S,M,5,High School Degree,Bronze,Manual,Y,3,$30K - $50K,0
+5065,S,F,3,High School Degree,Bronze,Skilled Manual,Y,1,$30K - $50K,0
+5067,M,M,0,High School Degree,Bronze,Professional,Y,2,$90K - $110K,0
+5072,S,M,5,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,0
+5074,S,F,4,Bachelors Degree,Bronze,Professional,Y,3,$90K - $110K,0
+5144,S,F,4,High School Degree,Bronze,Management,Y,4,$110K - $130K,0
+5145,S,M,1,Bachelors Degree,Bronze,Professional,N,3,$110K - $130K,0
+5149,M,M,0,Bachelors Degree,Bronze,Management,Y,2,$50K - $70K,0
+5155,M,F,4,Partial High School,Bronze,Manual,N,2,$10K - $30K,1
+5179,M,M,2,Bachelors Degree,Normal,Management,Y,2,$10K - $30K,2
+5181,S,M,1,Partial College,Bronze,Management,N,4,$30K - $50K,0
+5183,S,F,3,Partial College,Bronze,Manual,Y,3,$30K - $50K,0
+5185,M,M,5,Bachelors Degree,Golden,Professional,Y,2,$50K - $70K,5
+5189,S,F,1,High School Degree,Normal,Manual,N,2,$30K - $50K,0
+5190,S,M,4,High School Degree,Golden,Skilled Manual,N,1,$30K - $50K,0
+5191,M,M,5,High School Degree,Bronze,Manual,N,3,$30K - $50K,2
+5194,M,M,3,Partial College,Golden,Skilled Manual,Y,2,$30K - $50K,2
+5198,S,M,2,Bachelors Degree,Bronze,Management,N,2,$70K - $90K,0
+5200,M,M,4,Partial High School,Golden,Professional,Y,3,$70K - $90K,4
+5204,M,F,2,Partial High School,Bronze,Manual,Y,1,$30K - $50K,0
+5208,S,M,1,Bachelors Degree,Bronze,Professional,N,4,$50K - $70K,0
+5213,S,M,0,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,0
+5217,M,F,2,Bachelors Degree,Bronze,Professional,N,3,$70K - $90K,2
+5223,S,M,2,Partial High School,Silver,Management,Y,1,$130K - $150K,0
+5228,M,M,3,High School Degree,Bronze,Manual,N,2,$30K - $50K,2
+5229,S,M,3,High School Degree,Silver,Professional,N,1,$150K +,0
+5230,S,F,3,Partial High School,Normal,Skilled Manual,N,3,$50K - $70K,0
+5232,M,M,1,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,1
+5240,M,F,4,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,2
+5246,S,F,3,Bachelors Degree,Silver,Professional,N,2,$70K - $90K,0
+5247,M,M,1,Bachelors Degree,Bronze,Management,Y,3,$70K - $90K,1
+5256,S,M,3,High School Degree,Bronze,Professional,N,2,$110K - $130K,0
+5257,M,F,3,High School Degree,Silver,Manual,Y,4,$30K - $50K,3
+5260,S,M,4,Partial High School,Bronze,Skilled Manual,Y,4,$50K - $70K,0
+5276,M,F,3,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,1
+5290,M,M,4,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,4
+5294,M,F,5,Bachelors Degree,Bronze,Professional,Y,2,$30K - $50K,1
+5301,M,M,2,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,1
+5304,S,M,2,Partial College,Bronze,Clerical,N,3,$50K - $70K,0
+5315,M,F,4,Partial High School,Bronze,Skilled Manual,Y,2,$30K - $50K,2
+5317,S,M,1,Graduate Degree,Bronze,Management,Y,1,$90K - $110K,0
+5325,M,F,1,Bachelors Degree,Bronze,Professional,Y,4,$70K - $90K,0
+5328,S,M,4,High School Degree,Golden,Manual,N,2,$30K - $50K,0
+5330,S,F,2,Partial College,Bronze,Professional,N,3,$50K - $70K,0
+5331,S,M,1,Partial College,Bronze,Professional,Y,2,$130K - $150K,0
+5341,M,M,2,Partial College,Bronze,Skilled Manual,Y,3,$30K - $50K,2
+5343,M,F,5,High School Degree,Golden,Management,Y,3,$110K - $130K,5
+5346,M,F,2,Partial College,Bronze,Clerical,N,3,$30K - $50K,2
+5350,M,M,4,Bachelors Degree,Golden,Professional,Y,2,$50K - $70K,4
+5361,M,M,3,Partial High School,Golden,Manual,N,2,$10K - $30K,1
+5369,M,F,3,High School Degree,Bronze,Professional,Y,3,$130K - $150K,2
+5374,M,F,2,Partial High School,Golden,Professional,Y,2,$150K +,1
+5384,S,M,3,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+5411,M,M,2,Bachelors Degree,Bronze,Management,Y,2,$70K - $90K,1
+5417,M,M,2,Partial High School,Bronze,Professional,Y,2,$70K - $90K,2
+5419,S,F,1,Bachelors Degree,Bronze,Management,N,1,$50K - $70K,0
+5422,M,F,2,Bachelors Degree,Bronze,Management,Y,2,$70K - $90K,2
+5423,S,M,4,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+5424,M,F,3,Partial High School,Normal,Manual,Y,0,$10K - $30K,2
+5425,M,M,0,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+5427,M,F,4,Partial High School,Bronze,Manual,Y,2,$10K - $30K,4
+5429,S,M,2,Graduate Degree,Bronze,Professional,Y,3,$30K - $50K,0
+5430,M,M,1,High School Degree,Bronze,Skilled Manual,N,4,$30K - $50K,1
+5432,S,M,1,Partial College,Bronze,Professional,Y,2,$110K - $130K,0
+5446,M,F,3,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,0
+5451,S,F,2,High School Degree,Bronze,Professional,N,4,$110K - $130K,0
+5452,M,M,5,High School Degree,Bronze,Manual,N,3,$30K - $50K,0
+5465,M,M,4,Partial High School,Golden,Professional,Y,4,$90K - $110K,4
+5478,M,M,3,Bachelors Degree,Bronze,Professional,Y,1,$70K - $90K,2
+5482,S,M,0,High School Degree,Bronze,Manual,Y,1,$30K - $50K,0
+5490,M,F,0,Partial High School,Golden,Skilled Manual,Y,4,$30K - $50K,0
+5505,S,F,3,Graduate Degree,Bronze,Professional,N,4,$130K - $150K,0
+5523,S,F,1,Graduate Degree,Normal,Professional,Y,1,$10K - $30K,0
+5527,M,M,3,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,3
+5533,M,F,5,Graduate Degree,Silver,Professional,Y,3,$130K - $150K,3
+5536,M,M,4,High School Degree,Golden,Manual,Y,3,$30K - $50K,3
+5542,M,F,5,Partial High School,Golden,Professional,Y,4,$110K - $130K,5
+5543,S,F,4,Partial College,Bronze,Manual,N,4,$50K - $70K,0
+5546,M,M,3,Partial High School,Normal,Manual,Y,1,$10K - $30K,2
+5556,S,F,0,Bachelors Degree,Silver,Professional,Y,2,$70K - $90K,0
+5558,S,F,2,High School Degree,Bronze,Skilled Manual,Y,1,$30K - $50K,0
+5564,S,F,0,Bachelors Degree,Silver,Professional,N,4,$50K - $70K,0
+5569,S,M,5,Partial College,Bronze,Skilled Manual,Y,2,$50K - $70K,0
+5572,S,F,3,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,0
+5599,S,M,2,Partial High School,Bronze,Skilled Manual,N,4,$50K - $70K,0
+5603,M,M,2,Partial College,Bronze,Professional,Y,3,$30K - $50K,0
+5683,S,F,4,Bachelors Degree,Bronze,Professional,Y,1,$70K - $90K,0
+5706,S,M,1,High School Degree,Bronze,Professional,N,2,$90K - $110K,0
+5739,S,M,5,High School Degree,Silver,Manual,Y,2,$30K - $50K,0
+5746,S,M,1,Partial High School,Bronze,Manual,N,2,$30K - $50K,0
+5751,S,M,2,High School Degree,Bronze,Manual,N,1,$50K - $70K,0
+5753,M,F,1,Bachelors Degree,Silver,Professional,N,4,$50K - $70K,0
+5756,S,F,2,Bachelors Degree,Bronze,Management,Y,1,$50K - $70K,0
+5763,M,M,4,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,4
+5766,S,F,4,Graduate Degree,Silver,Management,Y,2,$110K - $130K,0
+5773,M,F,1,Graduate Degree,Bronze,Management,Y,3,$110K - $130K,1
+5775,M,M,1,High School Degree,Bronze,Management,Y,2,$130K - $150K,0
+5778,M,F,3,Partial College,Golden,Professional,Y,2,$30K - $50K,3
+5781,M,M,1,High School Degree,Bronze,Manual,Y,3,$30K - $50K,1
+5782,S,M,3,Partial College,Normal,Skilled Manual,Y,1,$10K - $30K,0
+5784,S,F,3,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+5790,M,M,4,Bachelors Degree,Golden,Management,Y,4,$50K - $70K,4
+5792,S,F,1,High School Degree,Golden,Skilled Manual,Y,2,$30K - $50K,0
+5799,S,F,4,Partial High School,Silver,Professional,N,3,$130K - $150K,0
+5802,M,F,3,Partial High School,Golden,Management,N,2,$70K - $90K,3
+5804,M,F,3,Partial High School,Golden,Professional,Y,1,$150K +,2
+5809,M,F,0,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,0
+5816,S,M,5,Partial High School,Normal,Manual,N,2,$10K - $30K,0
+5817,S,M,5,High School Degree,Bronze,Manual,N,1,$30K - $50K,0
+5818,M,F,3,High School Degree,Golden,Skilled Manual,Y,3,$50K - $70K,3
+5825,M,M,2,Graduate Degree,Bronze,Professional,Y,2,$130K - $150K,2
+5835,M,F,1,Graduate Degree,Bronze,Management,Y,3,$70K - $90K,0
+5836,S,M,3,Graduate Degree,Bronze,Professional,Y,1,$130K - $150K,0
+5837,M,M,5,High School Degree,Bronze,Professional,N,3,$90K - $110K,2
+5839,S,F,5,Partial High School,Bronze,Skilled Manual,N,2,$30K - $50K,0
+5845,M,M,3,High School Degree,Bronze,Skilled Manual,Y,1,$30K - $50K,2
+5847,S,F,3,Partial High School,Bronze,Professional,N,2,$130K - $150K,0
+5849,S,F,5,High School Degree,Bronze,Manual,Y,4,$30K - $50K,0
+5852,S,M,1,Partial High School,Bronze,Skilled Manual,N,2,$50K - $70K,0
+5864,M,M,3,Partial High School,Bronze,Professional,N,4,$70K - $90K,1
+5865,M,F,2,High School Degree,Silver,Manual,Y,4,$30K - $50K,2
+5866,S,M,2,Bachelors Degree,Normal,Professional,N,1,$10K - $30K,0
+5868,M,F,4,Bachelors Degree,Silver,Management,Y,1,$50K - $70K,1
+5871,M,F,0,High School Degree,Silver,Professional,Y,3,$130K - $150K,0
+5873,S,M,0,Partial High School,Bronze,Professional,Y,3,$90K - $110K,0
+5874,S,F,4,Bachelors Degree,Bronze,Professional,N,1,$50K - $70K,0
+5877,S,F,1,Partial High School,Bronze,Skilled Manual,N,1,$30K - $50K,0
+5881,S,F,1,Bachelors Degree,Bronze,Professional,N,4,$70K - $90K,0
+5886,M,M,2,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,1
+5891,M,M,5,High School Degree,Golden,Manual,N,4,$30K - $50K,5
+5892,M,M,4,High School Degree,Bronze,Manual,Y,3,$30K - $50K,3
+6049,M,M,1,High School Degree,Silver,Skilled Manual,Y,1,$30K - $50K,1
+6050,S,M,0,Bachelors Degree,Bronze,Management,Y,3,$90K - $110K,0
+6062,S,M,2,Partial High School,Normal,Professional,N,4,$70K - $90K,0
+6067,M,F,3,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,3
+6070,S,M,3,High School Degree,Bronze,Manual,N,3,$50K - $70K,0
+6072,M,F,3,Partial High School,Golden,Management,Y,2,$150K +,2
+6075,S,F,1,High School Degree,Normal,Skilled Manual,Y,3,$30K - $50K,0
+6085,S,F,4,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,0
+6095,M,M,0,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+6109,M,M,2,Partial High School,Normal,Manual,N,0,$10K - $30K,1
+6114,M,M,2,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+6127,S,M,0,Partial College,Bronze,Clerical,N,3,$30K - $50K,0
+6128,M,F,3,High School Degree,Bronze,Manual,N,4,$30K - $50K,0
+6132,S,M,2,Bachelors Degree,Bronze,Management,N,1,$50K - $70K,0
+6134,M,M,3,Bachelors Degree,Bronze,Professional,Y,3,$110K - $130K,3
+6137,M,F,5,Bachelors Degree,Golden,Management,Y,3,$70K - $90K,5
+6138,M,F,1,High School Degree,Bronze,Professional,Y,4,$110K - $130K,1
+6140,S,F,5,High School Degree,Normal,Skilled Manual,N,0,$10K - $30K,0
+6142,S,M,3,Bachelors Degree,Bronze,Professional,Y,2,$90K - $110K,0
+6145,M,M,0,Partial College,Bronze,Professional,N,4,$90K - $110K,0
+6148,M,F,3,Bachelors Degree,Golden,Professional,Y,2,$70K - $90K,3
+6155,M,F,1,Partial High School,Bronze,Skilled Manual,N,3,$50K - $70K,1
+6160,M,M,1,Graduate Degree,Silver,Professional,Y,2,$70K - $90K,1
+6162,M,M,2,High School Degree,Bronze,Professional,Y,2,$70K - $90K,2
+6164,S,M,5,Partial High School,Bronze,Skilled Manual,N,2,$50K - $70K,0
+6177,M,F,4,Partial High School,Bronze,Skilled Manual,Y,0,$10K - $30K,4
+6182,M,F,0,Graduate Degree,Bronze,Professional,N,3,$130K - $150K,0
+6197,S,M,1,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+6201,M,M,2,Bachelors Degree,Normal,Professional,Y,2,$50K - $70K,2
+6212,S,M,5,High School Degree,Bronze,Manual,Y,1,$30K - $50K,0
+6215,S,F,4,High School Degree,Bronze,Professional,Y,3,$90K - $110K,0
+6224,M,M,2,Partial College,Silver,Manual,Y,4,$30K - $50K,2
+6229,M,M,0,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,0
+6230,S,F,5,High School Degree,Silver,Manual,Y,2,$30K - $50K,0
+6233,S,M,4,Bachelors Degree,Silver,Management,Y,3,$90K - $110K,0
+6246,S,M,4,High School Degree,Silver,Skilled Manual,Y,4,$30K - $50K,0
+6249,S,F,2,Bachelors Degree,Bronze,Professional,Y,3,$130K - $150K,0
+6250,S,M,1,Bachelors Degree,Normal,Management,Y,1,$10K - $30K,0
+6252,M,F,3,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,2
+6253,S,M,1,High School Degree,Bronze,Manual,Y,2,$50K - $70K,0
+6254,S,M,3,Bachelors Degree,Bronze,Professional,Y,4,$110K - $130K,0
+6255,M,M,1,Partial High School,Bronze,Skilled Manual,N,0,$10K - $30K,1
+6257,M,M,3,Partial College,Bronze,Professional,Y,4,$30K - $50K,2
+6270,S,M,2,Partial College,Bronze,Clerical,Y,1,$50K - $70K,0
+6287,M,F,3,Partial High School,Normal,Manual,N,1,$10K - $30K,1
+6291,M,M,5,Bachelors Degree,Silver,Management,Y,3,$50K - $70K,2
+6292,S,M,1,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,0
+6297,M,M,5,High School Degree,Golden,Professional,Y,4,$130K - $150K,4
+6304,M,M,3,Bachelors Degree,Golden,Professional,Y,3,$30K - $50K,3
+6310,M,F,3,High School Degree,Golden,Manual,Y,2,$30K - $50K,3
+6325,S,M,2,Bachelors Degree,Normal,Professional,N,3,$50K - $70K,0
+6326,S,F,3,Graduate Degree,Bronze,Professional,Y,2,$130K - $150K,0
+6329,S,M,5,Bachelors Degree,Bronze,Management,Y,3,$70K - $90K,0
+6334,S,M,5,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+6345,M,M,4,Partial College,Bronze,Professional,N,1,$30K - $50K,2
+6357,S,F,2,High School Degree,Bronze,Professional,Y,1,$130K - $150K,0
+6363,S,M,1,Graduate Degree,Silver,Professional,Y,2,$150K +,0
+6369,S,M,4,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,0
+6378,S,F,0,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+6381,S,F,3,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+6386,M,F,4,Bachelors Degree,Golden,Management,Y,2,$50K - $70K,3
+6390,M,F,3,Partial College,Bronze,Clerical,Y,2,$30K - $50K,2
+6392,M,M,2,Partial High School,Normal,Manual,N,0,$10K - $30K,2
+6419,M,F,2,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,2
+6424,S,F,0,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+6426,S,F,2,Bachelors Degree,Bronze,Professional,N,3,$30K - $50K,0
+6428,M,F,1,High School Degree,Bronze,Manual,Y,2,$30K - $50K,1
+6449,M,F,3,Partial High School,Bronze,Skilled Manual,Y,4,$30K - $50K,1
+6459,M,M,3,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,0
+6465,S,M,0,Bachelors Degree,Golden,Professional,Y,2,$110K - $130K,0
+6478,S,F,5,High School Degree,Bronze,Professional,N,3,$70K - $90K,0
+6516,M,F,1,Graduate Degree,Silver,Management,Y,3,$70K - $90K,1
+6524,S,M,3,High School Degree,Bronze,Skilled Manual,Y,1,$30K - $50K,0
+6525,S,F,0,Partial College,Bronze,Skilled Manual,Y,1,$30K - $50K,0
+6528,M,F,4,High School Degree,Bronze,Manual,Y,1,$30K - $50K,1
+6529,M,F,2,High School Degree,Bronze,Skilled Manual,Y,1,$30K - $50K,0
+6539,S,M,4,Partial College,Bronze,Management,N,2,$90K - $110K,0
+6549,M,F,4,Bachelors Degree,Bronze,Management,N,3,$50K - $70K,1
+6552,M,M,5,Partial College,Golden,Manual,Y,2,$30K - $50K,4
+6571,S,M,1,Partial High School,Bronze,Manual,N,4,$30K - $50K,0
+6576,M,M,2,High School Degree,Normal,Skilled Manual,N,3,$30K - $50K,1
+6590,S,F,0,Partial High School,Normal,Manual,N,0,$10K - $30K,0
+6610,M,F,3,Graduate Degree,Bronze,Professional,Y,3,$90K - $110K,1
+6613,S,M,5,Bachelors Degree,Golden,Management,N,2,$70K - $90K,0
+6691,M,M,0,Graduate Degree,Silver,Professional,Y,2,$110K - $130K,0
+6693,S,M,3,Partial High School,Silver,Skilled Manual,N,4,$30K - $50K,0
+6697,S,F,4,Bachelors Degree,Normal,Professional,N,3,$70K - $90K,0
+6831,S,M,4,Bachelors Degree,Bronze,Management,N,2,$50K - $70K,0
+6848,S,F,1,High School Degree,Bronze,Management,Y,3,$110K - $130K,0
+6852,M,F,3,High School Degree,Bronze,Professional,N,4,$70K - $90K,1
+6861,M,M,0,High School Degree,Bronze,Professional,Y,3,$110K - $130K,0
+6865,S,M,2,Bachelors Degree,Bronze,Management,Y,4,$70K - $90K,0
+6877,M,F,3,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,2
+6890,S,F,0,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+6898,M,M,4,High School Degree,Golden,Skilled Manual,N,2,$30K - $50K,2
+6906,S,F,2,Bachelors Degree,Bronze,Professional,N,4,$50K - $70K,0
+6910,S,F,3,Partial High School,Golden,Manual,N,3,$30K - $50K,0
+6911,M,F,1,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,1
+6926,S,M,0,Bachelors Degree,Bronze,Management,N,1,$50K - $70K,0
+6949,S,F,2,High School Degree,Silver,Professional,Y,3,$150K +,0
+6964,M,M,5,High School Degree,Golden,Professional,Y,4,$90K - $110K,5
+6966,S,M,5,Graduate Degree,Bronze,Management,Y,3,$130K - $150K,0
+6973,M,M,2,Partial College,Bronze,Skilled Manual,Y,2,$30K - $50K,1
+6974,M,F,5,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,1
+6977,M,F,3,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,2
+6986,S,F,0,Partial High School,Bronze,Skilled Manual,Y,1,$50K - $70K,0
+7006,S,F,1,Bachelors Degree,Bronze,Management,Y,3,$70K - $90K,0
+7010,M,M,4,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,2
+7016,M,F,4,Partial College,Bronze,Skilled Manual,Y,2,$50K - $70K,2
+7017,S,M,5,Partial College,Bronze,Professional,Y,2,$70K - $90K,0
+7026,S,F,4,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,0
+7107,M,M,2,Partial High School,Golden,Professional,N,2,$150K +,2
+7148,M,M,1,Graduate Degree,Bronze,Management,Y,1,$70K - $90K,1
+7149,M,F,1,Partial High School,Silver,Professional,Y,3,$70K - $90K,1
+7151,M,F,2,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,0
+7156,M,M,2,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,1
+7157,M,F,0,Graduate Degree,Bronze,Management,N,3,$70K - $90K,0
+7171,S,M,5,Bachelors Degree,Bronze,Professional,N,3,$30K - $50K,0
+7173,M,F,2,Partial High School,Bronze,Management,N,3,$110K - $130K,0
+7188,S,F,3,High School Degree,Normal,Skilled Manual,Y,1,$30K - $50K,0
+7191,S,M,2,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+7201,S,F,3,High School Degree,Normal,Manual,Y,1,$10K - $30K,0
+7202,S,F,4,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,0
+7203,S,F,1,Graduate Degree,Bronze,Professional,Y,2,$130K - $150K,0
+7205,S,F,5,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,0
+7212,S,M,3,Partial College,Normal,Management,Y,3,$30K - $50K,0
+7218,S,F,3,Bachelors Degree,Bronze,Professional,Y,4,$70K - $90K,0
+7220,M,F,1,Partial High School,Bronze,Manual,Y,3,$30K - $50K,0
+7230,M,M,1,High School Degree,Bronze,Manual,N,1,$30K - $50K,1
+7232,S,F,2,Bachelors Degree,Silver,Professional,Y,1,$150K +,0
+7241,M,M,0,High School Degree,Silver,Skilled Manual,N,2,$30K - $50K,0
+7242,M,M,0,High School Degree,Silver,Skilled Manual,Y,3,$30K - $50K,0
+7256,M,F,5,High School Degree,Golden,Management,N,4,$150K +,2
+7257,M,F,4,Graduate Degree,Golden,Professional,Y,3,$70K - $90K,3
+7260,M,F,3,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,2
+7264,M,F,5,Graduate Degree,Golden,Professional,Y,4,$70K - $90K,4
+7294,M,F,3,Graduate Degree,Golden,Professional,Y,3,$110K - $130K,3
+7315,M,F,4,High School Degree,Normal,Skilled Manual,Y,4,$30K - $50K,3
+7317,S,F,4,High School Degree,Bronze,Manual,Y,1,$30K - $50K,0
+7327,S,M,2,Bachelors Degree,Golden,Professional,Y,3,$70K - $90K,0
+7335,S,M,5,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+7336,S,M,4,Bachelors Degree,Bronze,Management,N,3,$150K +,0
+7338,S,M,3,Bachelors Degree,Normal,Management,N,0,$10K - $30K,0
+7341,M,M,1,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+7343,S,F,5,Partial High School,Bronze,Professional,Y,3,$90K - $110K,0
+7346,M,F,1,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,0
+7353,M,F,3,Bachelors Degree,Silver,Management,Y,2,$50K - $70K,2
+7362,S,F,4,Bachelors Degree,Bronze,Management,N,2,$50K - $70K,0
+7366,S,F,0,High School Degree,Golden,Professional,Y,4,$90K - $110K,0
+7370,S,F,2,Partial College,Bronze,Professional,Y,3,$30K - $50K,0
+7375,M,M,2,Partial College,Bronze,Manual,N,1,$30K - $50K,2
+7380,M,F,4,High School Degree,Golden,Management,Y,2,$90K - $110K,4
+7404,M,F,4,High School Degree,Golden,Management,N,3,$150K +,4
+7415,S,M,5,Graduate Degree,Normal,Professional,Y,4,$90K - $110K,0
+7421,S,F,2,Bachelors Degree,Bronze,Management,N,2,$70K - $90K,0
+7450,S,M,0,High School Degree,Normal,Skilled Manual,N,2,$30K - $50K,0
+7463,S,M,4,Partial High School,Bronze,Manual,N,1,$30K - $50K,0
+7465,S,M,0,Bachelors Degree,Normal,Management,Y,2,$50K - $70K,0
+7466,M,M,3,Partial High School,Normal,Skilled Manual,N,2,$10K - $30K,0
+7471,M,M,0,Partial High School,Silver,Manual,Y,1,$10K - $30K,0
+7476,M,F,2,Partial High School,Bronze,Manual,Y,3,$30K - $50K,2
+7477,M,F,4,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,1
+7482,M,F,1,High School Degree,Silver,Manual,Y,1,$30K - $50K,1
+7483,M,F,1,High School Degree,Bronze,Professional,Y,3,$110K - $130K,1
+7490,M,M,3,High School Degree,Golden,Skilled Manual,Y,3,$30K - $50K,3
+7499,S,F,3,Partial College,Bronze,Skilled Manual,N,4,$30K - $50K,0
+7504,M,F,4,High School Degree,Golden,Professional,Y,3,$130K - $150K,3
+7505,S,M,1,Bachelors Degree,Bronze,Management,N,1,$50K - $70K,0
+7507,M,M,3,High School Degree,Golden,Manual,Y,4,$30K - $50K,3
+7515,S,M,3,Partial College,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+7520,M,F,4,Partial High School,Golden,Management,Y,3,$130K - $150K,4
+7529,S,F,2,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,0
+7531,M,F,0,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+7537,S,F,5,Bachelors Degree,Silver,Professional,N,2,$50K - $70K,0
+7539,M,M,3,High School Degree,Bronze,Professional,N,2,$130K - $150K,2
+7586,S,F,1,Graduate Degree,Bronze,Management,N,3,$130K - $150K,0
+7605,M,M,2,Partial College,Bronze,Professional,N,1,$30K - $50K,2
+7630,S,M,3,Bachelors Degree,Bronze,Management,N,4,$70K - $90K,0
+7634,M,F,3,Partial High School,Normal,Manual,Y,0,$10K - $30K,3
+7638,M,F,1,Bachelors Degree,Silver,Professional,Y,2,$50K - $70K,0
+7639,M,F,1,Partial College,Normal,Skilled Manual,Y,2,$30K - $50K,1
+7645,S,M,3,Partial College,Bronze,Professional,N,3,$50K - $70K,0
+7646,M,F,4,Partial High School,Golden,Skilled Manual,N,3,$30K - $50K,4
+7647,S,F,2,Bachelors Degree,Bronze,Management,Y,2,$90K - $110K,0
+7669,M,M,4,Partial High School,Bronze,Professional,Y,1,$110K - $130K,0
+7688,M,M,1,Bachelors Degree,Bronze,Management,Y,1,$30K - $50K,0
+7694,S,F,5,Bachelors Degree,Golden,Professional,N,2,$70K - $90K,0
+7720,M,M,4,Partial College,Normal,Skilled Manual,N,3,$30K - $50K,2
+7734,M,F,0,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,0
+7741,S,M,3,Partial College,Bronze,Professional,Y,1,$30K - $50K,0
+7742,M,F,1,High School Degree,Silver,Manual,N,2,$30K - $50K,1
+7746,S,F,3,Partial College,Silver,Professional,Y,1,$30K - $50K,0
+7753,S,F,3,High School Degree,Bronze,Management,Y,4,$90K - $110K,0
+7794,S,F,2,High School Degree,Normal,Manual,Y,1,$10K - $30K,0
+7804,M,F,4,Bachelors Degree,Silver,Professional,Y,2,$50K - $70K,4
+7818,M,F,4,High School Degree,Bronze,Skilled Manual,Y,1,$30K - $50K,0
+7831,S,M,1,High School Degree,Bronze,Professional,Y,2,$90K - $110K,0
+7835,S,F,1,Bachelors Degree,Golden,Management,Y,3,$110K - $130K,0
+7844,M,F,3,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,3
+7860,M,F,1,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+7862,M,M,0,Partial College,Silver,Professional,Y,3,$30K - $50K,0
+7869,M,F,0,Partial High School,Normal,Skilled Manual,Y,2,$30K - $50K,0
+7875,M,F,3,Partial High School,Bronze,Manual,Y,2,$10K - $30K,2
+7882,S,M,4,Partial College,Silver,Professional,N,1,$30K - $50K,0
+7891,M,M,2,Bachelors Degree,Bronze,Professional,Y,3,$30K - $50K,2
+7900,S,M,0,Bachelors Degree,Bronze,Professional,Y,1,$70K - $90K,0
+7922,S,F,5,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,0
+7937,S,F,3,Graduate Degree,Bronze,Management,Y,3,$70K - $90K,0
+7977,M,M,1,High School Degree,Bronze,Professional,N,2,$110K - $130K,0
+8013,M,M,1,Partial High School,Silver,Manual,N,1,$30K - $50K,1
+8020,M,M,4,High School Degree,Bronze,Manual,N,3,$30K - $50K,3
+8024,M,F,4,Partial College,Bronze,Professional,Y,3,$130K - $150K,2
+8025,M,F,1,High School Degree,Bronze,Management,N,2,$130K - $150K,1
+8056,S,M,3,Bachelors Degree,Bronze,Management,N,4,$50K - $70K,0
+8059,S,F,4,Partial High School,Silver,Management,Y,4,$90K - $110K,0
+8089,M,M,2,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,2
+8138,M,M,2,Partial High School,Normal,Manual,N,2,$10K - $30K,1
+8145,S,M,1,Partial College,Bronze,Manual,Y,4,$30K - $50K,0
+8147,S,M,2,Bachelors Degree,Golden,Management,N,2,$50K - $70K,0
+8149,M,M,3,Bachelors Degree,Silver,Professional,N,2,$50K - $70K,3
+8163,S,F,0,High School Degree,Silver,Professional,N,2,$150K +,0
+8165,S,F,4,Partial High School,Bronze,Manual,Y,1,$30K - $50K,0
+8206,M,M,2,High School Degree,Normal,Professional,Y,3,$70K - $90K,2
+8209,M,F,4,Bachelors Degree,Golden,Professional,Y,4,$70K - $90K,4
+8223,M,F,4,Bachelors Degree,Normal,Professional,Y,2,$10K - $30K,3
+8247,S,F,0,Partial College,Bronze,Professional,Y,2,$30K - $50K,0
+8264,M,F,5,Partial High School,Bronze,Manual,N,2,$10K - $30K,2
+8289,S,M,2,Bachelors Degree,Normal,Professional,N,2,$70K - $90K,0
+8305,S,F,2,Bachelors Degree,Silver,Professional,Y,1,$70K - $90K,0
+8327,M,M,3,Partial College,Normal,Professional,Y,3,$90K - $110K,0
+8333,S,F,4,Graduate Degree,Bronze,Professional,N,1,$90K - $110K,0
+8338,M,M,4,Partial High School,Normal,Manual,Y,1,$10K - $30K,2
+8364,M,M,4,Partial High School,Bronze,Skilled Manual,Y,1,$10K - $30K,3
+8387,S,M,1,Partial College,Bronze,Professional,Y,1,$30K - $50K,0
+8393,S,M,2,Partial College,Bronze,Management,N,4,$30K - $50K,0
+8408,S,M,2,Partial High School,Bronze,Manual,Y,4,$30K - $50K,0
+8437,M,M,0,High School Degree,Silver,Professional,Y,3,$150K +,0
+8473,S,F,2,Partial High School,Bronze,Manual,N,3,$30K - $50K,0
+8477,S,M,2,High School Degree,Bronze,Manual,Y,3,$30K - $50K,0
+8483,M,F,2,Partial High School,Normal,Manual,Y,1,$10K - $30K,1
+8509,S,M,4,Bachelors Degree,Golden,Management,N,4,$30K - $50K,0
+8511,M,M,1,Partial College,Bronze,Professional,Y,3,$50K - $70K,1
+8526,M,F,0,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+8553,S,M,2,Partial High School,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+8570,M,M,2,High School Degree,Bronze,Manual,N,3,$30K - $50K,1
+8575,S,F,2,Bachelors Degree,Bronze,Professional,N,2,$110K - $130K,0
+8588,M,M,4,High School Degree,Golden,Manual,N,4,$30K - $50K,4
+8593,M,F,3,Partial High School,Bronze,Professional,Y,3,$90K - $110K,2
+8611,M,F,5,Graduate Degree,Silver,Professional,N,4,$70K - $90K,1
+8623,M,M,4,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,3
+8685,S,M,3,Partial High School,Bronze,Manual,N,3,$30K - $50K,0
+8702,M,M,3,Bachelors Degree,Golden,Management,N,2,$90K - $110K,3
+8712,M,F,0,Bachelors Degree,Bronze,Management,N,1,$70K - $90K,0
+8713,S,F,3,Partial College,Bronze,Professional,N,2,$30K - $50K,0
+8716,M,M,2,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,2
+8717,M,M,5,High School Degree,Silver,Professional,Y,3,$110K - $130K,0
+8719,M,F,4,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+8736,S,F,3,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,0
+8740,S,F,5,Partial College,Bronze,Professional,N,3,$30K - $50K,0
+8742,M,M,3,Bachelors Degree,Bronze,Professional,Y,2,$70K - $90K,2
+8803,M,F,0,High School Degree,Normal,Manual,Y,3,$30K - $50K,0
+8806,M,M,4,Partial High School,Bronze,Manual,N,3,$30K - $50K,2
+8808,S,M,4,Partial High School,Normal,Manual,N,0,$10K - $30K,0
+8815,M,M,4,Partial High School,Golden,Skilled Manual,N,2,$30K - $50K,4
+8829,S,F,2,Partial College,Bronze,Manual,N,3,$30K - $50K,0
+8831,M,M,3,Partial College,Silver,Skilled Manual,Y,4,$30K - $50K,3
+8846,M,M,2,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,1
+8847,M,M,3,Bachelors Degree,Silver,Management,N,3,$50K - $70K,1
+8848,M,M,1,Graduate Degree,Normal,Professional,Y,3,$110K - $130K,1
+8855,S,F,2,Partial College,Golden,Professional,Y,4,$110K - $130K,0
+8861,S,M,4,Partial High School,Normal,Manual,N,2,$10K - $30K,0
+8864,M,M,3,Graduate Degree,Bronze,Professional,Y,3,$70K - $90K,2
+8871,S,F,4,High School Degree,Golden,Skilled Manual,N,3,$30K - $50K,0
+8882,M,F,2,Bachelors Degree,Silver,Professional,Y,4,$50K - $70K,1
+8887,M,F,2,High School Degree,Bronze,Professional,Y,1,$70K - $90K,2
+8895,S,M,1,Bachelors Degree,Bronze,Management,Y,2,$70K - $90K,0
+8904,S,F,4,Partial College,Bronze,Skilled Manual,N,4,$50K - $70K,0
+8906,S,F,3,Partial College,Bronze,Management,Y,3,$70K - $90K,0
+8912,M,M,2,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,2
+8924,M,F,4,Graduate Degree,Golden,Professional,Y,3,$150K +,4
+9019,M,M,2,High School Degree,Golden,Professional,Y,4,$150K +,2
+9032,M,M,1,Bachelors Degree,Normal,Management,Y,1,$90K - $110K,1
+9050,S,F,2,Partial High School,Bronze,Professional,Y,4,$130K - $150K,0
+9070,M,F,4,Bachelors Degree,Bronze,Professional,Y,4,$30K - $50K,1
+9086,M,M,1,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,1
+9116,S,M,1,Partial College,Silver,Clerical,Y,2,$30K - $50K,0
+9119,S,M,3,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,0
+9121,M,F,2,Partial High School,Silver,Manual,Y,1,$10K - $30K,2
+9139,M,F,3,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,1
+9182,M,F,4,Partial High School,Golden,Professional,Y,3,$70K - $90K,4
+9189,M,F,4,Bachelors Degree,Golden,Professional,N,4,$70K - $90K,3
+9198,S,M,2,Partial College,Bronze,Manual,N,3,$30K - $50K,0
+9203,S,F,3,High School Degree,Bronze,Management,Y,3,$90K - $110K,0
+9206,M,M,0,High School Degree,Golden,Management,Y,3,$150K +,0
+9224,S,M,3,High School Degree,Bronze,Management,Y,3,$110K - $130K,0
+9235,S,F,2,Graduate Degree,Bronze,Professional,N,4,$90K - $110K,0
+9248,M,F,5,Partial College,Golden,Management,N,3,$30K - $50K,3
+9258,M,M,3,Graduate Degree,Bronze,Management,Y,3,$70K - $90K,1
+9346,M,F,1,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,0
+9359,M,F,2,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+9374,M,M,4,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,3
+9388,M,F,5,Partial High School,Golden,Professional,Y,3,$150K +,4
+9398,M,F,5,Bachelors Degree,Normal,Management,Y,0,$10K - $30K,5
+9403,M,M,4,Bachelors Degree,Normal,Professional,Y,2,$70K - $90K,4
+9408,S,M,2,High School Degree,Bronze,Management,N,2,$110K - $130K,0
+9416,S,M,1,Partial High School,Bronze,Manual,N,2,$50K - $70K,0
+9417,S,M,4,Bachelors Degree,Bronze,Professional,Y,4,$70K - $90K,0
+9422,S,F,1,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,0
+9426,S,F,5,Bachelors Degree,Golden,Professional,Y,1,$110K - $130K,0
+9427,M,F,1,Partial High School,Bronze,Skilled Manual,Y,3,$50K - $70K,1
+9440,M,F,1,Graduate Degree,Bronze,Management,Y,4,$90K - $110K,1
+9441,M,M,0,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+9489,S,F,2,Partial College,Bronze,Skilled Manual,N,1,$30K - $50K,0
+9492,S,M,4,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,0
+9527,M,F,1,High School Degree,Bronze,Professional,N,1,$110K - $130K,1
+9529,M,M,3,Partial College,Silver,Professional,Y,3,$70K - $90K,1
+9531,M,F,1,Partial High School,Golden,Professional,Y,4,$70K - $90K,1
+9533,S,M,1,Bachelors Degree,Bronze,Management,N,2,$50K - $70K,0
+9535,S,M,1,High School Degree,Silver,Manual,N,4,$30K - $50K,0
+9537,M,F,5,High School Degree,Golden,Manual,N,3,$30K - $50K,5
+9601,S,M,2,Bachelors Degree,Bronze,Professional,N,4,$50K - $70K,0
+9602,S,F,4,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,0
+9609,M,M,2,High School Degree,Golden,Skilled Manual,Y,1,$30K - $50K,2
+9612,M,M,2,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,2
+9615,S,F,5,Bachelors Degree,Normal,Professional,Y,1,$70K - $90K,0
+9646,S,M,2,Bachelors Degree,Bronze,Management,Y,2,$70K - $90K,0
+9663,S,M,2,High School Degree,Silver,Professional,N,2,$90K - $110K,0
+9689,M,M,4,High School Degree,Golden,Manual,N,2,$30K - $50K,1
+9788,M,F,3,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,0
+9802,S,M,3,Partial College,Bronze,Management,N,3,$30K - $50K,0
+9810,M,F,4,High School Degree,Golden,Skilled Manual,N,3,$30K - $50K,4
+9834,M,F,4,Partial High School,Normal,Manual,Y,0,$10K - $30K,4
+9835,S,M,4,Bachelors Degree,Bronze,Professional,Y,4,$110K - $130K,0
+9838,M,F,3,High School Degree,Bronze,Professional,Y,1,$90K - $110K,0
+9841,M,M,3,Bachelors Degree,Golden,Professional,Y,3,$150K +,3
+9843,M,M,2,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,1
+9937,S,F,5,Partial High School,Bronze,Manual,Y,3,$30K - $50K,0
+9971,M,M,2,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,2
+9994,M,M,0,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,0
+9997,M,M,2,High School Degree,Bronze,Skilled Manual,N,4,$30K - $50K,0
+10005,S,M,0,Bachelors Degree,Bronze,Professional,N,4,$50K - $70K,0
+10019,M,F,1,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+10041,M,F,2,Bachelors Degree,Bronze,Management,N,2,$70K - $90K,2
+10052,M,F,3,High School Degree,Golden,Professional,Y,3,$70K - $90K,3
+10097,S,M,2,High School Degree,Bronze,Professional,N,2,$70K - $90K,0
+10099,S,M,3,High School Degree,Bronze,Professional,N,3,$130K - $150K,0
+10106,M,M,0,Graduate Degree,Bronze,Professional,N,3,$70K - $90K,0
+10111,M,M,3,Bachelors Degree,Golden,Professional,Y,3,$90K - $110K,3
+10112,S,F,2,Partial High School,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+10113,S,M,0,Bachelors Degree,Normal,Professional,N,2,$130K - $150K,0
+10114,S,F,4,Bachelors Degree,Normal,Professional,N,0,$10K - $30K,0
+10163,M,M,2,Partial College,Silver,Professional,Y,2,$110K - $130K,2
+10224,S,M,2,Bachelors Degree,Silver,Professional,N,4,$30K - $50K,0
+10226,S,F,5,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,0
+10230,S,F,4,High School Degree,Normal,Skilled Manual,N,1,$10K - $30K,0
+10349,S,M,2,High School Degree,Bronze,Professional,Y,2,$130K - $150K,0
+10369,M,F,5,High School Degree,Bronze,Professional,N,3,$70K - $90K,0
+10374,M,F,2,High School Degree,Golden,Management,Y,1,$150K +,1
+10377,S,M,2,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,0
+10457,M,F,3,High School Degree,Golden,Management,N,3,$110K - $130K,3
+10464,M,M,2,High School Degree,Golden,Skilled Manual,Y,3,$30K - $50K,2
+10490,M,F,0,Graduate Degree,Bronze,Professional,Y,2,$70K - $90K,0
+10492,S,F,3,High School Degree,Bronze,Professional,Y,2,$150K +,0
+10500,M,M,5,High School Degree,Silver,Skilled Manual,Y,2,$50K - $70K,0
+10501,M,M,5,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,2
+10507,M,M,2,High School Degree,Bronze,Manual,Y,2,$30K - $50K,2
+10526,M,M,4,Partial High School,Golden,Professional,Y,3,$110K - $130K,4
+10539,S,F,2,Partial College,Bronze,Management,N,1,$30K - $50K,0
+10562,M,F,1,High School Degree,Bronze,Manual,Y,4,$50K - $70K,1
+10606,M,M,4,Partial High School,Bronze,Management,N,3,$90K - $110K,3
+10681,S,F,3,Partial High School,Bronze,Manual,Y,2,$30K - $50K,0
+10682,M,F,2,Partial High School,Normal,Manual,N,2,$10K - $30K,2
+10717,M,M,0,High School Degree,Bronze,Skilled Manual,N,2,$30K - $50K,0
+10750,S,M,1,Graduate Degree,Bronze,Management,Y,3,$130K - $150K,0
+10755,S,M,0,Partial High School,Bronze,Manual,N,3,$50K - $70K,0
+10757,S,F,2,Partial High School,Bronze,Skilled Manual,N,1,$30K - $50K,0
+10766,S,M,5,Partial College,Silver,Management,N,3,$30K - $50K,0
+10769,M,M,4,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,4
+10787,S,F,4,Graduate Degree,Bronze,Management,N,4,$70K - $90K,0
+10789,M,M,0,Partial High School,Silver,Manual,Y,2,$30K - $50K,0
+10847,M,F,2,Bachelors Degree,Golden,Management,N,2,$150K +,2
+10849,M,M,4,Bachelors Degree,Normal,Professional,N,4,$50K - $70K,1
+10865,M,F,4,Bachelors Degree,Golden,Management,N,1,$10K - $30K,2
+10869,M,M,4,Graduate Degree,Bronze,Professional,Y,2,$70K - $90K,2
+10892,M,M,3,Bachelors Degree,Bronze,Management,Y,3,$130K - $150K,2
+10914,S,F,4,Partial College,Bronze,Skilled Manual,Y,2,$50K - $70K,0
+10915,S,F,2,Bachelors Degree,Normal,Professional,N,1,$10K - $30K,0
+10993,S,M,2,Partial High School,Bronze,Management,Y,1,$90K - $110K,0
+11039,S,F,5,Partial High School,Normal,Manual,N,0,$10K - $30K,0
+11041,S,F,4,Bachelors Degree,Silver,Professional,Y,3,$50K - $70K,0
+11046,M,F,4,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,2
+11049,M,F,3,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,2
+11054,M,M,4,High School Degree,Bronze,Management,Y,2,$90K - $110K,1
+11065,S,M,2,High School Degree,Normal,Professional,Y,3,$110K - $130K,0
+11067,M,F,1,Bachelors Degree,Bronze,Professional,Y,4,$50K - $70K,1
+11074,M,M,4,Bachelors Degree,Normal,Professional,Y,2,$10K - $30K,4
+11154,M,F,4,High School Degree,Normal,Skilled Manual,Y,2,$30K - $50K,1
+11156,M,M,5,Graduate Degree,Bronze,Management,N,2,$70K - $90K,2
+11180,M,M,1,Bachelors Degree,Golden,Professional,N,4,$50K - $70K,1
+11197,M,F,4,High School Degree,Bronze,Management,Y,2,$130K - $150K,2
+11210,M,M,1,Bachelors Degree,Bronze,Management,Y,1,$50K - $70K,1
+11226,M,F,4,High School Degree,Golden,Professional,N,2,$90K - $110K,4
+11231,M,M,4,Graduate Degree,Golden,Management,Y,1,$70K - $90K,0
+11312,S,F,4,Partial High School,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+11331,S,F,1,Partial High School,Bronze,Skilled Manual,N,2,$50K - $70K,0
+11334,M,M,1,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,0
+11356,M,M,4,High School Degree,Golden,Management,Y,2,$130K - $150K,1
+11384,M,F,2,Bachelors Degree,Normal,Professional,Y,2,$10K - $30K,1
+11431,M,M,1,High School Degree,Bronze,Management,N,1,$110K - $130K,1
+11434,M,M,3,Partial College,Silver,Management,N,2,$30K - $50K,3
+11440,S,F,4,Partial High School,Bronze,Management,N,1,$70K - $90K,0
+11454,S,M,4,Partial College,Silver,Skilled Manual,N,4,$30K - $50K,0
+11468,M,F,1,Partial College,Bronze,Professional,Y,3,$110K - $130K,0
+11476,S,F,2,Partial High School,Bronze,Professional,Y,1,$90K - $110K,0
+11514,M,F,3,High School Degree,Bronze,Manual,Y,2,$30K - $50K,2
+11546,M,M,4,Partial College,Bronze,Clerical,N,2,$30K - $50K,2
+11576,M,M,5,Bachelors Degree,Golden,Professional,N,4,$90K - $110K,3
+11635,M,M,3,Partial High School,Silver,Professional,Y,3,$70K - $90K,3
+11662,S,F,5,High School Degree,Bronze,Professional,Y,3,$130K - $150K,0
+11678,M,F,2,Bachelors Degree,Bronze,Management,Y,4,$50K - $70K,1
+11683,M,M,1,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,1
+11685,M,F,3,Bachelors Degree,Bronze,Professional,Y,1,$50K - $70K,1
+11695,S,F,4,Partial College,Silver,Professional,Y,4,$30K - $50K,0
+11730,M,M,0,Partial College,Normal,Professional,Y,1,$30K - $50K,0
+11735,S,M,4,High School Degree,Bronze,Manual,N,2,$30K - $50K,0
+11766,S,F,2,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,0
+11768,M,M,4,Bachelors Degree,Silver,Professional,Y,3,$70K - $90K,2
+11775,M,M,0,Bachelors Degree,Bronze,Management,Y,1,$70K - $90K,0
+11895,S,M,5,Partial High School,Normal,Manual,N,1,$10K - $30K,0
+11973,S,M,4,Bachelors Degree,Silver,Management,N,4,$70K - $90K,0
+11974,S,M,3,Partial College,Bronze,Skilled Manual,N,1,$50K - $70K,0
+11990,M,F,3,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,3
+11991,M,M,5,High School Degree,Normal,Manual,N,3,$30K - $50K,3
+12010,M,M,4,Graduate Degree,Bronze,Professional,Y,3,$70K - $90K,3
+12037,S,F,2,Partial College,Bronze,Manual,N,1,$30K - $50K,0
+12040,S,M,4,Partial High School,Silver,Professional,Y,2,$110K - $130K,0
+12049,M,F,0,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,0
+12078,S,F,3,Partial College,Bronze,Professional,Y,4,$50K - $70K,0
+12081,S,M,4,Graduate Degree,Bronze,Professional,Y,2,$90K - $110K,0
+12085,S,M,3,Bachelors Degree,Silver,Professional,Y,2,$150K +,0
+12094,S,M,1,Bachelors Degree,Silver,Professional,N,2,$70K - $90K,0
+12096,M,M,4,Graduate Degree,Bronze,Professional,Y,2,$90K - $110K,0
+12138,M,M,3,High School Degree,Bronze,Professional,N,1,$70K - $90K,0
+12162,M,F,1,Bachelors Degree,Bronze,Professional,Y,1,$130K - $150K,1
+12189,M,M,4,Partial College,Silver,Professional,N,2,$30K - $50K,1
+12226,M,M,4,Partial High School,Normal,Skilled Manual,Y,0,$10K - $30K,2
+12242,M,M,5,High School Degree,Normal,Skilled Manual,N,4,$30K - $50K,0
+12246,S,M,1,High School Degree,Silver,Management,N,3,$90K - $110K,0
+12254,S,M,1,Partial College,Bronze,Manual,Y,4,$50K - $70K,0
+12359,S,F,3,Partial High School,Bronze,Professional,Y,3,$110K - $130K,0
+12405,M,F,0,Partial High School,Bronze,Manual,Y,2,$50K - $70K,0
+12458,M,M,5,Bachelors Degree,Silver,Professional,N,3,$110K - $130K,4
+12462,M,F,3,Partial College,Bronze,Manual,Y,3,$30K - $50K,1
+12478,S,F,4,Partial College,Bronze,Clerical,Y,4,$50K - $70K,0
+12497,S,M,4,Partial High School,Bronze,Professional,N,2,$70K - $90K,0
+12558,M,F,5,Partial High School,Bronze,Professional,Y,4,$130K - $150K,2
+12562,M,M,2,Graduate Degree,Bronze,Professional,Y,1,$110K - $130K,1
+12585,S,M,0,Bachelors Degree,Normal,Professional,N,1,$70K - $90K,0
+12586,M,M,1,High School Degree,Golden,Skilled Manual,Y,2,$30K - $50K,1
+12594,S,M,1,Graduate Degree,Bronze,Professional,Y,2,$130K - $150K,0
+12693,S,F,0,High School Degree,Bronze,Manual,N,3,$30K - $50K,0
+12731,S,M,2,Bachelors Degree,Silver,Management,N,2,$50K - $70K,0
+12902,S,F,2,Partial High School,Bronze,Manual,N,1,$10K - $30K,0
+12937,M,F,4,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+12967,M,F,5,High School Degree,Golden,Professional,Y,2,$90K - $110K,3
+13045,M,F,3,Bachelors Degree,Bronze,Professional,Y,3,$50K - $70K,1
+13081,S,M,3,Bachelors Degree,Bronze,Professional,Y,4,$130K - $150K,0
+13100,S,M,3,Partial College,Golden,Professional,Y,2,$70K - $90K,0
+13101,M,F,3,Partial High School,Normal,Skilled Manual,N,0,$10K - $30K,1
+13104,S,M,5,Partial High School,Golden,Skilled Manual,N,2,$30K - $50K,0
+13139,S,M,2,Bachelors Degree,Silver,Professional,N,4,$150K +,0
+13152,M,M,2,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,2
+13157,M,M,4,Partial High School,Normal,Manual,Y,1,$10K - $30K,3
+13202,M,F,3,High School Degree,Bronze,Professional,N,4,$90K - $110K,1
+13261,M,F,5,Partial High School,Normal,Manual,Y,2,$10K - $30K,4
+13304,S,M,2,Bachelors Degree,Bronze,Professional,Y,2,$50K - $70K,0
+13325,M,M,1,Partial College,Bronze,Skilled Manual,Y,3,$30K - $50K,1
+13333,S,F,2,High School Degree,Golden,Manual,Y,2,$30K - $50K,0
+13360,M,M,2,High School Degree,Bronze,Manual,N,2,$30K - $50K,2
+13447,S,M,0,Bachelors Degree,Bronze,Management,N,4,$50K - $70K,0
+13522,M,F,5,Partial High School,Bronze,Manual,N,1,$30K - $50K,0
+13540,S,M,3,Partial College,Bronze,Management,N,4,$50K - $70K,0
+13558,S,F,1,Bachelors Degree,Silver,Management,N,2,$150K +,0
+13560,S,F,2,High School Degree,Normal,Skilled Manual,N,1,$10K - $30K,0
+13587,S,M,1,Partial College,Golden,Manual,Y,1,$50K - $70K,0
+13606,S,M,4,Partial College,Bronze,Skilled Manual,N,1,$30K - $50K,0
+13669,S,F,3,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,0
+13681,M,F,4,High School Degree,Bronze,Manual,N,4,$30K - $50K,1
+13772,M,F,1,Partial High School,Golden,Professional,N,4,$90K - $110K,1
+13773,M,F,2,Bachelors Degree,Bronze,Management,Y,3,$90K - $110K,1
+13810,S,F,0,Partial College,Bronze,Management,Y,3,$30K - $50K,0
+13904,M,M,2,High School Degree,Silver,Manual,Y,3,$30K - $50K,2
+13922,S,F,0,Bachelors Degree,Normal,Professional,Y,2,$70K - $90K,0
+13963,M,M,3,High School Degree,Golden,Skilled Manual,Y,4,$30K - $50K,3
+13977,M,M,4,Partial High School,Bronze,Manual,Y,2,$50K - $70K,0
+14038,S,M,5,Graduate Degree,Bronze,Professional,N,1,$70K - $90K,0
+14054,M,M,3,Partial High School,Normal,Manual,Y,0,$10K - $30K,3
+14118,S,F,3,Partial College,Silver,Manual,N,3,$30K - $50K,0
+14273,M,F,3,High School Degree,Bronze,Manual,Y,1,$30K - $50K,1
+14286,M,F,1,High School Degree,Silver,Professional,Y,1,$110K - $130K,1
+14309,M,F,5,High School Degree,Normal,Professional,Y,3,$110K - $130K,4
+14313,M,M,2,Partial High School,Bronze,Skilled Manual,Y,2,$50K - $70K,1
+14317,M,M,2,High School Degree,Silver,Manual,Y,2,$30K - $50K,1
+14320,M,M,1,Bachelors Degree,Bronze,Management,Y,1,$70K - $90K,1
+14398,M,M,4,High School Degree,Bronze,Skilled Manual,Y,2,$30K - $50K,0
+14406,M,F,3,Partial College,Bronze,Management,N,3,$130K - $150K,2
+14411,M,M,3,Bachelors Degree,Normal,Professional,Y,3,$50K - $70K,2
+14418,S,F,2,Partial High School,Bronze,Manual,Y,2,$30K - $50K,0
+14458,S,M,1,Partial High School,Bronze,Professional,N,2,$70K - $90K,0
+14469,M,F,5,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,2
+14531,S,M,1,Bachelors Degree,Bronze,Professional,N,1,$110K - $130K,0
+14586,S,M,5,Partial High School,Silver,Professional,N,4,$70K - $90K,0
+14587,M,F,1,High School Degree,Bronze,Manual,Y,4,$30K - $50K,1
+14588,S,M,3,Graduate Degree,Bronze,Management,Y,3,$90K - $110K,0
+14672,S,F,3,Partial College,Normal,Skilled Manual,Y,2,$30K - $50K,0
+14812,M,F,2,Partial High School,Silver,Manual,Y,3,$30K - $50K,2
+14820,M,M,0,Partial High School,Bronze,Manual,N,2,$30K - $50K,0
+14863,M,M,5,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,4
+14866,M,F,5,Partial High School,Normal,Manual,Y,1,$10K - $30K,2
+14985,S,M,1,Bachelors Degree,Bronze,Management,N,2,$30K - $50K,0
+15019,S,M,1,Bachelors Degree,Silver,Professional,Y,3,$70K - $90K,0
+15024,S,M,1,Partial High School,Golden,Manual,Y,2,$10K - $30K,0
+15027,S,M,5,High School Degree,Silver,Manual,Y,3,$30K - $50K,0
+15048,S,F,5,Bachelors Degree,Normal,Professional,N,2,$70K - $90K,0
+15055,M,M,1,Partial High School,Golden,Management,N,2,$150K +,1
+15056,M,F,2,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,2
+15103,S,F,3,Partial High School,Bronze,Manual,N,4,$50K - $70K,0
+15199,S,F,1,Bachelors Degree,Bronze,Professional,Y,4,$110K - $130K,0
+15221,M,M,4,High School Degree,Bronze,Management,Y,3,$70K - $90K,0
+15233,M,M,3,High School Degree,Bronze,Manual,Y,4,$30K - $50K,1
+15303,M,F,5,Bachelors Degree,Bronze,Management,Y,2,$50K - $70K,2
+15338,M,F,1,Bachelors Degree,Bronze,Professional,Y,2,$110K - $130K,1
+15341,M,M,4,Partial High School,Silver,Professional,Y,3,$130K - $150K,4
+15376,S,M,0,Bachelors Degree,Bronze,Management,N,3,$70K - $90K,0
+15475,S,M,1,Bachelors Degree,Normal,Professional,N,1,$50K - $70K,0
+15478,M,F,1,Partial High School,Silver,Management,N,1,$70K - $90K,0
+15514,M,M,4,Partial High School,Bronze,Manual,Y,4,$50K - $70K,1
+15609,M,F,4,Bachelors Degree,Golden,Professional,Y,3,$110K - $130K,3
+15616,M,F,4,Bachelors Degree,Normal,Professional,Y,4,$70K - $90K,3
+15665,S,F,0,Partial High School,Bronze,Manual,Y,3,$30K - $50K,0
+15678,S,F,1,High School Degree,Normal,Skilled Manual,Y,1,$10K - $30K,0
+15694,M,F,1,Bachelors Degree,Bronze,Professional,Y,2,$30K - $50K,1
+15737,M,M,3,High School Degree,Bronze,Skilled Manual,N,3,$30K - $50K,2
+15760,M,M,1,Bachelors Degree,Bronze,Management,Y,2,$50K - $70K,0
+15825,M,M,1,Partial High School,Bronze,Professional,Y,2,$130K - $150K,1
+15924,M,M,2,High School Degree,Bronze,Manual,Y,1,$30K - $50K,2
+15953,M,M,3,Partial High School,Silver,Manual,Y,1,$10K - $30K,3
+16028,M,F,4,Partial High School,Bronze,Manual,N,2,$30K - $50K,1
+16268,M,F,3,High School Degree,Normal,Professional,Y,2,$130K - $150K,2
+16360,S,F,4,High School Degree,Bronze,Professional,Y,2,$130K - $150K,0
+16454,M,F,2,High School Degree,Normal,Manual,Y,1,$10K - $30K,1
+16471,S,M,5,High School Degree,Silver,Skilled Manual,Y,2,$30K - $50K,0
+16480,M,F,2,Partial High School,Normal,Manual,Y,1,$10K - $30K,0
+16497,M,F,5,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+16525,M,F,1,High School Degree,Bronze,Professional,Y,1,$130K - $150K,1
+16536,M,M,0,Partial College,Bronze,Skilled Manual,N,3,$30K - $50K,0
+16537,M,M,0,Partial High School,Normal,Manual,Y,2,$10K - $30K,0
+16742,S,F,4,High School Degree,Bronze,Professional,Y,3,$110K - $130K,0
+16785,S,F,4,Bachelors Degree,Bronze,Management,N,1,$50K - $70K,0
+16928,M,M,4,Partial High School,Normal,Skilled Manual,Y,2,$10K - $30K,3
+16938,M,M,2,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+17037,M,F,3,Graduate Degree,Silver,Professional,N,2,$70K - $90K,3
+17048,M,M,5,Bachelors Degree,Golden,Management,Y,3,$50K - $70K,4
+17066,S,M,4,High School Degree,Bronze,Manual,Y,3,$30K - $50K,0
+17071,M,M,3,Bachelors Degree,Bronze,Professional,Y,2,$30K - $50K,3
+17089,M,F,1,Partial High School,Silver,Manual,Y,2,$10K - $30K,0
+17335,M,F,5,Partial College,Bronze,Clerical,Y,4,$30K - $50K,5
+17336,S,F,3,Partial College,Bronze,Skilled Manual,N,3,$50K - $70K,0
+17519,M,M,2,High School Degree,Bronze,Manual,N,4,$30K - $50K,1
+17520,S,M,1,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,0
+17526,M,F,3,Graduate Degree,Bronze,Management,N,3,$30K - $50K,1
+17535,M,F,3,High School Degree,Golden,Skilled Manual,Y,3,$30K - $50K,3
+17539,M,F,3,High School Degree,Bronze,Professional,Y,4,$130K - $150K,2
+17541,S,F,1,Bachelors Degree,Bronze,Professional,Y,4,$90K - $110K,0
+17542,M,M,1,High School Degree,Bronze,Professional,Y,1,$130K - $150K,0
+17592,M,F,3,High School Degree,Golden,Professional,Y,3,$110K - $130K,3
+17593,M,F,2,Partial College,Golden,Professional,Y,1,$130K - $150K,1
+17607,S,F,2,High School Degree,Golden,Manual,N,3,$30K - $50K,0
+17642,S,M,3,High School Degree,Golden,Skilled Manual,Y,3,$30K - $50K,0
+17648,S,M,1,Partial College,Bronze,Professional,N,2,$30K - $50K,0
+17693,M,F,5,Graduate Degree,Bronze,Professional,Y,2,$90K - $110K,0
+17892,M,F,2,Bachelors Degree,Normal,Professional,Y,1,$10K - $30K,0
+17976,S,M,4,High School Degree,Golden,Manual,N,4,$30K - $50K,0
+17983,S,F,1,Partial High School,Bronze,Professional,Y,3,$90K - $110K,0
+18038,M,M,2,High School Degree,Golden,Management,Y,2,$150K +,1
+18047,M,M,3,Bachelors Degree,Bronze,Professional,N,4,$70K - $90K,2
+18058,M,F,4,Bachelors Degree,Bronze,Management,Y,4,$50K - $70K,1
+18105,S,M,2,Graduate Degree,Bronze,Professional,N,4,$70K - $90K,0
+18207,S,M,0,High School Degree,Golden,Skilled Manual,N,3,$30K - $50K,0
+18309,M,F,1,Partial College,Bronze,Professional,Y,2,$110K - $130K,0
+18312,M,M,5,Bachelors Degree,Golden,Management,Y,3,$70K - $90K,3
+18321,S,F,0,Bachelors Degree,Bronze,Management,N,2,$50K - $70K,0
+18358,S,M,2,High School Degree,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+18431,S,M,2,Partial High School,Bronze,Skilled Manual,N,2,$50K - $70K,0
+18449,M,M,0,Partial High School,Bronze,Professional,Y,3,$130K - $150K,0
+18470,M,M,3,Partial High School,Normal,Manual,N,1,$10K - $30K,3
+18571,M,M,3,Partial College,Bronze,Professional,Y,3,$30K - $50K,0
+18794,S,M,2,High School Degree,Bronze,Manual,N,1,$30K - $50K,0
+18907,M,M,5,Partial College,Golden,Professional,Y,3,$30K - $50K,5
+18978,M,F,1,High School Degree,Bronze,Professional,N,3,$70K - $90K,1
+18985,M,F,2,Graduate Degree,Bronze,Management,Y,3,$70K - $90K,2
+19027,S,M,2,High School Degree,Bronze,Professional,Y,1,$70K - $90K,0
+19028,M,F,0,Bachelors Degree,Bronze,Professional,Y,3,$70K - $90K,0
+19238,S,M,1,Bachelors Degree,Golden,Professional,N,1,$50K - $70K,0
+19391,M,M,0,Bachelors Degree,Bronze,Professional,N,1,$70K - $90K,0
+19798,M,M,1,Bachelors Degree,Silver,Professional,Y,3,$110K - $130K,1
+19838,S,M,1,Bachelors Degree,Bronze,Professional,Y,3,$130K - $150K,0
+19963,S,F,3,Partial College,Bronze,Skilled Manual,Y,4,$30K - $50K,0
+20186,M,F,2,Bachelors Degree,Bronze,Professional,N,2,$50K - $70K,2
+20287,M,F,3,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,1
+20331,S,F,2,Partial High School,Normal,Professional,N,4,$130K - $150K,0
+20358,M,M,4,Bachelors Degree,Golden,Professional,Y,3,$50K - $70K,3
+20401,S,M,3,Partial College,Silver,Skilled Manual,N,2,$30K - $50K,0
+20413,M,F,4,High School Degree,Bronze,Manual,Y,4,$30K - $50K,2
+20456,M,M,1,High School Degree,Bronze,Manual,Y,1,$30K - $50K,1
+20458,S,M,3,Partial College,Bronze,Professional,N,2,$30K - $50K,0
+20653,M,M,3,Partial High School,Normal,Manual,Y,3,$30K - $50K,1
+20701,M,M,2,Bachelors Degree,Bronze,Management,N,4,$50K - $70K,0
+20790,S,M,2,Partial College,Bronze,Skilled Manual,Y,1,$30K - $50K,0
+20955,M,M,2,Bachelors Degree,Bronze,Professional,N,3,$50K - $70K,2
+21011,M,M,4,High School Degree,Bronze,Manual,N,2,$30K - $50K,1
+21028,M,M,1,Partial High School,Golden,Skilled Manual,Y,3,$30K - $50K,0
+21069,S,M,3,Graduate Degree,Normal,Professional,N,1,$50K - $70K,0
+21090,M,F,4,Partial High School,Bronze,Management,Y,1,$110K - $130K,0
+21142,M,M,4,Partial College,Golden,Professional,Y,4,$30K - $50K,4
+21154,S,M,0,High School Degree,Bronze,Manual,N,1,$30K - $50K,0
+21157,S,M,2,Partial College,Bronze,Clerical,N,4,$30K - $50K,0
+21278,S,M,5,Partial High School,Bronze,Management,Y,3,$130K - $150K,0
+21331,M,F,1,Graduate Degree,Bronze,Management,Y,3,$70K - $90K,1
+21447,M,M,2,High School Degree,Bronze,Professional,Y,2,$110K - $130K,1
+21596,M,M,4,High School Degree,Golden,Professional,Y,3,$130K - $150K,4
+21663,M,F,1,High School Degree,Bronze,Manual,N,2,$50K - $70K,0
+21696,S,F,1,Graduate Degree,Silver,Professional,N,3,$70K - $90K,0
+21812,M,M,1,Partial College,Bronze,Professional,Y,1,$110K - $130K,0
+22116,M,F,1,Bachelors Degree,Bronze,Professional,N,2,$70K - $90K,1
+22297,M,F,3,Bachelors Degree,Bronze,Professional,N,4,$50K - $70K,2
+22342,M,M,4,Partial High School,Bronze,Professional,N,2,$110K - $130K,1
+22363,S,M,4,Partial College,Silver,Management,Y,2,$30K - $50K,0
+22473,S,F,1,High School Degree,Golden,Manual,N,2,$30K - $50K,0
+22489,S,F,2,Bachelors Degree,Golden,Professional,N,3,$30K - $50K,0
+22777,M,F,4,Partial College,Normal,Clerical,Y,2,$30K - $50K,4
+22848,M,F,3,High School Degree,Bronze,Professional,Y,3,$110K - $130K,2
+22854,S,F,3,Partial High School,Golden,Management,Y,2,$110K - $130K,0
+22884,S,F,5,Bachelors Degree,Silver,Professional,Y,2,$50K - $70K,0
+22952,S,F,0,High School Degree,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+23013,S,F,0,Partial High School,Normal,Manual,Y,0,$10K - $30K,0
+23024,S,F,1,High School Degree,Bronze,Skilled Manual,Y,3,$50K - $70K,0
+23025,S,F,5,Partial College,Bronze,Skilled Manual,N,1,$50K - $70K,0
+23029,M,F,4,Graduate Degree,Bronze,Professional,Y,1,$90K - $110K,0
+23237,M,F,3,Partial High School,Normal,Manual,Y,1,$10K - $30K,1
+23250,M,F,2,Bachelors Degree,Bronze,Management,Y,3,$50K - $70K,2
+23973,S,F,0,Bachelors Degree,Silver,Professional,N,2,$50K - $70K,0
+23982,M,F,2,Bachelors Degree,Golden,Professional,Y,4,$50K - $70K,1
+24074,M,F,5,Partial High School,Silver,Manual,N,1,$10K - $30K,5
+24142,M,F,1,Bachelors Degree,Bronze,Professional,Y,1,$30K - $50K,1
+24169,S,F,5,Bachelors Degree,Silver,Professional,N,2,$70K - $90K,0
+24468,S,F,4,Bachelors Degree,Bronze,Management,Y,2,$50K - $70K,0
+24713,S,M,5,High School Degree,Bronze,Manual,N,2,$30K - $50K,0
+24980,M,M,3,High School Degree,Normal,Skilled Manual,Y,2,$30K - $50K,2
+25048,S,F,1,High School Degree,Bronze,Management,Y,2,$130K - $150K,0
+25059,S,M,4,High School Degree,Bronze,Manual,Y,2,$30K - $50K,0
+25125,M,M,3,Partial College,Golden,Clerical,Y,3,$50K - $70K,3
+25334,M,M,2,Bachelors Degree,Normal,Professional,Y,1,$10K - $30K,1
+25383,S,M,4,Bachelors Degree,Bronze,Professional,N,1,$70K - $90K,0
+25406,M,M,1,High School Degree,Normal,Skilled Manual,Y,1,$10K - $30K,1
+25448,S,M,1,High School Degree,Bronze,Skilled Manual,Y,1,$30K - $50K,0
+25668,M,M,5,Bachelors Degree,Golden,Professional,Y,2,$70K - $90K,5
+25709,M,F,3,High School Degree,Bronze,Professional,N,1,$130K - $150K,2
+26081,M,F,4,Partial High School,Normal,Skilled Manual,N,1,$10K - $30K,3
+26431,M,M,4,Partial High School,Bronze,Professional,N,1,$90K - $110K,0
+26460,S,M,2,Partial College,Bronze,Professional,Y,2,$50K - $70K,0
+26616,M,M,1,High School Degree,Bronze,Manual,N,3,$50K - $70K,1
+26967,M,F,3,Partial High School,Normal,Manual,N,1,$10K - $30K,2
+27355,S,F,2,Bachelors Degree,Bronze,Management,N,1,$90K - $110K,0
+27741,M,F,0,High School Degree,Bronze,Manual,N,4,$30K - $50K,0
+27753,M,F,3,Partial College,Normal,Professional,Y,2,$30K - $50K,2
+27831,S,M,1,Bachelors Degree,Bronze,Professional,N,3,$30K - $50K,0
+27926,S,M,4,Bachelors Degree,Silver,Professional,Y,2,$150K +,0
+28145,M,F,5,Graduate Degree,Golden,Professional,N,4,$90K - $110K,5
+28221,M,M,4,Bachelors Degree,Silver,Management,N,4,$70K - $90K,4
+28428,S,M,2,Bachelors Degree,Golden,Professional,N,2,$50K - $70K,0
+28866,S,F,3,Partial College,Bronze,Skilled Manual,Y,3,$30K - $50K,0
+28976,M,M,0,High School Degree,Bronze,Professional,Y,2,$110K - $130K,0
+29004,S,M,3,Bachelors Degree,Bronze,Professional,N,1,$70K - $90K,0
+29005,M,F,1,Bachelors Degree,Bronze,Management,Y,2,$130K - $150K,1
+29591,M,F,2,Bachelors Degree,Bronze,Professional,Y,3,$90K - $110K,0
+30572,S,M,5,Partial High School,Bronze,Manual,Y,3,$30K - $50K,0
+30984,S,F,5,High School Degree,Bronze,Professional,Y,2,$110K - $130K,0
+31381,M,F,3,Bachelors Degree,Golden,Professional,Y,2,$50K - $70K,3
+31421,S,M,5,Partial High School,Normal,Skilled Manual,Y,1,$10K - $30K,0
+31806,M,F,5,Partial High School,Golden,Manual,Y,4,$30K - $50K,4
+31837,S,M,0,Bachelors Degree,Silver,Professional,N,4,$50K - $70K,0
+31991,S,F,2,High School Degree,Silver,Professional,Y,2,$110K - $130K,0
+32066,M,M,5,Graduate Degree,Bronze,Management,Y,3,$90K - $110K,1
+32406,M,F,2,Partial College,Bronze,Management,N,1,$50K - $70K,2
+32604,M,M,2,Partial College,Bronze,Skilled Manual,N,4,$50K - $70K,1
+32609,M,F,1,Bachelors Degree,Golden,Professional,Y,2,$70K - $90K,1
+32690,S,F,0,Partial College,Bronze,Management,N,3,$50K - $70K,0
+33040,M,M,1,High School Degree,Bronze,Management,Y,3,$90K - $110K,0
+34054,M,M,4,Partial High School,Bronze,Skilled Manual,Y,3,$30K - $50K,1
+34100,S,F,1,Partial High School,Bronze,Professional,Y,1,$70K - $90K,0
+34570,M,F,5,Bachelors Degree,Silver,Management,Y,3,$70K - $90K,0
+35381,M,F,5,Partial High School,Golden,Professional,N,3,$70K - $90K,5
+35384,S,F,4,Partial College,Bronze,Skilled Manual,N,4,$30K - $50K,0
+35798,M,M,1,Bachelors Degree,Bronze,Professional,Y,1,$30K - $50K,0
+36835,M,F,5,Partial College,Golden,Management,Y,3,$130K - $150K,5
+38320,S,M,0,High School Degree,Bronze,Manual,N,3,$30K - $50K,0
+38369,M,M,3,Partial College,Bronze,Clerical,N,2,$30K - $50K,2
