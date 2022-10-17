@@ -109,7 +109,7 @@
           
 ## 2st Segment: Create a webpage library
    1. How to connect multiple html together?
-      - ---> use <a href=""></a> and <img src=""> to create absolute links and relative links. Relative links didn't work.
+      - ---> use `<a href=""></a>` and `<img src="">` to create absolute links and relative links. Relative links didn't work.
           - ---> Use "/" to let vs code to direct the file path.
    2. Some stylish difficulties.
    3. How to upload file folder to GitHub?
