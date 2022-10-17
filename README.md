@@ -71,8 +71,8 @@
   - Visualization: Tableau
   - Model: Machine Learning
   - About Us: Team Members
-# Chanllenges:
-## 1st Segment: Explore the dataset
+# :thinking::thinking::thinking::thinking::thinking:Chanllenges::thinking::thinking::thinking::thinking::thinking:
+## Segment 1: Explore the dataset
    1. How to group columns? 
       - ---> Discover relationships between columns.
           - ---> Creat heatmaps to check correlations
@@ -84,7 +84,7 @@
           - ---> The accuracy of multiple linear regression model is extremely low. Cost is not predictable.
           - ---> Store sales can be predicted by store features.
           
-## 2st Segment: Create a webpage library
+## Segment 2: Create a webpage library
    1. How to display our results?
       - ---> homepage: image + index + icon of tools
       - ---> data source: kaggle link 
