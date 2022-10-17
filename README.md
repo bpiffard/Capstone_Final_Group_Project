@@ -87,11 +87,12 @@
 ## 2st Segment: Create a webpage library
    1. How to display our results?
       - ---> homepage: image + index + icon of tools
-      - ---> data source: kaggle link
+      - ---> data source: kaggle link 
       - ---> sample dataset: 500 sample rows + filter search 
-      - ---> machine learning: model + accuracy --- bubble chart
+      - ---> machine learning: model + accuracy --- bubble chart https://observablehq.com/@d3/bubble-chart
       - ---> sql: erd --- screenshot
       - ---> tableau: screenshot + link to tableau public
+      - ---> customer segment: sunburst chart https://observablehq.com/@kerryrodden/sequences-sunburst
       - ---> team: name + link to social media + email + photoes?
    2. How to connect multiple html together?
       - ---> use `<a href=""></a>` and `<img src="">` to create absolute links and relative links. Relative links didn't work.
