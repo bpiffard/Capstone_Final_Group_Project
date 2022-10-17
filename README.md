@@ -98,6 +98,7 @@
       - ---> use `<a href=""></a>` and `<img src="">` to create absolute links and relative links. Relative links didn't work.
           - ---> Use "/" to let vs code to direct the file path.
           - ---> roots might need revised once uploade to GitHub.
+      - ---> open webpage in new tab
    3. Some stylish difficulties. ?????????
    4. How to upload file folder to GitHub?  ????????????
       - ---> GitHub detected multiple html in the folder. They can not be easily uploaded to the repository.
