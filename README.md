@@ -57,13 +57,17 @@
 - Multiple Linear Regression: features-cost or features-store sales ---> predictions
 
 
-- SQL: 
+- Database : SQL
   - create multiple tables and build ERD.
   - do queries and visualize in Tableau
-- Tableau: pivot table visualization
+  
+- Visualization: Tableau
 
-- Javascript: add table to HTML and add filters. ---refer to UFOs
-- Dashboard: 
-  - add drop down menu and bar chart to display media campaign result for each food category. --- refer to Belly button biodiversity
-  - add pie chart for food category, food department, food family; store-type, gender, total-children, education, yearly income, member card....
-  - add bubble chart for food category vs promotion, bubble size-unit sales.
+
+- Library: html webpage
+  - about food mart: Visit Wikipedia
+  - Data Source: Kaggle Dataset: media prediction and its cost.csv, 500 Dataset Sample
+  - Database: SQL
+  - Visualization: Tableau
+  - Model: Machine Learning
+  - About Us: Team Members
