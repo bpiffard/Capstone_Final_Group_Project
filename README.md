@@ -88,11 +88,12 @@
    1. How to connect multiple html together?
       - ---> use `<a href=""></a>` and `<img src="">` to create absolute links and relative links. Relative links didn't work.
           - ---> Use "/" to let vs code to direct the file path.
-   2. Some stylish difficulties.
-   3. How to upload file folder to GitHub?
-      - ---> GitHub detected multiple html in the folder. They can not be easily uploaded to the repository.???
+   2. Some stylish difficulties. ?????????
+   3. How to upload file folder to GitHub?  ????????????
+      - ---> GitHub detected multiple html in the folder. They can not be easily uploaded to the repository.
+      - ---> GitHub only show raw data of html file. Even with the help of previewing, files from static folders does not display. 
           - ---> Use S3 bucket to hold static webpages. https://geekylane.com/static-website-using-s3-bucket/
-   4. How to make dynamic and interactive webpages?
+   4. How to make dynamic and interactive webpages?  ????????
       - --->D3.js, highcharts.com
           - ---> How to use these starter code???
           - ---> How to loop data to code more efficiently?  
