@@ -116,5 +116,7 @@
       - ---> GitHub detected multiple html in the folder. They can not be easily uploaded to the repository.???
           - ---> Use S3 bucket to hold static webpages. https://geekylane.com/static-website-using-s3-bucket/
    4. How to make dynamic and interactive webpages?
-      - D3.js ???
+      - --->D3.js, highcharts.com
+          - ---> How to use these starter code???
+          - ---> How to loop data to code more efficiently?  
    
