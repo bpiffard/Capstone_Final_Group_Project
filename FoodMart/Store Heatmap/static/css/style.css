@@ -1,0 +1,15 @@
+
+.jumbotron {
+    background-image: url("../images/foodmart.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+    height:300px;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
