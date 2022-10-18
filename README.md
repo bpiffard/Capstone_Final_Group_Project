@@ -84,7 +84,7 @@
           - ---> The accuracy of multiple linear regression model is extremely low. Cost is not predictable.
           - ---> Store sales can be predicted by store features.
           
-## Segment 2: Create a webpage library
+## Segment 2: Create a webpage dashboard
    1. How to display our results?
       - ---> homepage: image + index + icon of tools
       - ---> data source: kaggle link 
