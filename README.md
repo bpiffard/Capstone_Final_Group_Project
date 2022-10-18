@@ -100,8 +100,9 @@
           - ---> roots might need revised once uploade to GitHub.
       - ---> open webpage in new tab
    3. Some stylish difficulties. ?????????
-   4. How to upload file folder to GitHub?  ????????????
+   4. How to upload file folder to GitHub?
       - ---> GitHub detected multiple html in the folder. They can not be easily uploaded to the repository.
+          - --> The reason was multiple `.git` file. Accidently copied from other repository.
       - ---> GitHub only show raw data of html file. Even with the help of previewing, files from static folders does not display. 
           - ---> Use S3 bucket to hold static webpages. https://geekylane.com/static-website-using-s3-bucket/
    5. How to make dynamic and interactive webpages?  ????????
