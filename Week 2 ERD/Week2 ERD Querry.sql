@@ -151,7 +151,7 @@ customer_data.houseowner,
 customer_data.avg_cars_at_home,
 customer_data.avg_yearly_income,
 customer_data.num_children_at_home
-into Customer
+into Customer 
 from customer_data
 
 
