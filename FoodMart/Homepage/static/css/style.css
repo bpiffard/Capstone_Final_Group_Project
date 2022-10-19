@@ -1,8 +1,13 @@
 
-
+body {
+    background-image: url("../images/foodmart.png");
+    background-repeat: no-repeat;
+    background-size: 50% 30%;
+    background-position: bottom; 
+}
 .jumbotron {
-    background-image: url("../images/foodmart.jpeg");
-    background-size: 100% 100%;
+    background-image: url("../images/grocery1.jpeg");
+    background-size:100% 100%;
     text-align: center;
     height: 300px;
 }
@@ -11,7 +16,7 @@
     margin: auto;
     width:2000px;
     height:500px;
-    background-color: #FAEBD7;
+    /* background-color: #FAEBD7; */
     align-items:center;
 }
   
@@ -19,6 +24,6 @@
     margin-left: -50px; 
     margin-right: -50px;
     height:450px;
-    background-color: #FFFAF0;
+    /* background-color: #FFFAF0; */
     align-items:center;
 }
