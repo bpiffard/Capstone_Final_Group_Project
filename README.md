@@ -99,12 +99,12 @@
           - ---> Use "/" to let vs code to direct the file path.
           - ---> roots might need revised once uploade to GitHub.
       - ---> open webpage in new tab
-   3. Some stylish difficulties. ?????????
+   3. Some stylish difficulties. 
    4. How to upload file folder to GitHub?
-      - ---> GitHub detected multiple html in the folder. They can not be easily uploaded to the repository.
-          - --> The reason was multiple `.git` file. Accidently copied from other repository.
       - ---> GitHub only show raw data of html file. Even with the help of previewing, files from static folders does not display. 
           - ---> Use S3 bucket to hold static webpages. https://geekylane.com/static-website-using-s3-bucket/
+          - ---> Use Github download link for the whole Foodmart folder.
+https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Fbpiffard%2FCapstone_Final_Group_Project%2Ftree%2Fceline%2FFoodMart
    5. How to make dynamic and interactive webpages?  ????????
       - --->D3.js, highcharts.com
           - ---> How to use these starter code???
