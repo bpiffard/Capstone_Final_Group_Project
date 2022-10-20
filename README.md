@@ -1,7 +1,7 @@
 # Segment 2
 
 # :star:Google Sildes for presentation in attched in main branch.                                                       
-Food Mart Week 2 Slides .pptx
+Food Mart Week 2 Slides .pptx [link](https://docs.google.com/presentation/d/1UI_9pxgMfpl1RURKctoKzbRbYXUVpgZSbE6YeuhFWNs/edit#slide=id.g16f1dbc7249_5_0)
 
 # Segment 1
 
