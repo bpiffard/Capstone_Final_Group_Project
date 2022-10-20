@@ -1,6 +1,7 @@
 # Segment 2
 
-# :star:Google Sildes for presentation in attched in main branch.
+# :star:Google Sildes for presentation in attched in main branch.                                                       
+Food Mart Week 2 Slides .pptx
 
 # Segment 1
 
