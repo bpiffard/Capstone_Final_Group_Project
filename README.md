@@ -1,4 +1,9 @@
+# Segment 2
+
 # :star:Google Sildes for presentation in attched in main branch.
+
+# Segment 1
+
 # Capstone_Final_Group_Project
 
 ![foodmart icon](https://user-images.githubusercontent.com/105877888/194212188-13bd50bd-f078-464c-8bbe-8e88598a0667.jpeg)
