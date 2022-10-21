@@ -1,0 +1,11 @@
+,store_type,store_sqft,grocery_sqft,frozen_sqft,meat_sqft,coffee_bar,video_store,salad_bar,prepared_food,florist,store_id,location_id
+0,Deluxe Supermarket,27694,18670,5415,3610,1,1,1,1,1,s0,loc0
+1,Deluxe Supermarket,33858,22123,7041,4694,1,0,1,1,1,s18,loc18
+2,Supermarket,21215,13305,4746,3164,1,0,0,0,0,s40,loc40
+3,Supermarket,30268,22063,4923,3282,0,0,0,0,0,s58,loc58
+4,Supermarket,23598,14210,5633,3755,0,0,0,0,1,s73,loc73
+5,Gourmet Supermarket,23688,15337,5011,3340,1,1,1,1,1,s82,loc82
+6,Supermarket,20319,16232,2452,1635,0,0,0,0,0,s100,loc100
+7,Small Grocery,28206,22271,3561,2374,1,0,0,0,0,s110,loc110
+8,Supermarket,39696,24390,9184,6122,0,0,1,1,0,s113,loc113
+9,Small Grocery,22478,15321,4294,2863,1,0,0,0,0,s126,loc126
