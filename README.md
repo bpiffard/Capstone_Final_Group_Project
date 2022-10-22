@@ -13,7 +13,7 @@ The link below leads to first draft of Tableau visualizations
 
 
 
-The link below leads to dashboard on the relationship between media tyoes and customer segments. There are filters to pick and choose what we eventually want to focus/showcase on. 
+The link below leads to dashboard on the relationship between media types and customer segments. There are filters to pick and choose what we eventually want to focus/showcase on. 
 
 
 [link to dashboard](https://public.tableau.com/app/profile/carlos2209/viz/RelationshipBetweenMediaTypesandCustomerSegments/RelationshipBetweenMediaTypesandCustomerSegments?publish=yes)
@@ -25,4 +25,11 @@ The link below leads to dashboard on the relationship between media tyoes and cu
 The link below leads to dashboard on the relationship between promotion and product/unit sales by brand name. There are filters to pick and choose what we eventually want to focus/showcase on. 
 
 [link to dashboard](https://public.tableau.com/app/profile/carlos2209/viz/RelationshipBetweenPromotionandUnitSalesbyBrands/RelationshipBetweenPromotionandUnitSalesbyBrands?publish=yes)
+
+
+
+
+The link below leads to dashboard on the correlation between store sales and promotion cost. There are filters to pick and choose what we eventually want to focus/showcase on. 
+[link to dashboard](https://public.tableau.com/app/profile/carlos2209/viz/CorrelationBetweenStoreSalesandPromotionCost/CorrelationBetweenStoreSalesandPromotionCost?publish=yes)
+
 
