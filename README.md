@@ -6,5 +6,15 @@ Some visualizations done on tableau. These are some graphs done answering some q
 
 We will add more as we come up with the questions that we will ask and answer. 
 
+The link below leads to first draft of Tableau visualizations
+
 
 [link to dashboard](https://public.tableau.com/app/profile/carlos2209/viz/FinalProjectDashboard-CustomerandStoreData/FinalProjectDashboard?publish=yes)
+
+
+
+The link below leads to dashboard on relationship between media tyoes and customer segments. There are filters to pick and choose what we eventually want to focus/showcase on. 
+[link to dashboard](https://public.tableau.com/app/profile/carlos2209/viz/RelationshipBetweenMediaTypesandCustomerSegments/RelationshipBetweenMediaTypesandCustomerSegments?publish=yes)
+
+
+
