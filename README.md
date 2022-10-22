@@ -36,6 +36,13 @@ Other vizualizations that could be be used on our dashboads:
 ![image](https://user-images.githubusercontent.com/105381777/196587552-ed3e8054-300f-4383-bd21-1ea0b4c1a717.png)
 
 
+## Tableau bubble chart
+ - Interactive Chart for Mecia Promotion Cost, it ichludes Promotion Name, Media Cost, Ave. Store Cost, Ave. Store Sales, Store cotst, Store Sales
+
+https://public.tableau.com/app/profile/hilda.vazqez/viz/MediaPromotionCostbyStoteType/MediaPromotionCostbyStoreType?publish=yes
+
+![image](https://user-images.githubusercontent.com/105381777/197360178-b495c50c-6a22-4d64-aa0a-400e9f20923a.png)
+
 
 
 
