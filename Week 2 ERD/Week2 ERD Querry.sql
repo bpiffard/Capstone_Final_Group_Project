@@ -153,5 +153,5 @@ customer_data.avg_yearly_income,
 customer_data.num_children_at_home
 into Customer 
 from customer_data
-
+ 
 
