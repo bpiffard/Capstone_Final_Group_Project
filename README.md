@@ -72,7 +72,7 @@ Food Mart Week 2 Slides .pptx [link](https://docs.google.com/presentation/d/1UI_
     - store segments:'store_sqft', 'grocery_sqft','frozen_sqft', 'meat_sqft', 'store_city', 'store_state', 'store_sales(in millions)', 'store_cost(in millions)','unit_sales(in millions)'
   
 ### Machine Learning
-- **Random Forest Regression Model** 
+- **Random Forest Regressor Model** 
   - target variable: `cost`
   - feature variables: customer demographic data
 - **Multiple Linear Regression Model** 
@@ -81,7 +81,7 @@ Food Mart Week 2 Slides .pptx [link](https://docs.google.com/presentation/d/1UI_
 - **Random Forest Classification Model**
   - target variable: `member card`
   - feature variables: customer demographic data
-- **Deep Neuron Network** 
+- **Deep Learning** 
   - target variable: `member card`
   - feature variables: customer demographic data
 - **Random Forest Multi-Label Classifier**  
