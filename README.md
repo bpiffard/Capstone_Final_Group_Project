@@ -11,7 +11,8 @@
 ### Webpage Overview
 Check out our webpage here: https://foodmart-app.herokuapp.com/
 
-![Screen Shot 2022-10-26 at 8 55 12 PM](https://user-images.githubusercontent.com/105877888/198187774-50ab191e-fe3f-4855-8adc-04956eb9a081.png)
+![Screen Shot 2022-10-26 at 8 57 59 PM](https://user-images.githubusercontent.com/105877888/198187933-bb480342-e652-44e2-a57f-c01362aeab78.png)
+
 
 
 # Segment 2
