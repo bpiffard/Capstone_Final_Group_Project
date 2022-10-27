@@ -1,5 +1,6 @@
 
 # Capstone_Final_Group_Project
+## Overview
 
 - This project collected a demographic information of customer data as well as store, product, and promotion data. SQL database was used to store and query the data. Raw data was divdided into multiple tables and integrated according to column properties. To discover customer segment distributions, the factors of media cost and store sales, Tableau public was used to analyze and visualize the results. On the other hand, random forest classification, deep learning, random forest regressor and multiple linear regression model were applied to explore the correlation between member card, occupation, cost, store sales and other features, and make predictions. Finally, a webpage library was built to summarize and display our team work.
 
