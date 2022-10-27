@@ -102,4 +102,13 @@ Food Mart Week 2 Slides .pptx [link](https://docs.google.com/presentation/d/1UI_
     - add drop down menu and bar chart to display media campaign result for each food category. --- refer to Belly button biodiversity
     - add pie chart for food category, food department, food family; store-type, gender, total-children, education, yearly income, member card....
     - add bubble chart for food category vs promotion, bubble size-unit sales. 
-   
+
+
+# Results and Insights:
+1.  The Cost of a Sales Promotion’s is strongly linked to customer demographics
+2.  Membership card Tiers are strongly linked with customer demographics as well
+3.  There’s no relationship between different promotions (ie: Bag Stuffers, You Save Days, etc) and the type of product sold. 
+4.  Store characteristics such  (square feet, store cost, coffee bar, etc.) were strong predictors of store sales
+5.  A promotion’s media type could not be predicted using customer demographics
+6.  Data was used to predict Media Cost; the dashboard represents the cost of media for a Food Marts in 3 states.  Also, the cost of media on its different categories.  Visualizations will be updated as per our findings and to answer all our questions.
+
