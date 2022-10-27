@@ -7,12 +7,20 @@
 - We explored grouping & aggregating  variables in our ML models to positive effect
 - KMeans was not viable. Our dataset refused to cluster
 
+## Data Source
+- 
+
+## Tools
+- 
+
+
 ## Results 
 ### Webpage Overview
 Check out our webpage here: https://foodmart-app.herokuapp.com/
 
 ![Screen Shot 2022-10-26 at 8 57 59 PM](https://user-images.githubusercontent.com/105877888/198187933-bb480342-e652-44e2-a57f-c01362aeab78.png)
 
+### 
 
 
 # Segment 2
