@@ -118,7 +118,7 @@ Food Mart Week 2 Slides .pptx [link](https://docs.google.com/presentation/d/1UI_
   - do queries and visualize in Tableau
   
 ### Visualization: 
-  - Tableau: bar chart, line chart, pie chart, map
+  - Tableau: bar chart, line chart, pie chart, 
   - Javascript and flask: add table to HTML and add filters. ---refer to UFOs
   - Dashboard: 
     - add drop down menu and bar chart to display media campaign result for each food category. --- refer to Belly button biodiversity
