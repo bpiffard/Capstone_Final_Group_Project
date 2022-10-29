@@ -45,5 +45,3 @@ The links below leads to dashboard on the correlation between store sales and pr
 
 
 
-The following link are the visuals that will be used for the final dashboard [link to dashboard](https://public.tableau.com/app/profile/carlos2209/viz/CorrelationBetweenStoreSalesandPromotionCost/CorrelationBetweenStoreSalesandPromotionCost?publish=yes) 
-
