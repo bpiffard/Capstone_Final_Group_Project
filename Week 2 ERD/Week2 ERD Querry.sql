@@ -20,6 +20,7 @@ CREATE TABLE customer_data (
 	PRIMARY KEY (id)
 );
 
+
 select * from customer_data
 
 -- Store Data Table
@@ -87,7 +88,7 @@ order by store_data.store_state
 
 select * from location
 
--- Promotion
+-- Promotion table that only includes media type, cost, sales and cost in millions, brand name and a unique identifier ID.
 
 select customer_data.promotion_name,
 store_data.media_type,
