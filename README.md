@@ -93,4 +93,11 @@
     - add drop down menu and bar chart to display media campaign result for each food category. --- refer to Belly button biodiversity
     - add pie chart for food category, food department, food family; store-type, gender, total-children, education, yearly income, member card....
     - add bubble chart for food category vs promotion, bubble size-unit sales. 
-   
+
+## Summary
+
+🔵 1. Current customers consistent of 12.1% of Golden, 8.7% of Silver, 55.3% of Bronze, 16.1% of Normal membership card. Membership card tiers are strongly linked with customer demographics. With deep learning model, we can predict membership card with accuracy of 0.970. With random forest model, prediction accuracy can be up to 0.982. 
+
+🔵 2. Regardless of gender, average income, and member status, supermarket shows most of customers. This explains why supermarket spend more money on advertisements (highest media cost by store type). Since weekend markdown is the most effective way to stimulate customers to shop. Foodmart supermarket make their most investment on weekend markdown promotion. Somehow, Media cost can be predicted by customer demographics with random forest regressor (RMSE: 0.637). Stores also make different efforts on different food department. 
+
+🔵 3. There aren’t obvious differences between cities on store sales (expect San Francisco and Bellingham). But in the view of media type, store sales are taken big advantages from daily paper. Customer demographics are failed to predict store sales or media cost with multiple linear regression. This might because store sales and media choice are not target on based on specifical customers. Customer dataset is refused to KMeans clustering. The possible reason is customer demographics have low correlations between each other from the result of feature correlation heatmap discovery.
