@@ -96,9 +96,15 @@ There are 49 different types of promotions but in general the costliest in total
 
 - Sales by City and State
 
-This data set is presenting Food Mart metrics in the stat of Washington, Oregon, and California.  Here are the total sales for each city and state:
+This data set is presenting Food Mart metrics in the states of Washington, Oregon, and California.  Here are the total sales for each city and state:
 
-      . WA 
+![image](https://user-images.githubusercontent.com/105381777/198931492-cffae9fb-0bb8-4f4b-9cb4-ab5c3f79fbea.png)
+
+![image](https://user-images.githubusercontent.com/105381777/198932057-e87ba0e5-6a7a-4997-88f9-3e2c72a265ab.png)
+
+
+
+        
 
 
 
