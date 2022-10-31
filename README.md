@@ -33,13 +33,15 @@ The link below leads to dashboard on the relationship between promotion and prod
 ---------------------------------------------------------------------------------------
 
 
-The links below leads to the final dashboards.  There are filters to pick and choose what we eventually want to focus/showcase on. 
+The links below leads to the final dashboards version 1 .  There are filters to pick and choose what we eventually want to focus/showcase on. 
 [link to dashboard](https://public.tableau.com/app/profile/carlos2209/viz/CustomerDemographicsfinaldashboard/CustomerMakeupDashboard?publish=yes)
 
+-------------------------------------------------------------------------------------------
 
 
+Foodmart Demographics Story Board [link to dashboard](https://public.tableau.com/app/profile/carlos2209/viz/FoodMartDemographics/DemographicsStoryForFinal?publish=yes) 
 
-[link to dashboard](https://public.tableau.com/app/profile/carlos2209/viz/CustomerDemographicsfinaldashboard/CustomerDemographicsfinaldashboard?publish=yes)
+
 
 
 
