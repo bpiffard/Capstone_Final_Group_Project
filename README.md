@@ -1,15 +1,6 @@
 
-=======
-# Segment 2
-
-# :star:Google Sildes for presentation in attched in main branch.                                                       
-Food Mart Week 2 Slides .pptx [link](https://docs.google.com/presentation/d/1UI_9pxgMfpl1RURKctoKzbRbYXUVpgZSbE6YeuhFWNs/edit#slide=id.g16f1dbc7249_5_0)
-
-# Segment 1
 
 # Capstone_Final_Group_Project
-
-![foodmart icon](https://user-images.githubusercontent.com/105877888/194212188-13bd50bd-f078-464c-8bbe-8e88598a0667.jpeg)
 
 ## Team communication protocols
 - Green Group Channel in Slack
