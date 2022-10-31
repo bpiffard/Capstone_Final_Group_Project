@@ -100,7 +100,7 @@ This data set is presenting Food Mart metrics in the states of Washington, Orego
 
 ![image](https://user-images.githubusercontent.com/105381777/198931492-cffae9fb-0bb8-4f4b-9cb4-ab5c3f79fbea.png)
 
-![image](https://user-images.githubusercontent.com/105381777/198932057-e87ba0e5-6a7a-4997-88f9-3e2c72a265ab.png)
+![image](https://user-images.githubusercontent.com/105381777/198932578-4bdcdd8d-e110-4426-8dda-1830f5a3689d.png)
 
 
 
