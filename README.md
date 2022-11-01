@@ -42,15 +42,25 @@ Check out our webpage here: https://foodmart-app.herokuapp.com/
 
 #### Customer Demographics
 
+https://public.tableau.com/app/profile/carlos2209/viz/FoodMartDemographics/DemographicsStoryForFinal?publish=yes
+
+
+How many memberships are there?
+
+
 <img width="971" alt="Screen Shot 2022-10-31 at 7 39 06 PM" src="https://user-images.githubusercontent.com/102444078/199146687-900d6519-133c-4ee6-a425-7e6de97132d8.png">
 
 
+
+Who makes up these memberships?
 
 
 <img width="960" alt="Screen Shot 2022-10-31 at 7 39 40 PM" src="https://user-images.githubusercontent.com/102444078/199146753-b3b5cbc9-17a0-4a78-92ee-ee1cc892aa85.png">
 
 
 
+
+Where do they shop?
 
 
 <img width="953" alt="Screen Shot 2022-10-31 at 7 40 10 PM" src="https://user-images.githubusercontent.com/102444078/199146802-cdb713ab-0b7b-46dc-b3c3-d8b275eb2ac8.png">
