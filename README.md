@@ -128,15 +128,15 @@ This data set is presenting Food Mart metrics in the states of Washington, Orego
 
 ## Summary
    - 1.	Membership Card tiers are strongly linked with customer demographics. 
-                With deep learning model, we can predict Membership Card with accuracy of 0.970. 
-                With random forest model, prediction accuracy can be up to 0.982. 
-                Advertising of Membership Card tiers should be targeted via segmentation.
+        With deep learning model, we can predict Membership Card with accuracy of 0.970. 
+        With random forest model, prediction accuracy can be up to 0.982. 
+        Advertising of Membership Card tiers should be targeted via segmentation.
    - 2.	Media Cost can also be predicted by customer demographics with random forest regressor (RMSE: 0.637).  
-                Owners & Investors should pay close attention the makeup of their customers when projecting Sales Promotion budgets.
+        Owners & Investors should pay close attention the makeup of their customers when projecting Sales Promotion budgets.
    - 3.	For media type, Daily Paper advertisements are strongly correlated to store sales, 
-                thus newspaper promotions are highly recommended.
+        thus newspaper promotions are highly recommended.
    - 4.	Supermarkets have the most of customers & spend more money on advertisements (highest Media Cost by store type).
-                 Weekend Markdown is the most effective way to stimulate customers to shop in Supermarkets & 
-                 Supermarket also invests the most money in their Weekend Markdown promotions.
-   - 5.	 Store characteristics (Square Feet, Store Cost, Coffee Bar, Video Store, etc.) are strong predictors of Store Sales. 
-                Investor should expect to invest in a grocery store’s physical features, amenities if they want to maximize store sales.
+        Weekend Markdown is the most effective way to stimulate customers to shop in Supermarkets & 
+        Supermarket also invests the most money in their Weekend Markdown promotions.
+   - 5.	Store characteristics (Square Feet, Store Cost, Coffee Bar, Video Store, etc.) are strong predictors of Store Sales. 
+        Investor should expect to invest in a grocery store’s physical features, amenities if they want to maximize store sales.
