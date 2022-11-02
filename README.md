@@ -23,7 +23,11 @@ After reviewing the contents of the data source, here are some of the questions 
  
 
 ## Tools
-- 
+- SQL
+- Tableau
+- AWS
+- Javascript
+- Machine Learning through Python
 
 
 ## Results 
