@@ -71,7 +71,8 @@ Where do they shop?
 
 #### Food Mart Media Cost, Promotions and Sales
 
-https://public.tableau.com/app/profile/hilda.vazqez/viz/FoodMartMediaCostPromotionsandSales/Story1
+https://public.tableau.com/app/profile/hilda.vazqez/viz/FoodMartMediaCostPromotionsandSales_16672708652530/FoodMartMediaCostPromorionsandSales?publish=yes
+
 -	Media cost by Store Type:
 
 Supermarkets are the costliest but also where more customers shop and in consequence the highest on sales.
@@ -79,7 +80,7 @@ Supermarkets are the costliest but also where more customers shop and in consequ
 ![image](https://user-images.githubusercontent.com/105381777/198899776-652e54a3-f0f6-47f1-be35-2f667e9adfe1.png)
 
 
--	Promotions Cost by Store Type
+-	Promotions Cost and Sales Results by Store 
 
 There are 49 different types of promotions but in general the costliest in total for all Store Types is the Weekend Markdown.  However, this varies by store type:
 
@@ -88,10 +89,6 @@ There are 49 different types of promotions but in general the costliest in total
     . Gourmet Supermarket – Tow Day Sale with a total cost of $62,223    
     . Small Grocery – Sales Galore with a total cost of $7,774
     
-![image](https://user-images.githubusercontent.com/105381777/198899802-bed8f70c-cd87-4f7a-b12d-1c3bd2bbafae.png)
-
--	Top Promotions based on Sales
-
   The cost or promotion will not determine the sales results; however Weekend Markdown has the highest sales in total for all Stores Types 
   
     . Supermarket – Weekend Markdown with a store total sale of $11,000,000
@@ -99,7 +96,7 @@ There are 49 different types of promotions but in general the costliest in total
     . Gourmet Supermarket – Two Day Sale with a store total sale of $3,000,000
     . Small Grocery – Two Day Sale with a store total sale of $510,000
 
-![image](https://user-images.githubusercontent.com/105381777/198900444-13e83742-6387-40f2-8b6d-b3544f2661ee.png)
+![image](https://user-images.githubusercontent.com/105381777/199386747-a720009d-8401-4104-b29c-fd1ce47c48b2.png)
 
 -	Media Cost and Total Sales by Food Department
 
