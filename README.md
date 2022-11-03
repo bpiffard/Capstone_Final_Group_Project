@@ -134,6 +134,7 @@ Where do they shop?
          With deep learning model, we can predict Membership Card with accuracy of 0.970. 
          With random forest model, prediction accuracy can be up to 0.982. 
          Advertising of Membership Card tiers should be targeted via segmentation.
+
     - Media Cost can also be predicted by customer demographics with random forest regressor (RMSE: 0.637).  
          Owners & Investors should pay close attention the makeup of their customers when projecting Sales Promotion budgets.
     - For media type, Daily Paper advertisements are strongly correlated to store sales, 
