@@ -36,6 +36,43 @@ After reviewing the contents of the data source, here are some of the questions 
 
 ### Machine Learning
 
+## *Data Preprocessing* 
+- In preprocessing we elected to Use LabelEncoder for the majority of our models to limit expansion of our dataset. Alternate encoders, such as get_dummies and OneHotEncoder, would have resulted in a combined dataset of over 300 potential features. Additionally we experimented with grouping and aggregating the data to positive effect. For example- grouping by physical store characteristic columns such as store square footage to identify distinct stores and then aggregating certain metrics of those stores to find average promotion costs and average store sales.
+
+## *Feature engineering & selection* 
+- features were categorized by Product, Store, Promotion, Customer & Location. Several of these categories were analyzed individually as well as in combination to investigate feature importance by different categories. Questions such as:
+  - Can customer demographics predict Membership Card Tier?
+  - What Store features are most important for predicting store sales?
+  - Do different stores prefer certain Promotions (promotion_name)?
+  - Can the cost of a saLes promotion be predicted by customer demographic features?
+
+## *Description of how data was split into training and testing sets* 
+  - using sklearn's train_test_split function, the data was split at 75% training data and 25% test data.
+
+## *Explanation of model choice, including limitations and benefits* 
+- Final ML models were RandomForestClassifier, RandomForestRegressor, & LinearRegression. When RandomForestClassifier & LinearRegression were not viable,  RandomForestRegression was very useful for evaluation of continuous variables. 
+
+## *Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)* 
+- Our Deep learning Nearal Network was dropped in favor of RandomForestClassifier which outperformed the Neural network in terms of accuracy and was quicker to execute.
+
+## *How was the model was trained or retrained*
+- RandomForestClassifier models were retrained by increasing the quantity of decision trees which had a positive effect on accuracy & RMSE scores.
+
+## *Description and explanation of model’s confusion matrix, including final accuracy score*
+- RandomForestClassifier modeling across all membership card types (Gold, Silver, Bronze, and Normal) was 94%. As displayed by the following Confusion Matrix, recall was lowest for the Silver Card category. This may be explained by the relatively small size of the Silver Card cohort, compared to the other Membership Card categories.
+![Screen Shot 2022-11-02 at 10 12 33 PM](https://user-images.githubusercontent.com/105818879/199651833-e4d2e7f1-8456-4fd2-b6bc-2d6938bf3cc7.png)
+
+![Screen Shot 2022-11-02 at 10 14 42 PM](https://user-images.githubusercontent.com/105818879/199652021-b79716a8-26b5-4aa7-96c9-db755076c8d3.png)
+
+- Using RandomForestRegressor to analyze Agrocery store's profits based on the stores physical attributes retured a Root Means Square Error of 0.223 indicating that store features have strong predective value when analysing revenue.
+![Screen Shot 2022-11-02 at 10 21 04 PM](https://user-images.githubusercontent.com/105818879/199652576-52f2a888-fd9e-4918-b703-9eca6caedfbc.png)
+
+- It was also observed that the geographical location of these stores was an important feature for predicting the Cost of a sales promotion.
+  - *With* City & State
+  ![Screen Shot 2022-11-02 at 10 26 17 PM](https://user-images.githubusercontent.com/105818879/199653013-90208135-94d1-40e2-8aa7-c9979a5c329d.png)
+
+  - *Without* City & State
+  ![Screen Shot 2022-11-02 at 10 27 19 PM](https://user-images.githubusercontent.com/105818879/199653128-f351653c-9262-476c-95fb-a8afc2ee1bea.png)
 
 
 ### Webpage Overview
