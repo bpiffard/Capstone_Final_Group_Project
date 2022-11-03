@@ -53,7 +53,25 @@
         </div>
         </div>
     </div> 
+    <br>
+    <div class="container"></div>
+    <div class="row">
+    <div class="col-md-12">  
+        <h1 class="display-4" style="color: green; font-size:35px; padding-left: 30px; padding-right: 60px">Guiding Questions:</h1>
+        <p style="color: rgb(50, 50, 59); font-size:25px ; padding-left: 30px; padding-right: 60px">
+            How many stores there are? 
+            In which cities and states these stores are? 
+            Do costumer demographics link to membership card tiers?
+            Is the cost of sales promotions linked to customers demographics?
+            What is media cost, by state, by store type, by food department?
+            Which are top media promotions, the top unit of sales?
+            What are the sales, by department, store, food category?
+        </p>
+    </div>
+    </div>  
+    <br>
     <hr>
+    </div>
     <div class="container-fluid">
         <div class="row">       
             <div class="col-md-3">
@@ -98,6 +116,28 @@
     <div class="container-fluid">
         <div class="row">       
             <div class="col-md-3">
+                <h2>Database</h2>
+            </div>
+            <div class="col-md-5">
+                <li class="nav-item">
+                <h4><a class="nav-link" href="sql_database">SQL</a></h4>
+                </li>
+            </div>
+            <div class="col-md-4">
+                <p>
+                    <img src="static/images/icons8-postgresql-48.png"> 
+                    <a target="_blank" href="https://www.postgresql.org">PostgreSQL</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img src="static/images/icons8-amazon-web-services-48.png"> 
+                    <a target="_blank" href="https://aws.amazon.com">AWS</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="container-fluid">
+        <div class="row">       
+            <div class="col-md-3">
                 <h2>Model</h2>
             </div>
             <div class="col-md-5">
@@ -114,29 +154,12 @@
                 <p>
                     <img src="static/images/icons8-python-48.png"> 
                     <a target="_blank" href="https://www.python.org">Python</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <img src="static/images/icons8-jupyter-48.png"> 
                     <a target="_blank" href="https://jupyter.org">Jupyter</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <img src="static/images/icons8-visual-studio-code-2019-48.png"> 
                     <a target="_blank" href="https://code.visualstudio.com">VS Code</a>
-                </p>
-            </div>
-        </div>
-    </div>
-    <hr>
-    <div class="container-fluid">
-        <div class="row">       
-            <div class="col-md-3">
-                <h2>Database</h2>
-            </div>
-            <div class="col-md-5">
-                <li class="nav-item">
-                <h4><a class="nav-link" href="sql_database">SQL</a></h4>
-                </li>
-            </div>
-            <div class="col-md-4">
-                <p>
-                    <img src="static/images/icons8-postgresql-48.png"> 
-                    <a target="_blank" href="https://www.postgresql.org">PostgreSQL</a>
                 </p>
             </div>
         </div>
@@ -149,7 +172,7 @@
             </div>
             <div class="col-md-5">
                 <li class="nav-item">
-                <h4><a class="nav-link" href="tableau_visualization">Tableau</a></h4>
+                <h4><a class="nav-link" href="tableau_customer">Tableau</a></h4>
                 </li> 
             </div>
             <div class="col-md-4">
@@ -175,8 +198,10 @@
                 <p>
                     <img src="static/images/icons8-github-48.png"> 
                     <a target="_blank" href="https://github.com">GitHub</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <img src="static/images/icons8-slack-new-48.png"> 
                     <a target="_blank" href="https://slack.com">Slack</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <img src="static/images/icons8-zoom-48.png"> 
                     <a target="_blank" href="https://zoom.us">Zoom</a>
                 </p>              
@@ -192,14 +217,23 @@
             <p style="color: rgb(50, 50, 59); font-size:25px ; padding-left: 60px; padding-right: 60px">
                 <!-- <br>&#9989; result
                 <br>&#10062; result -->
-                <br>&#128309; result
-                <br>&#128309; result
-                <br>&#128309; result
-                <br>&#128309; result
-                <br>&#128309; result
-                <br>&#128309; result
-                <br>&#128309; result
-                <br>&#128309; result
+                <br>&#128309; 1.	Membership Card tiers are strongly linked with customer demographics. 
+                With deep learning model, we can predict Membership Card with accuracy of 0.970. 
+                With random forest model, prediction accuracy can be up to 0.982. 
+                Advertising on Membership Card tiers should be targeted via segmentation.
+                <br>
+                <br>&#128309; 2.	Media Cost can also be predicted by customer demographics with random forest regressor (RMSE: 0.637).  
+                Owners & Investors should pay close attention to the makeup of their customers when projecting Sales Promotion budgets.
+                <br>
+                <br>&#128309; 3.	For media type, Daily Paper advertisements are strongly correlated to store sales, 
+                thus newspaper promotions are highly recommended.
+                <br>
+                <br>&#128309; 4.	Supermarkets have the most of customers & spend more money on advertisements (highest Media Cost by store type).
+                 Weekend Markdown is the most effective way to stimulate customers to shop in Supermarkets & 
+                 Supermarket also invests the most money in their Weekend Markdown promotions.
+                <br>
+                <br>&#128309; 5.	 Store characteristics (Square Feet, Store Cost, Coffee Bar, Video Store, etc.) are strong predictors of Store Sales. 
+                Investor should expect to invest in a grocery store’s physical features, amenities if they want to maximize store sales.
             </p>
         </div>
         </div> 

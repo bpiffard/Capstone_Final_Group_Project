@@ -36,9 +36,13 @@ def machine_learning():
 def sql_database():
     return render_template("sql_database.html")
     
-@app.route("/tableau_visualization")
-def tableau_visualization():
-    return render_template("tableau_visualization.html")
+@app.route("/tableau_store")
+def tableau_store():
+    return render_template("tableau_store.html")
+
+@app.route("/tableau_customer")
+def tableau_customer():
+    return render_template("tableau_customer.html")    
 
 @app.route("/our_team")
 def our_team():
